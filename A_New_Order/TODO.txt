@@ -1,0 +1,46 @@
+ToDos for porting to 1.8
+------------------------
+*check lorin karen competition - it seems it doesn't work correctly
+*rename scenaros according to mainline naming convention
+*improve maps
+*fix image paths
+*do workarounds when an appropriate image misses (e.g. attack sprites)
+   *attack end>60
+*add graphics for units
+*Battle of Barnon:
+   *ensure Gawen death - bunch of 3level units from turn 10, unlimitid number of turns
+   *Gawen could'n go far from the fortress
+
+# units speaking in his/her death event
+# unknown scenarios referred to by id
+# macro references in translatable strings
+
+# missing whitespaces in message macro calls
+# macro calls CHECKVER, ANOVER and CHECKGAWEN removed (the definitions for these can be found in ANO for Wesnoth 1.2)
+# Aragwaithe Race.cfg fixed
+# removed undefined ELVISH_RECRUIT (first appearance in ANO for Wesnoth 1.4)
+ syncing recruit= and recruitment_pattern=
+# e.g. "Orcish Archer (archer) doesn't match the recruitment pattern (fighter, fighter, healer, fighter) for its side"
+# e.g. "no healer units recruitable at difficulty NORMAL"
+… *lots* of changes
+… But more investigation is needed:
+What was the original intention and what is best for balancing? Fix recruit= or recruitment_pattern= or both?
+
+- bugfixes to recruit=
+# renamed
+Saurian Tribalist -> Saurian Augur
+Saurian Icecaster -> Saurian Oracle
+Human Ranger -> Ranger,Huntsman (a Human Ranger has a strong attack in melee *and* ranged (with marksman) combat)
+# removed
+Dark Spirit - (its like a faster Spectre with more HP but worse resistances (to be found in Wesnoth 1.0))
+Henchman - (its a level 0 outlaw; advances_to=Thug,Footpad (to be found in Wesnoth 1.0))
+Aragwaith Hunter - (to be found in ANO for Wesnoth 1.2)
+# mispelled
+Aragwaith Swordman -> Aragwaith Swordsman
+
+- unit definitions
+# unknown advancements
+Orcish Shaman has unknown advancements ['Orcish Witch Doctor', 'Orcish Warlock'] <- should be replaced by unit from Son of the Black Eye (Novice Orcish Shaman (HP+1, melee+1) or Orcish Shaman(ranged+1(*2)))
+# missing unit
+Shadow_Mage <- Shadow Mage copied from Liberty
+

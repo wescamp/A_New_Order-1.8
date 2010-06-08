@@ -10,6 +10,8 @@ ToDos for porting to 1.8
 *Battle of Barnon:
    *ensure Gawen death - bunch of 3level units from turn 10, unlimitid number of turns
    *Gawen could'n go far from the fortress
+*Start_of_the_Quest:
+   *ensure only once Gawen tell Lorin "mother"
 
 # units speaking in his/her death event
 # unknown scenarios referred to by id

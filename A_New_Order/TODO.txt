@@ -1,5 +1,6 @@
 ToDos for porting to 1.8
 ------------------------
+*minimize Oracle unit definition, she could not be anyhow recruited (infinity cost, zero movement, stone,...?)
 *check lorin karen competition - it seems it doesn't work correctly
 *rename scenaros according to mainline naming convention
 *improve maps

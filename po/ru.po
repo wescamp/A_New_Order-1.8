@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-06-07 13:18+0200\n"
+"POT-Creation-Date: 2010-06-10 22:24+0200\n"
 "PO-Revision-Date: 2006-04-09 10:33+0400\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.pp.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -213,23 +213,23 @@ msgid ""
 "from release scenario: ' {TEXT} '"
 msgstr ""
 
-#: A_New_Order/macros/ano_macros.cfg:776
+#: A_New_Order/macros/ano_macros.cfg:785
 #, fuzzy
 msgid "The unit $ano_loyal[0].name became LOYAL."
 msgstr "Соединение $ano_loyal[0].user_description стало ПРЕДАННЫМ."
 
 #. [scenario]: id=ano_10
 #. [then]
-#: A_New_Order/macros/ano_macros.cfg:777 A_New_Order/macros/ano_macros.cfg:780
+#: A_New_Order/macros/ano_macros.cfg:786 A_New_Order/macros/ano_macros.cfg:789
 #: A_New_Order/scenarios/ano-10.cfg:25 A_New_Order/scenarios/ano-09.cfg:486
 msgid "loyal"
 msgstr "преданный"
 
-#: A_New_Order/macros/ano_macros.cfg:782
+#: A_New_Order/macros/ano_macros.cfg:791
 msgid "Zero upkeep"
 msgstr "Нулевое содержание"
 
-#: A_New_Order/macros/ano_macros.cfg:790
+#: A_New_Order/macros/ano_macros.cfg:799
 msgid "Scenario notes:"
 msgstr ""
 
@@ -643,10 +643,11 @@ msgstr ""
 "было между нами, но сейчас лишь я - человек, которому ты можешь доверять, и "
 "лишь ты - моя единственная надежда..."
 
-#. [side]: id=Gawen Hagarthen, type=Young Hagarthen
 #. [side]: id=Gawen Hagarthen, type=Hagarthen
+#. [side]: id=Gawen Hagarthen, type=Young Hagarthen
 #. [side]: id=Gawen Hagarthen, type=Akladian Lady
 #. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:209
 #: A_New_Order/scenarios/ano-12.cfg:67 A_New_Order/scenarios/ano-28.cfg:38
 #: A_New_Order/scenarios/ano-29.cfg:97 A_New_Order/scenarios/ano-15a.cfg:27
 #: A_New_Order/scenarios/ano-04.cfg:30 A_New_Order/scenarios/ano-07.cfg:28
@@ -656,14 +657,14 @@ msgstr ""
 #: A_New_Order/scenarios/ano-23macros.cfg:73
 #: A_New_Order/scenarios/ano-21c.cfg:85 A_New_Order/scenarios/ano-27.cfg:27
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:60
-#: A_New_Order/scenarios/ano-14b.cfg:60 A_New_Order/scenarios/ano-25.cfg:202
-#: A_New_Order/scenarios/ano-22.cfg:118 A_New_Order/scenarios/ano-19a.cfg:30
-#: A_New_Order/scenarios/ano-16.cfg:46 A_New_Order/scenarios/ano-26.cfg:41
-#: A_New_Order/scenarios/ano-13.cfg:267 A_New_Order/scenarios/ano-11.cfg:25
-#: A_New_Order/scenarios/ano-24.cfg:58 A_New_Order/scenarios/ano-21b.cfg:25
-#: A_New_Order/scenarios/ano-14c.cfg:23 A_New_Order/scenarios/ano-19c.cfg:40
-#: A_New_Order/scenarios/ano-15b.cfg:24 A_New_Order/scenarios/30_Final.cfg:58
-#: A_New_Order/scenarios/ano-21a.cfg:102 A_New_Order/scenarios/ano-11x.cfg:13
+#: A_New_Order/scenarios/ano-14b.cfg:60 A_New_Order/scenarios/ano-22.cfg:118
+#: A_New_Order/scenarios/ano-19a.cfg:30 A_New_Order/scenarios/ano-16.cfg:46
+#: A_New_Order/scenarios/ano-26.cfg:41 A_New_Order/scenarios/ano-13.cfg:267
+#: A_New_Order/scenarios/ano-11.cfg:25 A_New_Order/scenarios/ano-24.cfg:58
+#: A_New_Order/scenarios/ano-21b.cfg:25 A_New_Order/scenarios/ano-14c.cfg:23
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:102
+#: A_New_Order/scenarios/ano-19c.cfg:40 A_New_Order/scenarios/ano-15b.cfg:24
+#: A_New_Order/scenarios/30_Final.cfg:58 A_New_Order/scenarios/ano-11x.cfg:13
 #: A_New_Order/scenarios/ano-18.cfg:34 A_New_Order/scenarios/ano-18.cfg:224
 #: A_New_Order/scenarios/ano-15.cfg:32 A_New_Order/scenarios/ano-19b.cfg:30
 #: A_New_Order/scenarios/ano-14a.cfg:42
@@ -705,7 +706,7 @@ msgstr "Айри Роти"
 msgid "Reuke Rothe"
 msgstr "Ройке Роти"
 
-#. [unit]: id=Strome Ohavenort, type=Akladian Clanmember
+#. [unit]: id=Strome Ohavenort, type=Akladian Clansman
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:170
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:228
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:274
@@ -713,7 +714,7 @@ msgid "Strome Ohavenort"
 msgstr "Строме Оавенорт"
 
 #. [unit]: id=Reonee, type=Akladian Homeguard
-#. [unit]: id=Reonee, type=Akladian Clanmember
+#. [unit]: id=Reonee, type=Akladian Clansman
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:182
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:239
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:285
@@ -726,14 +727,14 @@ msgid "Aueree"
 msgstr "Ауэри"
 
 #. [unit]: id=Raoke, type=Akladian Warrior
-#. [unit]: id=Raoke, type=Akladian Clanmember
+#. [unit]: id=Raoke, type=Akladian Clansman
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:204
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:250
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:296
 msgid "Raoke"
 msgstr "Раоке"
 
-#. [unit]: id=Oyre, type=Akladian Clanmember
+#. [unit]: id=Oyre, type=Akladian Clansman
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:215
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:261
 msgid "Oyre"
@@ -883,7 +884,7 @@ msgstr ""
 msgid ""
 "I see two good defensive positions here. One is to the north, near the "
 "village; the second is on the hills east from here. Use your troops to cover "
-"your back. Clanmembers are not experienced enough to control terrain next to "
+"your back. Clansmen are not experienced enough to control terrain next to "
 "them, so you have to put them adjacent to one another to block the enemy."
 msgstr ""
 "Здесь я вижу две хорошо защищённых позиции. Одна на севере, недалеко от "
@@ -898,23 +899,26 @@ msgid "Reach the enemy keep with Gawen"
 msgstr "Доведите Гэвена до вражеской крепости."
 
 #. [objective]: condition=lose
+#: A_New_Order/scenarios/25_The_Awakening.cfg:449
 #: A_New_Order/scenarios/ano-12.cfg:190 A_New_Order/scenarios/ano-04.cfg:208
 #: A_New_Order/scenarios/ano-07.cfg:257 A_New_Order/scenarios/ano-17.cfg:327
 #: A_New_Order/scenarios/ano-23macros.cfg:576
 #: A_New_Order/scenarios/ano-27.cfg:585 A_New_Order/scenarios/ano-27.cfg:836
 #: A_New_Order/scenarios/ano-14macros.cfg:8
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:329
-#: A_New_Order/scenarios/ano-25.cfg:436 A_New_Order/scenarios/ano-22.cfg:341
-#: A_New_Order/scenarios/ano-19a.cfg:143 A_New_Order/scenarios/ano-21b.cfg:133
-#: A_New_Order/scenarios/ano-21b.cfg:158 A_New_Order/scenarios/ano-19c.cfg:748
-#: A_New_Order/scenarios/ano-15b.cfg:84 A_New_Order/scenarios/ano-21a.cfg:262
-#: A_New_Order/scenarios/ano-21a.cfg:290 A_New_Order/scenarios/ano-19b.cfg:130
+#: A_New_Order/scenarios/ano-22.cfg:341 A_New_Order/scenarios/ano-19a.cfg:143
+#: A_New_Order/scenarios/ano-21b.cfg:133 A_New_Order/scenarios/ano-21b.cfg:158
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:262
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:290
+#: A_New_Order/scenarios/ano-19c.cfg:748 A_New_Order/scenarios/ano-15b.cfg:84
+#: A_New_Order/scenarios/ano-19b.cfg:130
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:162
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:451
 msgid "Death of Gawen Hagarthen"
 msgstr "Смерть Гэвена Хагартена"
 
 #. [objective]: condition=lose
+#: A_New_Order/scenarios/25_The_Awakening.cfg:457
 #: A_New_Order/scenarios/ano-10.cfg:182 A_New_Order/scenarios/ano-04.cfg:212
 #: A_New_Order/scenarios/ano-17.cfg:335
 #: A_New_Order/scenarios/ano-23macros.cfg:584
@@ -922,11 +926,12 @@ msgstr "Смерть Гэвена Хагартена"
 #: A_New_Order/scenarios/ano-27.cfg:589 A_New_Order/scenarios/ano-27.cfg:840
 #: A_New_Order/scenarios/ano-14macros.cfg:18
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:333
-#: A_New_Order/scenarios/ano-25.cfg:444 A_New_Order/scenarios/ano-22.cfg:349
-#: A_New_Order/scenarios/ano-05b.cfg:108 A_New_Order/scenarios/ano-09.cfg:141
-#: A_New_Order/scenarios/ano-21b.cfg:141 A_New_Order/scenarios/ano-21b.cfg:166
-#: A_New_Order/scenarios/ano-19c.cfg:756 A_New_Order/scenarios/ano-21a.cfg:270
-#: A_New_Order/scenarios/ano-21a.cfg:298 A_New_Order/scenarios/ano-05a.cfg:107
+#: A_New_Order/scenarios/ano-22.cfg:349 A_New_Order/scenarios/ano-05b.cfg:108
+#: A_New_Order/scenarios/ano-09.cfg:141 A_New_Order/scenarios/ano-21b.cfg:141
+#: A_New_Order/scenarios/ano-21b.cfg:166
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:270
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:298
+#: A_New_Order/scenarios/ano-19c.cfg:756 A_New_Order/scenarios/ano-05a.cfg:107
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:455
 msgid "Death of Lady Lorin"
 msgstr "Смерть леди Лорин"
@@ -1234,7 +1239,7 @@ msgstr ""
 "отдохнуть прежде, чем мы продолжим путь."
 
 #. [unit]: id=Messenger, type=Akladian Homeguard
-#. [unit]: type=Akladian Clanmember, id=Messenger
+#. [unit]: type=Akladian Clansman, id=Messenger
 #: A_New_Order/scenarios/ano-23macros.cfg:318
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:279
 msgid "Messenger"
@@ -1315,12 +1320,12 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:316
+#, fuzzy
 msgid ""
-"Go and take the villages to have more gold. Recruit as many Clanmembers as "
-"you can. Most of them will probably die, but the rest may become good "
-"fighters. Do not forget to recall our soldiers, too. Be careful, do not "
-"hurry without necessity. To cure wounded units you may use wiseman or "
-"villages."
+"Go and take the villages to have more gold. Recruit as many Clansmen as you "
+"can. Most of them will probably die, but the rest may become good fighters. "
+"Do not forget to recall our soldiers, too. Be careful, do not hurry without "
+"necessity. To cure wounded units you may use wiseman or villages."
 msgstr ""
 "Иди и захватывай деревни, чтобы получить как можно больше золота. Ставь в "
 "строй столько людей кланов, сколько сможешь. Большинство из них погибнет, но "
@@ -1497,7 +1502,7 @@ msgstr "Бедняга!"
 #, fuzzy
 msgid ""
 "He had an honorable death. Do not let fear for losing units paralyse you; "
-"There are a lot more clanmembers ready to fight for you."
+"There are a lot more clansmen ready to fight for you."
 msgstr ""
 "Он принял благородную смерть. Не связывай себе руки страхом потерять людей. "
 "Многие члены клана готовы умереть за тебя."
@@ -1674,14 +1679,16 @@ msgid "Kill enemy leader."
 msgstr "Убить вражеского лидера."
 
 #. [objective]: condition=lose
+#: A_New_Order/scenarios/25_The_Awakening.cfg:453
 #: A_New_Order/scenarios/ano-12.cfg:198 A_New_Order/scenarios/ano-07.cfg:261
 #: A_New_Order/scenarios/ano-17.cfg:331 A_New_Order/scenarios/ano-27.cfg:597
 #: A_New_Order/scenarios/ano-27.cfg:848
 #: A_New_Order/scenarios/ano-14macros.cfg:4
-#: A_New_Order/scenarios/ano-25.cfg:440 A_New_Order/scenarios/ano-19a.cfg:147
-#: A_New_Order/scenarios/ano-21b.cfg:137 A_New_Order/scenarios/ano-21b.cfg:162
+#: A_New_Order/scenarios/ano-19a.cfg:147 A_New_Order/scenarios/ano-21b.cfg:137
+#: A_New_Order/scenarios/ano-21b.cfg:162
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:266
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:294
 #: A_New_Order/scenarios/ano-19c.cfg:752 A_New_Order/scenarios/ano-15b.cfg:80
-#: A_New_Order/scenarios/ano-21a.cfg:266 A_New_Order/scenarios/ano-21a.cfg:294
 #: A_New_Order/scenarios/ano-19b.cfg:134
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:166
 msgid "Death of Ruvio"
@@ -1967,6 +1974,1166 @@ msgstr "Кажется здесь у разбойников небольшой �
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:391
 msgid "You receive 50 golden pieces."
 msgstr "Вы нашли 50 золотых."
+
+#. [scenario]: id=21_Abducted_Bride
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:3
+msgid "Abducted Bride"
+msgstr "Похищенная невеста"
+
+#. [scenario]: id=21_Abducted_Bride
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:9
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:35
+msgid "Wait, do not die yet! I want you to answer few question first!"
+msgstr ""
+
+#. [scenario]: id=21_Abducted_Bride
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:10
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:36
+msgid ""
+"You have defeated me, so I will grant you your wish. What do you want to "
+"know?"
+msgstr ""
+
+#. [event]
+#. [scenario]: id=21_Abducted_Bride
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:13
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:39
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:404
+msgid "Please tell me..."
+msgstr ""
+
+#. [event]
+#. [scenario]: id=21_Abducted_Bride
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:14
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:405
+msgid "Why you have kidnapped this poor girl?"
+msgstr ""
+
+#. [event]
+#. [scenario]: id=21_Abducted_Bride
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:15
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:41
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:406
+msgid "What are plans of king Buffin?"
+msgstr ""
+
+#. [event]
+#. [scenario]: id=21_Abducted_Bride
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:16
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:42
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:407
+msgid "What do you know about situation in Vakladia?"
+msgstr ""
+
+#. [event]
+#. [scenario]: id=21_Abducted_Bride
+#: A_New_Order/scenarios/ano-20.cfg:280
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:17
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:43
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:408
+#: A_New_Order/scenarios/ano-18.cfg:154 A_New_Order/scenarios/ano-18.cfg:239
+#: A_New_Order/scenarios/ano-18.cfg:293 A_New_Order/scenarios/ano-18.cfg:394
+msgid "Do you know something about mage Deorien?"
+msgstr "Ты знаешь что-нибудь о маге Деориене?"
+
+#. [event]
+#. [scenario]: id=ano_12
+#. [scenario]: id=ano_17
+#. [scenario]: id=21_Abducted_Bride
+#: A_New_Order/scenarios/25_The_Awakening.cfg:712
+#: A_New_Order/scenarios/25_The_Awakening.cfg:740
+#: A_New_Order/scenarios/ano-12.cfg:12 A_New_Order/scenarios/ano-20.cfg:282
+#: A_New_Order/scenarios/ano-20.cfg:331 A_New_Order/scenarios/ano-20.cfg:373
+#: A_New_Order/scenarios/ano-17.cfg:45 A_New_Order/scenarios/ano-17.cfg:80
+#: A_New_Order/scenarios/ano-14b.cfg:395 A_New_Order/scenarios/ano-14b.cfg:402
+#: A_New_Order/scenarios/ano-14b.cfg:442 A_New_Order/scenarios/ano-14b.cfg:449
+#: A_New_Order/scenarios/ano-20macros.cfg:396
+#: A_New_Order/scenarios/ano-20macros.cfg:402
+#: A_New_Order/scenarios/ano-20macros.cfg:409
+#: A_New_Order/scenarios/ano-20macros.cfg:419
+#: A_New_Order/scenarios/ano-20macros.cfg:425
+#: A_New_Order/scenarios/ano-20macros.cfg:432
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:18
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:44
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:409
+#: A_New_Order/scenarios/ano-18.cfg:157 A_New_Order/scenarios/ano-18.cfg:242
+#: A_New_Order/scenarios/ano-18.cfg:296 A_New_Order/scenarios/ano-18.cfg:397
+msgid "That's all I wanted to know."
+msgstr "Это всё, что мне нужно было узнать."
+
+#. [scenario]: id=21_Abducted_Bride
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:21
+msgid "Because I wanted too. I don't have to explain to anyone."
+msgstr ""
+
+#. [scenario]: id=21_Abducted_Bride
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:23
+msgid ""
+"Why should I tell you? This is secret and though you gave me good fight and "
+"honourable death, I can't tell you."
+msgstr ""
+
+#. [event]
+#. [scenario]: id=21_Abducted_Bride
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:25
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:419
+msgid ""
+"Vakladia is finished. The whole country is in chaos. I think Bor Cryne, one "
+"of their lords, wants to declare himself king, but not many Akladians living "
+"there will recognise him. Only Hagarthens can be kings."
+msgstr ""
+
+#. [event]
+#. [scenario]: id=21_Abducted_Bride
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:27
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:53
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:421
+msgid "I don't know that name."
+msgstr ""
+
+#. [scenario]: id=21_Abducted_Bride
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:40
+msgid "Where your lord keeps kidnapped girl?"
+msgstr ""
+
+#. [scenario]: id=21_Abducted_Bride
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:47
+msgid "North from his castle, in small cage."
+msgstr ""
+
+#. [scenario]: id=21_Abducted_Bride
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:49
+msgid "I don't know. What are king's plans only king will know."
+msgstr ""
+
+#. [scenario]: id=21_Abducted_Bride
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:51
+msgid ""
+"Their king is dead, orcs are ravaging though their land, their country is in "
+"chaos.. This are hard times for worthy people. Easkladia lies in ruins, and "
+"now Vakladia goes down too.. We all wait for messiah who will end this "
+"gruelling times."
+msgstr ""
+
+#. [part]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:67
+msgid ""
+"The peasants told Gawen that the lord of the neighbouring territory, Bark O "
+"Skagrrak, kidnapped a young girl trying to force her to the marriage. The "
+"decision to save the poor girl came natural for Gawen."
+msgstr ""
+"Крестьяне расказали Гэвену, что соседний лорд Барк О'Скагррак похитил юную "
+"девушку, чтобы заставить её выйти за него замуж. Естественно, Гэвен принял "
+"решение спасти бедную девушку."
+
+#. [side]: id=Rurk Skagrrae, type=Akladian Lord
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:113
+msgid "Rurk Skagrrae"
+msgstr "Рурк Скагрре"
+
+#. [side]: id=Bark O Skagrrak, type=Akladian Lord
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:166
+msgid "Bark O Skagrrak"
+msgstr "Барк О'Скагррак"
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:234
+msgid "Rurk, report about your preparations."
+msgstr "Рурк, доложи о готовности."
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:235
+msgid ""
+"We are ready, my lord. Where will we be going? Are the gossip I've heard "
+"about the hordes on our eastern border true?"
+msgstr ""
+"Мы готовы, милорд. Куда направляться? Слухи об ордах на нашей восточной "
+"границе правда?"
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:236
+msgid ""
+"What gossip? Ghosts invading the castles? Rurk, I thought you are a "
+"reasonable man. Ghosts and undead are stories for Wesnothians, I think king "
+"Buffin is making this gossip himself to scare Wesnothians and to prevent "
+"them from thinking about the next rebellion."
+msgstr ""
+"Что за слухи? Призраки захватили замок? Рурк, я считал тебя разумным "
+"человеком. Призраки и мертвецы это веснотские байки. Скорее всего король "
+"Баффин сам распускает эти слухи, чтобы веснотцы больше боялись и меньше "
+"думали о новом восстании."
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:237
+msgid "So why are we preparing the army?"
+msgstr "Так для чего тогда мы собрали армию?"
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:238
+msgid "You don't have to know. You have to fulfill my orders."
+msgstr "Это не твоего ума дело. Просто выполняй мои приказы."
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:239
+msgid ""
+"They keep that poor girl somewhere north from their castle. We have to "
+"release her and help her return to her father."
+msgstr ""
+"Они держат бедную девушку на севере от замка. Нужно освободить её и "
+"проводить к отцу."
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:240
+msgid "... aaand of course we have to kill all the bastards who kidnapped her."
+msgstr "... и конечно нужно перебить ублюдков, которые её выкрали."
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:241
+msgid "This isn't necessary."
+msgstr "Это не обязательно."
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:242
+msgid "I know."
+msgstr "Я знаю."
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:244
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:247
+msgid ""
+"My Lord, this seems to be perfect task for Elvish Avenger. I may sneak right "
+"to the cage and free that girl!"
+msgstr ""
+"Милорд, похоже здесь есть работа для эльфийских мстителей. Я могу "
+"прокрасться прямо к темнице и освободить девушку!"
+
+#. [objective]: condition=win
+#: A_New_Order/scenarios/ano-23macros.cfg:568
+#: A_New_Order/scenarios/ano-22.cfg:333 A_New_Order/scenarios/ano-19a.cfg:135
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:254
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:282
+#: A_New_Order/scenarios/ano-19b.cfg:122
+msgid "Kill all enemy leaders OR"
+msgstr "Убейте всех вражеских лидеров OR"
+
+#. [objective]: condition=win
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:258
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:286
+msgid ""
+"Release peasant girl which is kept in a cage and move her to the northern "
+"edge of the map."
+msgstr ""
+"Освободите крестьянскую девушку из темницы и проведите её к северному краю "
+"карты."
+
+#. [objective]: condition=lose
+#: A_New_Order/scenarios/25_The_Awakening.cfg:461
+#: A_New_Order/scenarios/ano-23macros.cfg:580
+#: A_New_Order/scenarios/ano-27.cfg:593 A_New_Order/scenarios/ano-27.cfg:844
+#: A_New_Order/scenarios/ano-22.cfg:345 A_New_Order/scenarios/ano-21b.cfg:145
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:274
+msgid "Death of Deorien"
+msgstr "Смерть Деориена"
+
+#. [unit]: id=Euridica, type=Peasant girl
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:319
+msgid "Euridica"
+msgstr "Эвридика"
+
+#. [event]
+#: A_New_Order/scenarios/ano-14d.cfg:213 A_New_Order/scenarios/ano-14d.cfg:248
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:327
+msgid "Thank you! Thank you!"
+msgstr "Спасибо! Спасибо!"
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:328
+msgid ""
+"Don't thank us, it's not over yet. You have to escape. I guess we can escape "
+"to the north."
+msgstr ""
+"Не стоит благодарностей. Ты должна бежать. Думаю, бесопаснее всего идти на "
+"север."
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:329
+msgid "Move peasant girl to the northern edge of the map."
+msgstr "Доведите крестьянку до северного края карты."
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:340
+msgid ""
+"Thank you once again! Now I can go to my village, to my family and fiance!"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:347
+msgid "Our task here is finished. Should we withdraw now, my lord?"
+msgstr ""
+
+#. [event]
+#. [else]
+#: A_New_Order/scenarios/ano-15a.cfg:186 A_New_Order/scenarios/ano-20.cfg:149
+#: A_New_Order/scenarios/ano-20.cfg:168 A_New_Order/scenarios/ano-20.cfg:185
+#: A_New_Order/scenarios/ano-20.cfg:204 A_New_Order/scenarios/ano-20.cfg:228
+#: A_New_Order/scenarios/ano-14d.cfg:157 A_New_Order/scenarios/ano-14d.cfg:209
+#: A_New_Order/scenarios/ano-14d.cfg:244 A_New_Order/scenarios/ano-14b.cfg:311
+#: A_New_Order/scenarios/ano-19a.cfg:157 A_New_Order/scenarios/ano-13.cfg:382
+#: A_New_Order/scenarios/ano-13.cfg:406 A_New_Order/scenarios/ano-13.cfg:442
+#: A_New_Order/scenarios/ano-13.cfg:726 A_New_Order/scenarios/ano-13.cfg:756
+#: A_New_Order/scenarios/ano-13.cfg:785 A_New_Order/scenarios/ano-21b.cfg:176
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:348
+#: A_New_Order/scenarios/ano-18.cfg:93 A_New_Order/scenarios/ano-18.cfg:115
+#: A_New_Order/scenarios/ano-18.cfg:134 A_New_Order/scenarios/ano-18.cfg:180
+#: A_New_Order/scenarios/ano-18.cfg:309 A_New_Order/scenarios/ano-18.cfg:330
+#: A_New_Order/scenarios/ano-18.cfg:412 A_New_Order/scenarios/ano-19b.cfg:144
+#: A_New_Order/scenarios/ano-14a.cfg:392 A_New_Order/scenarios/ano-14e.cfg:328
+msgid "Yes, definitely."
+msgstr "Конечно же."
+
+#. [event]
+#. [else]
+#: A_New_Order/scenarios/ano-15a.cfg:187 A_New_Order/scenarios/ano-20.cfg:150
+#: A_New_Order/scenarios/ano-20.cfg:169 A_New_Order/scenarios/ano-20.cfg:186
+#: A_New_Order/scenarios/ano-20.cfg:205 A_New_Order/scenarios/ano-20.cfg:229
+#: A_New_Order/scenarios/ano-14d.cfg:158 A_New_Order/scenarios/ano-14b.cfg:312
+#: A_New_Order/scenarios/ano-19a.cfg:158 A_New_Order/scenarios/ano-13.cfg:383
+#: A_New_Order/scenarios/ano-13.cfg:407 A_New_Order/scenarios/ano-13.cfg:443
+#: A_New_Order/scenarios/ano-13.cfg:727 A_New_Order/scenarios/ano-13.cfg:757
+#: A_New_Order/scenarios/ano-13.cfg:786 A_New_Order/scenarios/ano-21b.cfg:177
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:349
+#: A_New_Order/scenarios/ano-18.cfg:94 A_New_Order/scenarios/ano-18.cfg:116
+#: A_New_Order/scenarios/ano-18.cfg:135 A_New_Order/scenarios/ano-18.cfg:181
+#: A_New_Order/scenarios/ano-18.cfg:310 A_New_Order/scenarios/ano-18.cfg:331
+#: A_New_Order/scenarios/ano-18.cfg:413 A_New_Order/scenarios/ano-19b.cfg:145
+#: A_New_Order/scenarios/ano-14a.cfg:393 A_New_Order/scenarios/ano-14e.cfg:329
+msgid "Well, maybe not."
+msgstr "Ну, может и нет."
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:367
+msgid "Father! Father! I can't see!"
+msgstr "Папа! Папа! Я ничего не вижу!"
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:368
+msgid "Oh no! We have failed our mission!"
+msgstr "О нет! Мы всё испортили!"
+
+#. [event]
+#: A_New_Order/scenarios/ano-22.cfg:598 A_New_Order/scenarios/ano-22.cfg:661
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:376
+msgid ""
+"Everything is lost! The reinforcements for our enemies arrived! We have no "
+"chance now to win!"
+msgstr "Всё потеряно! К нашим врагам пришла помощь! Теперь нам не победить!"
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:381
+msgid "The poor girl is saved and we may now continue our quest."
+msgstr "Несчастная девушка спасена. Мы можем вернуться к нашему заданию."
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:382
+msgid ""
+"Yes - Gawen Hagarthen, great future waits for you. Do not let it wait for "
+"too long."
+msgstr ""
+"Да, Гэвен Хагартен. Тебя ждёт великое будущее. Не заставляй ждать слишком "
+"долго."
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:392
+msgid ""
+"Welcome, noble Bark O Skagrrak. My name is Lorin of Gallorae. Some call me "
+"She-wolf of Haeltin. Have you heard about me?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:394
+msgid ""
+"Yes.. I've heard about you. Hag wife of Hagarthen,  drab harlot from Vattin."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:395
+msgid ""
+"How funny a man you are, Bark. So willing to mock and flout. I wonder "
+"whether you will be equally ready to die."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:396
+msgid "Mother, please..."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:397
+msgid ""
+"You've heard how he called me? Bark O Skagrrak, my name is Lorin from "
+"Gallorae clan. And this is knife from Lorin. Say hello to it."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:398
+msgid "You think I will be.. AAAARGH!"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:413
+msgid ""
+"She is so beautiful... I want her for wife or slave, for whole eternity."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:415
+msgid "Why should I tell you? This is secret of my king."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:416
+msgid ""
+"Secret? I love secrets! I'm a woman, you know. Please share it with me. "
+"Preeeetty pleaaaase!"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:417
+msgid ""
+"Aaargh! Stop it! I will tell you! King is preparing to invade the Vakladia "
+"and claim the throne in Vattin. It is empty and it seems that no one will "
+"oppose Buffin. The two brothers in Guilcorta are now too busy, so it's "
+"perfect opportunity. The army is ready already."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/21_Abducted_Bride.cfg:468
+msgid "Rats! They are more dangerous that I thought! Bring the reinforcements!"
+msgstr "Крысы! Они сильнее чем я думал! Вызывайте помощь!"
+
+#. [scenario]: id=25_The_Awakening
+#: A_New_Order/scenarios/25_The_Awakening.cfg:3
+msgid "The Awakening"
+msgstr "Пробуждение"
+
+#. [scenario]: id=25_The_Awakening
+#: A_New_Order/scenarios/25_The_Awakening.cfg:12
+msgid "My Lord! My lord is dead!"
+msgstr ""
+
+#. [scenario]: id=25_The_Awakening
+#: A_New_Order/scenarios/25_The_Awakening.cfg:13
+msgid "Well, noble lord, do you think I proved I am worthy to be your king?"
+msgstr ""
+
+#. [scenario]: id=25_The_Awakening
+#: A_New_Order/scenarios/25_The_Awakening.cfg:14
+msgid "Yes, you did."
+msgstr ""
+
+#. [scenario]: id=25_The_Awakening
+#. [event]
+#. [scenario]: id=ano_22
+#. [scenario]: id=ano_14_saorduc
+#: A_New_Order/scenarios/25_The_Awakening.cfg:15
+#: A_New_Order/scenarios/ano-15a.cfg:128
+#: A_New_Order/scenarios/ano-23macros.cfg:17
+#: A_New_Order/scenarios/ano-22.cfg:76 A_New_Order/scenarios/ano-22.cfg:84
+#: A_New_Order/scenarios/ano-22.cfg:99 A_New_Order/scenarios/ano-22.cfg:456
+#: A_New_Order/scenarios/ano-20macros.cfg:355
+#: A_New_Order/scenarios/ano-14e.cfg:10
+msgid "Well..."
+msgstr "Ну..."
+
+#. [scenario]: id=25_The_Awakening
+#: A_New_Order/scenarios/25_The_Awakening.cfg:16
+msgid "Will you then stop the fight and join us?"
+msgstr ""
+
+#. [scenario]: id=25_The_Awakening
+#: A_New_Order/scenarios/25_The_Awakening.cfg:17
+msgid "It's a shame then I have to kill you."
+msgstr ""
+
+#. [scenario]: id=25_The_Awakening
+#: A_New_Order/scenarios/25_The_Awakening.cfg:21
+msgid "I will be honoured to fight at your side, my king."
+msgstr ""
+
+#. [scenario]: id=25_The_Awakening
+#: A_New_Order/scenarios/25_The_Awakening.cfg:34
+#: A_New_Order/scenarios/25_The_Awakening.cfg:173
+msgid ""
+"Long live our king Gawen Haldric! It will be honour to fight for you, my "
+"king!"
+msgstr ""
+"Да здравствует наш король Гэвен Хальдрик! Я буду счастлив умереть за тебя, "
+"мой король!"
+
+#. [scenario]: id=25_The_Awakening
+#: A_New_Order/scenarios/25_The_Awakening.cfg:36
+msgid "Death to enemies of our king! Long live our king Gawen Haldric!"
+msgstr "Смерть врагам нашего короля! Да здравствует король Гэвен Хальдрик!"
+
+#. [unit]: type=Akladian Clansman, id={CLANSMAN_NAME}
+#: A_New_Order/scenarios/25_The_Awakening.cfg:163
+msgid "Akladian Peasant"
+msgstr "Акладианский крестьянин"
+
+#. [part]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:178
+msgid ""
+"People of Vakladia! People of Wesnoth! Long you have been waiting for "
+"messiah to come. Long you have been waiting for a new king to unite the "
+"nation and to end the wars plaguing the country. The orcs are ravaging "
+"unopposed through the land, murdering and raping both Akladians and "
+"Wesnothians, invited here by the traitors sick from the hatred."
+msgstr ""
+"Народ Вакладии! Народ Веснота! Вы долго ждали прихода мессии. Вы долго ждали "
+"короля, который объединит народы и прекратит войны, разоряющие ваши страны. "
+"Орки, призванные ослепшими от ненависти предателями, безнаказанно опустошают "
+"ваши земли, убивают и насилуют акладиан, и веснотцев"
+
+#. [part]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:182
+msgid ""
+"You've heard the stories about undead invading neighbouring kingdom of "
+"Okladia. Some of you lost all the hope. But do not be worried, for there is "
+"a man, who is sent here to stop the undead menace and to defeat the evil "
+"inside the very heart of our country. "
+msgstr ""
+"Вы слышали рассказы о мертвецах, захвативших королевство Окладия. Некоторые "
+"из вас потеряли надежду. Не бойтесь! Есть человек, который послан нам, чтобы "
+"остановить мертвецов и поразить зло, рождённое в самом сердце вашей страны!"
+
+#. [part]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:186
+msgid ""
+"You've heard about him. Son of Akladian king and Wesnothian queen. Great "
+"warrior and great leader. Let him know you want him to come here and take "
+"his crown. All hail the king! All hail the messiah! All hail Gawen Haldric "
+"Hagarthen!"
+msgstr ""
+"Вы знаете его. Сын акладианского короля и веснотской королевы. Великий воин "
+"и великий правитель. Дайте знать, что вы желаете, чтобы он пришёл и надел "
+"корону. Славьте короля! Славьте мессию! Славьте Гэвена Хальдрика Хагартена!"
+
+#. [side]: id=Huon Ryedric, type=General
+#. [unit]: id=Huon Ryedric, type=General
+#. [unit]: id=Huon Ryedric, type=Sergeant
+#: A_New_Order/scenarios/25_The_Awakening.cfg:221
+#: A_New_Order/scenarios/ano-28.cfg:101 A_New_Order/scenarios/ano-15a.cfg:53
+#: A_New_Order/scenarios/ano-27.cfg:38 A_New_Order/scenarios/ano-26.cfg:60
+#: A_New_Order/scenarios/ano-11.cfg:48 A_New_Order/scenarios/ano-24.cfg:68
+#: A_New_Order/scenarios/ano-15.cfg:55
+msgid "Huon Ryedric"
+msgstr "Хуон Райдрик"
+
+#. [side]: id=Barhoon Urk, type=Orcish Warlord
+#: A_New_Order/scenarios/25_The_Awakening.cfg:252
+msgid "Barhoon Urk"
+msgstr "Бархун Урк"
+
+#. [side]: id=Hoyre O Barnone, type=Akladian Lord
+#: A_New_Order/scenarios/25_The_Awakening.cfg:283
+#: A_New_Order/scenarios/ano-04.cfg:40 A_New_Order/scenarios/ano-14a.cfg:83
+msgid "Hoyre O Barnone"
+msgstr "Ойре О'Барнон"
+
+#. [side]: id=Bar Urien, type=Akladian Lord
+#: A_New_Order/scenarios/25_The_Awakening.cfg:340
+msgid "Bar Urien"
+msgstr "Бар Уриен"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:415
+msgid "Are there any news from Bor Cryne?"
+msgstr "Есть известия от Бора Крайна?"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:416
+msgid "Nothing new, my lord."
+msgstr "Ничего нового, милорд."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:417
+msgid "He should already be here! Where is he?"
+msgstr "Он уже должен быть здесь! Где он?"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:418
+msgid "My lord... This man, they call a messiah.."
+msgstr "Милорд... Этот человек, которого называют мессией..."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:419
+msgid ""
+"This underling! Creature who has usurped the holy name and who will be "
+"punished by God!"
+msgstr ""
+"Дикарь! Ублюдок, узурпировавший священное имя, который должен понести кару "
+"Господню!"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:420
+msgid "But.. What about if he really IS messiah?"
+msgstr "Но... Что есть он В САМОМ ДЕЛЕ мессия?"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:421
+msgid ""
+"There is no question about it. Believe me, Bar Urien, I was hearing to "
+"spirits since my youth and God had sent me many messages. Gawen is not "
+"messiah. He is mixling, who is unworthy of even honourable death."
+msgstr ""
+"Нечего обсуждать. Верь мне, Бар Уриен, я слышу духов с самого детства, и "
+"Господь посыслал мне много знаков. Гэвен не мессия. Он полукровка, который "
+"не заслуживает даже достойной смерти."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:422
+msgid "But, I thought, let's just assume for the moment he IS..."
+msgstr ""
+"Но мне кажется, если хотя бы на мгновение представить, что он "
+"ДЕЙСТВИТЕЛЬНО..."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:423
+msgid ""
+"Bar, you are fine warrior and you were serving our clan loyally. But leave "
+"thinking to me."
+msgstr ""
+"Бар, ты отличный воин и преданно служишь своему клану. Оставь размышления "
+"мне."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:424
+msgid "But the Oracle..."
+msgstr "Но Оракул..."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:425
+msgid ""
+"There is no 'but'. I have long suspected the Oracle is tool of the evil, not "
+"God's."
+msgstr ""
+"Никаких \"но\". Я давно подозревал, что Оракул - орудие дьявола, а не Бога."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:426
+msgid ""
+"I don't want to interrupt you your interesting discussion, but _I_ think you "
+"will have chance to ask this Gawen directly about everything."
+msgstr ""
+"Не хочу прерывать вашу увлекательную беседу, но ЛИЧНО Я думаю, что вы сейча "
+"всё сможете узнать у Гэвена Хагартена лично."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:427
+msgid ""
+"Akladians - open the way for me and my army. I am your rightful king, I am "
+"messiah, the hand of God on this earth. Whoever opposes me opposes the God."
+msgstr ""
+"Акладианы! Дайте дорогу мне и моей армии. Я ваш законный король. Я мессия, "
+"рука господня на земле. Кто против меня, тот против Господа!"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:428
+msgid ""
+"Stop this blasphemies, foul mixling! You are nothing but a flabby underling."
+msgstr "Хватит болтать, паршивый полукровка! Ты просто дикарь-задохлик."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:430
+msgid ""
+"You already have forgot how you were running from me, reverend Hoyre? Two "
+"times you were fighting me; This time you will be dead on the battlefield, "
+"unless you will recognise me as your king."
+msgstr ""
+"А ты уже забыл как убегал от меня, уважаемый Ойре? Дважды ты сражался со "
+"мной. Теперь ты останешься лежать на поле боя или признаешь меня своим "
+"королём."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:432
+msgid "I am your king, Hoyre. Admit that or I will be forced to kill you."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:434
+msgid ""
+"My king? My king, you? Never! I will rip your heart off! I will cut your "
+"hands and feed the crows with them!"
+msgstr ""
+"Королём? Тебя - своим королём? Никогда! Я вырежу твоё сердце! Я отрублю тебе "
+"руки и скормлю их воронам!"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:435
+msgid ""
+"My lord, Bor Cryne may be just not far away from here. It isn't wise to "
+"fight alone against rebels' army."
+msgstr ""
+"Милорд, возможно Бор Крайн уже недалеко. Возможно мудрее будет дождаться его "
+"и не вступать в битву с бунтовщиками малыми силами."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:436
+msgid ""
+"What about you, noble lord? Will you oppose your king and messiah declared "
+"by the Oracle?"
+msgstr ""
+"А ты что скажешь, благородный лорд? Ты тоже против своего короля и мессии, "
+"провозглашённого Оракулом?"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:437
+msgid ""
+"I don't know what to think. But there IS one way to determine whether you "
+"are really what you claim to be. If you will be able to defeat us.. "
+msgstr ""
+"Даже не знаю что думать. Но ЕСТЬ один способ доказать, что ты именно тот за "
+"кого себя выдаёшь. Если ты сможешь победить нас..."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:438
+msgid ""
+"By the way, Gawen, you started to be really convincing in your role. You "
+"seem to like it, despite what you were telling earlier."
+msgstr ""
+"Кстати, Гэвен, ты начал довольно убедительно смотреться в новой роли. Тебе "
+"это нравится несмотря на всё, что ты говорил раньше."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:439
+msgid "Stop this talk. We have to kill our enemies. To arms!"
+msgstr "Хватит болтать. Мы должны уничтожить врага. К оружию!"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:440
+msgid "Yeah! OH MY GOD, I am agreeing with an underling!"
+msgstr ""
+"Да!\n"
+"О, БОЖЕ МОЙ, я соглашаюсь с дикарём!"
+
+#. [objective]: condition=win
+#: A_New_Order/scenarios/25_The_Awakening.cfg:445
+#: A_New_Order/scenarios/ano-04.cfg:204 A_New_Order/scenarios/ano-14d.cfg:128
+#: A_New_Order/scenarios/ano-14d.cfg:139 A_New_Order/scenarios/ano-27.cfg:581
+#: A_New_Order/scenarios/ano-27.cfg:832 A_New_Order/scenarios/ano-05b.cfg:104
+#: A_New_Order/scenarios/ano-21b.cfg:129 A_New_Order/scenarios/ano-21b.cfg:154
+#: A_New_Order/scenarios/ano-19c.cfg:740 A_New_Order/scenarios/ano-15b.cfg:76
+#: A_New_Order/scenarios/ano-05a.cfg:103 A_New_Order/scenarios/ano-14e.cfg:170
+#: A_New_Order/scenarios/ano-14e.cfg:181
+msgid "Kill all enemy leaders"
+msgstr "Убейте всех вражеских лидеров"
+
+#. [objective]: condition=lose
+#: A_New_Order/scenarios/25_The_Awakening.cfg:465
+#: A_New_Order/scenarios/ano-27.cfg:601 A_New_Order/scenarios/ano-27.cfg:852
+msgid "Death of Huon Ryedric"
+msgstr "Смерть Хуона Райдрика"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:473
+#, fuzzy
+msgid ""
+"Everything is lost! Their reinforcements have arrived! We have no chance now "
+"to win!"
+msgstr "Всё потеряно! К нашим врагам пришла помощь! Теперь нам не победить!"
+
+#. [unit]: type=Akladian Lord, id=Bor Cryne
+#. [side]: id=Bor Cryne, type=Akladian Lord
+#: A_New_Order/scenarios/25_The_Awakening.cfg:489
+#: A_New_Order/scenarios/ano-04.cfg:68 A_New_Order/scenarios/ano-27.cfg:68
+#: A_New_Order/scenarios/ano-03.cfg:76
+msgid "Bor Cryne"
+msgstr "Бор Крайн"
+
+#. [unit]: type=Akladian Sturmknight, id=Bors Brien
+#: A_New_Order/scenarios/25_The_Awakening.cfg:503
+msgid "Bors Brien"
+msgstr "Борс Брин"
+
+#. [unit]: type=Akladian Darknite, id=Bors Dark
+#: A_New_Order/scenarios/25_The_Awakening.cfg:517
+msgid "Bors Dark"
+msgstr ""
+
+#. [unit]: type=Akladian Wonderman, id=Bors Wonder
+#: A_New_Order/scenarios/25_The_Awakening.cfg:525
+msgid "Bors Wonder"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:530
+msgid "Damn! We are too late."
+msgstr "Чёрт! Мы опоздали."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:531
+msgid "Should we attack, my lord?"
+msgstr "Атакуем, милорд?"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:532
+msgid ""
+"No. Hoyre as usual screwed everything he could. We will withdraw to the "
+"north, and wait until Grekulak will come here to help us."
+msgstr ""
+"Нет. Ойре, как всегда, угробил всё, что смог. Отступим на север и подождём "
+"помощи Грекулака."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:535
+msgid ""
+"My king, I've heard that some of people of Wesnoth already started to take "
+"the revenge on their own. Few Akladian villages were massacred south from "
+"Freetown. What will you do?"
+msgstr ""
+"Король, я слышал, что некоторые веснотцы начали мстить за своих сородичей. "
+"Несколько акладианских деревень на юге от Фритауна разорены. Что мы будем "
+"делать?"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:536
+msgid "And what do you think he could do? People want a revenge, so..."
+msgstr "А что вы собираетесь делать? Люди жаждут мести, значит.."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:537
+msgid "Revenge on whom? Innocent woman and children?"
+msgstr "Мести кому? Невиновым женщинам и детям?"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:538
+msgid ""
+"Innocent? No Akladian is innocent. Even if they had not participated in "
+"massacres, maybe their husbands or uncles did, and..."
+msgstr ""
+"Невиновным? Не бывает невиновных акладиан. Даже если они сами никого не "
+"убивали, значит их мужья или отцы, или..."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:539
+msgid ""
+"How many Wesnothians were raised from dead by killing Akladian children, "
+"Huon? I lost whole family in Freetown. But I don't want to revenge them by "
+"killing families of innocent people."
+msgstr ""
+"Сколько веснотцев воскреснет после смерти акладианских детей, Хуон? Я "
+"потерял всю семью во Фритауне. Но я не хочу мстить за них, убивая семьи "
+"безвинных людей."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:540
+msgid ""
+"Anyway, you have to react, my king. If you won't stop this, Akladians with "
+"turn away from you and this will be another round of civil war."
+msgstr ""
+"Как бы то ни было, бы должны как-то отреагировать, мой король. Если ты не "
+"остановишь это, акладианы отвернутся от тебя и гражданская война вступит в "
+"новую стадию."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:541
+msgid ""
+"Punish them? Why? They acted because of despair and anger, they lost their "
+"whole families from hands of Akladians, how can you punish them? And if you "
+"do, a lot of Wesnothians will turn away from you..."
+msgstr ""
+"Наказывать восставших? За что? Их ведут отчаяние и гнев, их семьи пали от "
+"рук акладиан! За что их наказывать? В конце концов, если ты пойдёшь на это, "
+"от тебя отвернутся веснотцы."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:542
+msgid ""
+"I declare the amnesty for everyone. But from this moment anyone, who wants "
+"to spill innocent blood will be chased by me and my people. People, who "
+"already committed crimes should go to pilgrimage to the Oracle to ask for "
+"forgiveness."
+msgstr ""
+"Я объявляю амнистию всем. Но с этого момента тот, кто прольёт невинную "
+"кровь, будет иметь дело со мной и моими людьми. А те, кто сейчас виновен, "
+"должны совершить паломничество к Оракулу и молить о прощении."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:543
+msgid "This supposed to be punishment? Akladians won't like it."
+msgstr "Это называется наказанием? Акладианы не поймут."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:544
+msgid ""
+"I am the messiah. Akladians who would contest my words are tools of the evil "
+"and will never be admitted to the land of the ancestors."
+msgstr ""
+"Я - мессия. Акладиане, которые не прислушиваются к моим словам, суть орудия "
+"зла и никогда не попадут в земли предков."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:545
+msgid "Messiah? You do not actually believe in that?"
+msgstr "Мессия? И ты в это веришь?"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:546
+msgid ""
+"Huon, the proper way to address your king is 'your majesty' or at least 'my "
+"king'. Deorien was right all the time, now I see it. Akladians can rebel "
+"against their king and they can definitely rebel against king of mixed "
+"blood. But they cannot rebel against the hand of God on earth."
+msgstr ""
+"Хуон, к королю нужно обращаться \"Ваше величество\" или хотя бы \"мой король"
+"\". Деориен был прав, теперь я это понимаю. Акладианы могут восстать против "
+"короля и уж точно восстанут против короля-полукровки. Но они не станут "
+"восставать против длани господней."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:547
+msgid "The way to Vattin is free of enemies. Let's go."
+msgstr "Путь в Ваттин очищен от врагов. Пойдём."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:558
+msgid "Vojta"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:568
+msgid "Kuba"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:578
+msgid "Matěj"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:589
+msgid "Pankrác"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:598
+msgid "Servác"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:607
+msgid "Bumbác"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:617
+msgid "My king, we could really use some help."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:619
+msgid "We are under heavy attack, my king. We really could use some help."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:628
+msgid "Aaah!"
+msgstr "А-а-ах!"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:629
+msgid "What? Mother, are you hurt?"
+msgstr "Что? Мать, тебе больно?"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:630
+msgid "No... I'm ok.. I'm ok... It was nothing."
+msgstr "Нет... Я в порядке... В порядке... Ничего."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:631
+msgid "But what that? You are wounded?"
+msgstr "Но что это было? Ты ранена?"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:632
+msgid "No, Gawen, I've told you I'm OK!"
+msgstr "Нет, Гэвен. Я же сказала: я в порядке!"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:633
+msgid ""
+"Probably the witch mistakenly drunk a poison she has prepared for someone "
+"else."
+msgstr ""
+"Может эта ведьма проглотила яд, который приготовила для кого-то другого?"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:634
+msgid ""
+"No, my lord. I think I know what's happening with your step-mother, but if "
+"she does not want to tell you, neither will I. But be prepared that she may "
+"not be able to fight in battles which await us in future."
+msgstr ""
+"Милорд, думаю, я знаю, что происходит с вашей мачехой, но если она не хочет "
+"об этом говорить, я тоже буду молчать. Впрочем, предупрежу, чтобы вы были "
+"готовы к тому, что она не сможет принимать участие в будущих битвах."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:635
+#, fuzzy
+msgid ""
+"Underling, be silent. You know nothing. You all know nothing. I will fight."
+msgstr "Молчи, дикарь! Ты ничего не знаешь. Лорин всегда сражается!"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:645
+#: A_New_Order/scenarios/25_The_Awakening.cfg:659
+#: A_New_Order/scenarios/25_The_Awakening.cfg:673
+#: A_New_Order/scenarios/ano-23macros.cfg:487
+#: A_New_Order/scenarios/ano-23macros.cfg:501
+#: A_New_Order/scenarios/ano-23macros.cfg:515
+#: A_New_Order/scenarios/ano-20macros.cfg:178
+#: A_New_Order/scenarios/ano-20macros.cfg:197
+#: A_New_Order/scenarios/ano-20macros.cfg:215
+#: A_New_Order/scenarios/ano-20macros.cfg:234
+#: A_New_Order/scenarios/ano-20macros.cfg:253
+#: A_New_Order/scenarios/ano-20macros.cfg:269
+#: A_New_Order/scenarios/ano-20macros.cfg:284
+msgid "Ha! They were hiding some gold here!"
+msgstr "Ха! Они спрятали тут немного золота!"
+
+#. [event]
+#. [else]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:650
+#: A_New_Order/scenarios/25_The_Awakening.cfg:664
+#: A_New_Order/scenarios/25_The_Awakening.cfg:678
+#: A_New_Order/scenarios/ano-20.cfg:318
+#: A_New_Order/scenarios/ano-23macros.cfg:492
+#: A_New_Order/scenarios/ano-23macros.cfg:520
+#: A_New_Order/scenarios/ano-22.cfg:531 A_New_Order/scenarios/ano-05b.cfg:152
+#: A_New_Order/scenarios/ano-05b.cfg:192
+#: A_New_Order/scenarios/ano-20macros.cfg:183
+#: A_New_Order/scenarios/ano-20macros.cfg:202
+#: A_New_Order/scenarios/ano-20macros.cfg:220
+#: A_New_Order/scenarios/ano-20macros.cfg:239
+#: A_New_Order/scenarios/ano-20macros.cfg:258
+#: A_New_Order/scenarios/ano-20macros.cfg:274
+#: A_New_Order/scenarios/ano-20macros.cfg:289
+#: A_New_Order/scenarios/ano-21b.cfg:233
+msgid "You have received 50 gold pieces"
+msgstr "Вы получили 50 золотых."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:687
+#: A_New_Order/scenarios/ano-27.cfg:719
+msgid "Aaargh! I haven't revenged my family!"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:695
+msgid ""
+"Stop! Don't kill me! I will give you a lot of gold if you will spare me!"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:696
+msgid "Were you at Freetown?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:697
+msgid "NO! It was Bor Cryne! Don't kill me!"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:698
+msgid "I am an empty shell."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:704
+msgid ""
+"Before you will pass, I want to ask you one, simple, very simple question. "
+"Were you with Akladian army which burned Barnon?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:705
+msgid "No! No! That was Bor Cryne, I swear! I wasn't there!"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:708
+#: A_New_Order/scenarios/25_The_Awakening.cfg:737
+msgid "Well.."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:709
+#: A_New_Order/scenarios/25_The_Awakening.cfg:738
+msgid "Where is Bor Cryne?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:710
+#: A_New_Order/scenarios/25_The_Awakening.cfg:739
+msgid "Who gave you the location of Freetown?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:711
+msgid "Do you know who poisoned my mother?"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:715
+#: A_New_Order/scenarios/25_The_Awakening.cfg:743
+msgid "Whenever he is, he should be here!"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:717
+#: A_New_Order/scenarios/25_The_Awakening.cfg:745
+msgid "I do not know! I wasn't at Freetown, really!"
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:719
+msgid ""
+"I do not know! Uri van Roe or Bor Cryne may know something about that..."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:732
+msgid ""
+"Don't kill me, Lorin! I know you where you still were little child, I played "
+"with you when you were small..."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:733
+msgid "You should've killed me then, when you still have the chance."
+msgstr ""
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:759
+msgid ""
+"You truly are worthy to be our king! Oracle was right! I never should listen "
+"to Hoyre...."
+msgstr ""
+"Ты действительно достоин быть королём! Оракул была права! Я не должен был "
+"слушать Ойре..."
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:778
+msgid "How this could be possible?"
+msgstr "Как это могло случиться?"
+
+#. [event]
+#: A_New_Order/scenarios/25_The_Awakening.cfg:787
+msgid "I should've stayed in hills in the north..."
+msgstr "Надо было сидеть в холмах севера..."
 
 #. [scenario]: id=30_Final
 #: A_New_Order/scenarios/30_Final.cfg:39
@@ -2536,13 +3703,6 @@ msgstr "Королевский страж"
 msgid "Graeme O Borraine"
 msgstr "Грэм О'Боррейн"
 
-#. [side]: id=Bor Cryne, type=Akladian Lord
-#. [unit]: type=Akladian Lord, id=Bor Cryne
-#: A_New_Order/scenarios/ano-04.cfg:68 A_New_Order/scenarios/ano-27.cfg:68
-#: A_New_Order/scenarios/ano-25.cfg:476 A_New_Order/scenarios/ano-03.cfg:76
-msgid "Bor Cryne"
-msgstr "Бор Крайн"
-
 #. [side]: id=Uri van Roe, type=Akladian Lord
 #: A_New_Order/scenarios/ano-04.cfg:93 A_New_Order/scenarios/ano-27.cfg:149
 #: A_New_Order/scenarios/ano-03.cfg:85
@@ -2781,12 +3941,6 @@ msgstr ""
 "слышал разговоры некоторых своих воинов: они шептали, что Гэвен хохочет в "
 "предвкушении битвы; авторитет короля начал расти."
 
-#. [side]: id=Hoyre O Barnone, type=Akladian Lord
-#: A_New_Order/scenarios/ano-04.cfg:40 A_New_Order/scenarios/ano-25.cfg:276
-#: A_New_Order/scenarios/ano-14a.cfg:83
-msgid "Hoyre O Barnone"
-msgstr "Ойре О'Барнон"
-
 #. [label]
 #: A_New_Order/scenarios/ano-04.cfg:120 A_New_Order/scenarios/ano-14a.cfg:154
 msgid "Castle of Barnon"
@@ -2853,17 +4007,6 @@ msgid ""
 msgstr ""
 "Думаю, нам не хватит денег, чтобы закончить дело. Мы должны были накопить "
 "больше средств в предыдущих битвах."
-
-#. [objective]: condition=win
-#: A_New_Order/scenarios/ano-04.cfg:204 A_New_Order/scenarios/ano-14d.cfg:128
-#: A_New_Order/scenarios/ano-14d.cfg:139 A_New_Order/scenarios/ano-27.cfg:581
-#: A_New_Order/scenarios/ano-27.cfg:832 A_New_Order/scenarios/ano-25.cfg:432
-#: A_New_Order/scenarios/ano-05b.cfg:104 A_New_Order/scenarios/ano-21b.cfg:129
-#: A_New_Order/scenarios/ano-21b.cfg:154 A_New_Order/scenarios/ano-19c.cfg:740
-#: A_New_Order/scenarios/ano-15b.cfg:76 A_New_Order/scenarios/ano-05a.cfg:103
-#: A_New_Order/scenarios/ano-14e.cfg:170 A_New_Order/scenarios/ano-14e.cfg:181
-msgid "Kill all enemy leaders"
-msgstr "Убейте всех вражеских лидеров"
 
 #. [then]
 #: A_New_Order/scenarios/ano-04.cfg:238
@@ -3474,25 +4617,6 @@ msgstr ""
 msgid "Seems a fair deal. Show uss.. damned. Show us gold and you may leave."
 msgstr ""
 "А это выгодное дело. Отведи нассс... тьфу, чёрт. Отдай нам золото и убирайся."
-
-#. [event]
-#. [else]
-#: A_New_Order/scenarios/ano-20.cfg:318
-#: A_New_Order/scenarios/ano-23macros.cfg:492
-#: A_New_Order/scenarios/ano-23macros.cfg:520
-#: A_New_Order/scenarios/ano-25.cfg:633 A_New_Order/scenarios/ano-25.cfg:647
-#: A_New_Order/scenarios/ano-25.cfg:661 A_New_Order/scenarios/ano-22.cfg:531
-#: A_New_Order/scenarios/ano-05b.cfg:152 A_New_Order/scenarios/ano-05b.cfg:192
-#: A_New_Order/scenarios/ano-20macros.cfg:183
-#: A_New_Order/scenarios/ano-20macros.cfg:202
-#: A_New_Order/scenarios/ano-20macros.cfg:220
-#: A_New_Order/scenarios/ano-20macros.cfg:239
-#: A_New_Order/scenarios/ano-20macros.cfg:258
-#: A_New_Order/scenarios/ano-20macros.cfg:274
-#: A_New_Order/scenarios/ano-20macros.cfg:289
-#: A_New_Order/scenarios/ano-21b.cfg:233
-msgid "You have received 50 gold pieces"
-msgstr "Вы получили 50 золотых."
 
 #. [event]
 #: A_New_Order/scenarios/ano-05b.cfg:198
@@ -4408,8 +5532,9 @@ msgstr "Я предлагаю тебе присоединиться к моей 
 
 #. [command]
 #: A_New_Order/scenarios/ano-09.cfg:218
+#, fuzzy
 msgid ""
-"After this battle you will be able to recruit Akladian Clanmembers, Warriors "
+"After this battle you will be able to recruit Akladian Clansmen, Warriors "
 "and Wisemen again."
 msgstr ""
 "После этой битвы вы снова сможете вербовать членов клана, воинов и знахарей "
@@ -4443,8 +5568,8 @@ msgstr ""
 
 #. [command]
 #: A_New_Order/scenarios/ano-09.cfg:241
-msgid ""
-"After this battle you will be able to recruit Akladian Clanmembers again."
+#, fuzzy
+msgid "After this battle you will be able to recruit Akladian Clansmen again."
 msgstr "После этой битвы вы снова сможете вербовать членов клана акладиан."
 
 #. [then]
@@ -5201,7 +6326,7 @@ msgstr "Гари"
 msgid "Rarg"
 msgstr "Рарг"
 
-#. [message]: type=Aragwaith Archer,Aragwaith hunter,Aragwaith Spearman,Aragwaith Swordsman,Aragwaith Guard,Aragwaith Pikeman,Akladian Warrior,Akladian Clanmember,Akladian Wiseman,Akladian Holyman,Aragwaith Longswordsman
+#. [message]: type=Aragwaith Archer,Aragwaith hunter,Aragwaith Spearman,Aragwaith Swordsman,Aragwaith Guard,Aragwaith Pikeman,Akladian Warrior,Akladian Clansman,Akladian Wiseman,Akladian Holyman,Aragwaith Longswordsman
 #: A_New_Order/scenarios/ano-10.cfg:451
 msgid "Run for you life! They are too many of them!!"
 msgstr "Уходите! Их слишком много!"
@@ -5428,16 +6553,6 @@ msgstr "Гвидл Турлин"
 #: A_New_Order/scenarios/ano-15.cfg:48
 msgid "Mithrandil"
 msgstr "Митрандил"
-
-#. [unit]: id=Huon Ryedric, type=General
-#. [unit]: id=Huon Ryedric, type=Sergeant
-#. [side]: id=Huon Ryedric, type=General
-#: A_New_Order/scenarios/ano-28.cfg:101 A_New_Order/scenarios/ano-15a.cfg:53
-#: A_New_Order/scenarios/ano-27.cfg:38 A_New_Order/scenarios/ano-25.cfg:214
-#: A_New_Order/scenarios/ano-26.cfg:60 A_New_Order/scenarios/ano-11.cfg:48
-#: A_New_Order/scenarios/ano-24.cfg:68 A_New_Order/scenarios/ano-15.cfg:55
-msgid "Huon Ryedric"
-msgstr "Хуон Райдрик"
 
 #. [event]
 #: A_New_Order/scenarios/ano-11.cfg:102
@@ -5832,29 +6947,6 @@ msgstr "Что ты знаешь об орках?"
 #: A_New_Order/scenarios/ano-12.cfg:11
 msgid "Do you know anything about Lady Lorin?"
 msgstr "Ты слышал что-нибудь о леди Лорин?"
-
-#. [scenario]: id=ano_12
-#. [event]
-#. [scenario]: id=ano_17
-#. [scenario]: id=ano_21bride
-#: A_New_Order/scenarios/ano-12.cfg:12 A_New_Order/scenarios/ano-20.cfg:282
-#: A_New_Order/scenarios/ano-20.cfg:331 A_New_Order/scenarios/ano-20.cfg:373
-#: A_New_Order/scenarios/ano-17.cfg:45 A_New_Order/scenarios/ano-17.cfg:80
-#: A_New_Order/scenarios/ano-14b.cfg:395 A_New_Order/scenarios/ano-14b.cfg:402
-#: A_New_Order/scenarios/ano-14b.cfg:442 A_New_Order/scenarios/ano-14b.cfg:449
-#: A_New_Order/scenarios/ano-25.cfg:695 A_New_Order/scenarios/ano-25.cfg:723
-#: A_New_Order/scenarios/ano-20macros.cfg:396
-#: A_New_Order/scenarios/ano-20macros.cfg:402
-#: A_New_Order/scenarios/ano-20macros.cfg:409
-#: A_New_Order/scenarios/ano-20macros.cfg:419
-#: A_New_Order/scenarios/ano-20macros.cfg:425
-#: A_New_Order/scenarios/ano-20macros.cfg:432
-#: A_New_Order/scenarios/ano-21a.cfg:18 A_New_Order/scenarios/ano-21a.cfg:44
-#: A_New_Order/scenarios/ano-21a.cfg:401 A_New_Order/scenarios/ano-18.cfg:157
-#: A_New_Order/scenarios/ano-18.cfg:242 A_New_Order/scenarios/ano-18.cfg:296
-#: A_New_Order/scenarios/ano-18.cfg:397
-msgid "That's all I wanted to know."
-msgstr "Это всё, что мне нужно было узнать."
 
 #. [scenario]: id=ano_12
 #: A_New_Order/scenarios/ano-12.cfg:18
@@ -6785,45 +7877,6 @@ msgstr "В Хэлтине мы уже были. Куда теперь?"
 #: A_New_Order/scenarios/ano-13.cfg:381
 msgid "Are you sure you want to go there?"
 msgstr "Вы уверены, что хотите отправиться туда?"
-
-#. [event]
-#. [else]
-#: A_New_Order/scenarios/ano-15a.cfg:186 A_New_Order/scenarios/ano-20.cfg:149
-#: A_New_Order/scenarios/ano-20.cfg:168 A_New_Order/scenarios/ano-20.cfg:185
-#: A_New_Order/scenarios/ano-20.cfg:204 A_New_Order/scenarios/ano-20.cfg:228
-#: A_New_Order/scenarios/ano-14d.cfg:157 A_New_Order/scenarios/ano-14d.cfg:209
-#: A_New_Order/scenarios/ano-14d.cfg:244 A_New_Order/scenarios/ano-14b.cfg:311
-#: A_New_Order/scenarios/ano-19a.cfg:157 A_New_Order/scenarios/ano-13.cfg:382
-#: A_New_Order/scenarios/ano-13.cfg:406 A_New_Order/scenarios/ano-13.cfg:442
-#: A_New_Order/scenarios/ano-13.cfg:726 A_New_Order/scenarios/ano-13.cfg:756
-#: A_New_Order/scenarios/ano-13.cfg:785 A_New_Order/scenarios/ano-21b.cfg:176
-#: A_New_Order/scenarios/ano-21a.cfg:348 A_New_Order/scenarios/ano-18.cfg:93
-#: A_New_Order/scenarios/ano-18.cfg:115 A_New_Order/scenarios/ano-18.cfg:134
-#: A_New_Order/scenarios/ano-18.cfg:180 A_New_Order/scenarios/ano-18.cfg:309
-#: A_New_Order/scenarios/ano-18.cfg:330 A_New_Order/scenarios/ano-18.cfg:412
-#: A_New_Order/scenarios/ano-19b.cfg:144 A_New_Order/scenarios/ano-14a.cfg:392
-#: A_New_Order/scenarios/ano-14e.cfg:328
-msgid "Yes, definitely."
-msgstr "Конечно же."
-
-#. [event]
-#. [else]
-#: A_New_Order/scenarios/ano-15a.cfg:187 A_New_Order/scenarios/ano-20.cfg:150
-#: A_New_Order/scenarios/ano-20.cfg:169 A_New_Order/scenarios/ano-20.cfg:186
-#: A_New_Order/scenarios/ano-20.cfg:205 A_New_Order/scenarios/ano-20.cfg:229
-#: A_New_Order/scenarios/ano-14d.cfg:158 A_New_Order/scenarios/ano-14b.cfg:312
-#: A_New_Order/scenarios/ano-19a.cfg:158 A_New_Order/scenarios/ano-13.cfg:383
-#: A_New_Order/scenarios/ano-13.cfg:407 A_New_Order/scenarios/ano-13.cfg:443
-#: A_New_Order/scenarios/ano-13.cfg:727 A_New_Order/scenarios/ano-13.cfg:757
-#: A_New_Order/scenarios/ano-13.cfg:786 A_New_Order/scenarios/ano-21b.cfg:177
-#: A_New_Order/scenarios/ano-21a.cfg:349 A_New_Order/scenarios/ano-18.cfg:94
-#: A_New_Order/scenarios/ano-18.cfg:116 A_New_Order/scenarios/ano-18.cfg:135
-#: A_New_Order/scenarios/ano-18.cfg:181 A_New_Order/scenarios/ano-18.cfg:310
-#: A_New_Order/scenarios/ano-18.cfg:331 A_New_Order/scenarios/ano-18.cfg:413
-#: A_New_Order/scenarios/ano-19b.cfg:145 A_New_Order/scenarios/ano-14a.cfg:393
-#: A_New_Order/scenarios/ano-14e.cfg:329
-msgid "Well, maybe not."
-msgstr "Ну, может и нет."
 
 #. [else]
 #: A_New_Order/scenarios/ano-13.cfg:387
@@ -8106,7 +9159,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14b.cfg:253 A_New_Order/scenarios/ano-14b.cfg:327
-msgid "You may recruit Akladian Clanmembers again."
+#, fuzzy
+msgid "You may recruit Akladian Clansmen again."
 msgstr "Вы снова можете вербовать членов клана акладиан."
 
 #. [objective]: condition=win
@@ -9110,12 +10164,6 @@ msgid "No."
 msgstr "Нет."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14d.cfg:213 A_New_Order/scenarios/ano-14d.cfg:248
-#: A_New_Order/scenarios/ano-21a.cfg:327
-msgid "Thank you! Thank you!"
-msgstr "Спасибо! Спасибо!"
-
-#. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:215 A_New_Order/scenarios/ano-14d.cfg:250
 msgid "Aaaargh!!"
 msgstr "А-а-а-арх!!!"
@@ -9191,20 +10239,6 @@ msgid ""
 msgstr ""
 "Замечание: если Вы примете золото, награда за досрочное прохождение сценария "
 "не будет выплачена."
-
-#. [event]
-#. [scenario]: id=ano_25
-#. [scenario]: id=ano_22
-#. [scenario]: id=ano_14_saorduc
-#: A_New_Order/scenarios/ano-15a.cfg:128
-#: A_New_Order/scenarios/ano-23macros.cfg:17
-#: A_New_Order/scenarios/ano-25.cfg:15 A_New_Order/scenarios/ano-22.cfg:76
-#: A_New_Order/scenarios/ano-22.cfg:84 A_New_Order/scenarios/ano-22.cfg:99
-#: A_New_Order/scenarios/ano-22.cfg:456
-#: A_New_Order/scenarios/ano-20macros.cfg:355
-#: A_New_Order/scenarios/ano-14e.cfg:10
-msgid "Well..."
-msgstr "Ну..."
 
 #. [scenario]: id=ano_14_saorduc
 #: A_New_Order/scenarios/ano-14e.cfg:11
@@ -11715,15 +12749,6 @@ msgid "Would you fight for me?"
 msgstr "Хочешь сражаться за меня?"
 
 #. [event]
-#. [scenario]: id=ano_21bride
-#: A_New_Order/scenarios/ano-20.cfg:280 A_New_Order/scenarios/ano-21a.cfg:17
-#: A_New_Order/scenarios/ano-21a.cfg:43 A_New_Order/scenarios/ano-21a.cfg:400
-#: A_New_Order/scenarios/ano-18.cfg:154 A_New_Order/scenarios/ano-18.cfg:239
-#: A_New_Order/scenarios/ano-18.cfg:293 A_New_Order/scenarios/ano-18.cfg:394
-msgid "Do you know something about mage Deorien?"
-msgstr "Ты знаешь что-нибудь о маге Деориене?"
-
-#. [event]
 #: A_New_Order/scenarios/ano-18.cfg:155 A_New_Order/scenarios/ano-18.cfg:240
 #: A_New_Order/scenarios/ano-18.cfg:294 A_New_Order/scenarios/ano-18.cfg:395
 msgid "Do you know where Oracle lives?"
@@ -11915,7 +12940,7 @@ msgstr "А, Фритаунский бунтовщик?"
 msgid "My king, you do not have to ask. You may order us to join you."
 msgstr "Мой король, ты не должен спрашивать. Просто прикажи нам идти с тобой."
 
-#. [unit]: type=Akladian Clanmember, id=Har Barien
+#. [unit]: type=Akladian Clansman, id=Har Barien
 #: A_New_Order/scenarios/ano-18.cfg:251
 msgid "Har Barien"
 msgstr "Хар Бариен"
@@ -12312,14 +13337,6 @@ msgstr "Марлин Барре"
 #: A_New_Order/scenarios/ano-19b.cfg:120
 msgid "There are no interrogations in this scenario."
 msgstr "В этом сценарии нет допросов."
-
-#. [objective]: condition=win
-#: A_New_Order/scenarios/ano-23macros.cfg:568
-#: A_New_Order/scenarios/ano-22.cfg:333 A_New_Order/scenarios/ano-19a.cfg:135
-#: A_New_Order/scenarios/ano-21a.cfg:254 A_New_Order/scenarios/ano-21a.cfg:282
-#: A_New_Order/scenarios/ano-19b.cfg:122
-msgid "Kill all enemy leaders OR"
-msgstr "Убейте всех вражеских лидеров OR"
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/ano-19a.cfg:139 A_New_Order/scenarios/ano-19b.cfg:126
@@ -13487,22 +14504,6 @@ msgid "A Former Friend"
 msgstr "Бывший друг"
 
 #. [event]
-#: A_New_Order/scenarios/ano-23macros.cfg:487
-#: A_New_Order/scenarios/ano-23macros.cfg:501
-#: A_New_Order/scenarios/ano-23macros.cfg:515
-#: A_New_Order/scenarios/ano-25.cfg:628 A_New_Order/scenarios/ano-25.cfg:642
-#: A_New_Order/scenarios/ano-25.cfg:656
-#: A_New_Order/scenarios/ano-20macros.cfg:178
-#: A_New_Order/scenarios/ano-20macros.cfg:197
-#: A_New_Order/scenarios/ano-20macros.cfg:215
-#: A_New_Order/scenarios/ano-20macros.cfg:234
-#: A_New_Order/scenarios/ano-20macros.cfg:253
-#: A_New_Order/scenarios/ano-20macros.cfg:269
-#: A_New_Order/scenarios/ano-20macros.cfg:284
-msgid "Ha! They were hiding some gold here!"
-msgstr "Ха! Они спрятали тут немного золота!"
-
-#. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:185
 msgid "OOPS. This is a bug."
 msgstr ""
@@ -14352,341 +15353,6 @@ msgstr ""
 msgid "I think it's time to get use of all our reserves!"
 msgstr "Думаю, настало время задействовать все резервы!"
 
-#. [scenario]: id=ano_21bride
-#: A_New_Order/scenarios/ano-21a.cfg:3
-msgid "Abducted Bride"
-msgstr "Похищенная невеста"
-
-#. [scenario]: id=ano_21bride
-#: A_New_Order/scenarios/ano-21a.cfg:9 A_New_Order/scenarios/ano-21a.cfg:35
-msgid "Wait, do not die yet! I want you to answer few question first!"
-msgstr ""
-
-#. [scenario]: id=ano_21bride
-#: A_New_Order/scenarios/ano-21a.cfg:10 A_New_Order/scenarios/ano-21a.cfg:36
-msgid ""
-"You have defeated me, so I will grant you your wish. What do you want to "
-"know?"
-msgstr ""
-
-#. [event]
-#. [scenario]: id=ano_21bride
-#: A_New_Order/scenarios/ano-21a.cfg:13 A_New_Order/scenarios/ano-21a.cfg:39
-#: A_New_Order/scenarios/ano-21a.cfg:396
-msgid "Please tell me..."
-msgstr ""
-
-#. [event]
-#. [scenario]: id=ano_21bride
-#: A_New_Order/scenarios/ano-21a.cfg:14 A_New_Order/scenarios/ano-21a.cfg:397
-msgid "Why you have kidnapped this poor girl?"
-msgstr ""
-
-#. [event]
-#. [scenario]: id=ano_21bride
-#: A_New_Order/scenarios/ano-21a.cfg:15 A_New_Order/scenarios/ano-21a.cfg:41
-#: A_New_Order/scenarios/ano-21a.cfg:398
-msgid "What are plans of king Buffin?"
-msgstr ""
-
-#. [event]
-#. [scenario]: id=ano_21bride
-#: A_New_Order/scenarios/ano-21a.cfg:16 A_New_Order/scenarios/ano-21a.cfg:42
-#: A_New_Order/scenarios/ano-21a.cfg:399
-msgid "What do you know about situation in Vakladia?"
-msgstr ""
-
-#. [scenario]: id=ano_21bride
-#: A_New_Order/scenarios/ano-21a.cfg:21
-msgid "Because I wanted too. I don't have to explain to anyone."
-msgstr ""
-
-#. [scenario]: id=ano_21bride
-#: A_New_Order/scenarios/ano-21a.cfg:23
-msgid ""
-"Why should I tell you? This is secret and though you gave me good fight and "
-"honourable death, I can't tell you."
-msgstr ""
-
-#. [event]
-#. [scenario]: id=ano_21bride
-#: A_New_Order/scenarios/ano-21a.cfg:25 A_New_Order/scenarios/ano-21a.cfg:410
-msgid ""
-"Vakladia is finished. The whole country is in chaos. I think Bor Cryne, one "
-"of their lords, wants to declare himself king, but not many Akladians living "
-"there will recognise him. Only Hagarthens can be kings."
-msgstr ""
-
-#. [event]
-#. [scenario]: id=ano_21bride
-#: A_New_Order/scenarios/ano-21a.cfg:27 A_New_Order/scenarios/ano-21a.cfg:53
-#: A_New_Order/scenarios/ano-21a.cfg:412
-msgid "I don't know that name."
-msgstr ""
-
-#. [scenario]: id=ano_21bride
-#: A_New_Order/scenarios/ano-21a.cfg:40
-msgid "Where your lord keeps kidnapped girl?"
-msgstr ""
-
-#. [scenario]: id=ano_21bride
-#: A_New_Order/scenarios/ano-21a.cfg:47
-msgid "North from his castle, in small cage."
-msgstr ""
-
-#. [scenario]: id=ano_21bride
-#: A_New_Order/scenarios/ano-21a.cfg:49
-msgid "I don't know. What are king's plans only king will know."
-msgstr ""
-
-#. [scenario]: id=ano_21bride
-#: A_New_Order/scenarios/ano-21a.cfg:51
-msgid ""
-"Their king is dead, orcs are ravaging though their land, their country is in "
-"chaos.. This are hard times for worthy people. Easkladia lies in ruins, and "
-"now Vakladia goes down too.. We all wait for messiah who will end this "
-"gruelling times."
-msgstr ""
-
-#. [part]
-#: A_New_Order/scenarios/ano-21a.cfg:67
-msgid ""
-"The peasants told Gawen that the lord of the neighbouring territory, Bark O "
-"Skagrrak, kidnapped a young girl trying to force her to the marriage. The "
-"decision to save the poor girl came natural for Gawen."
-msgstr ""
-"Крестьяне расказали Гэвену, что соседний лорд Барк О'Скагррак похитил юную "
-"девушку, чтобы заставить её выйти за него замуж. Естественно, Гэвен принял "
-"решение спасти бедную девушку."
-
-#. [side]: id=Rurk Skagrrae, type=Akladian Lord
-#: A_New_Order/scenarios/ano-21a.cfg:113
-msgid "Rurk Skagrrae"
-msgstr "Рурк Скагрре"
-
-#. [side]: id=Bark O Skagrrak, type=Akladian Lord
-#: A_New_Order/scenarios/ano-21a.cfg:166
-msgid "Bark O Skagrrak"
-msgstr "Барк О'Скагррак"
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:234
-msgid "Rurk, report about your preparations."
-msgstr "Рурк, доложи о готовности."
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:235
-msgid ""
-"We are ready, my lord. Where will we be going? Are the gossip I've heard "
-"about the hordes on our eastern border true?"
-msgstr ""
-"Мы готовы, милорд. Куда направляться? Слухи об ордах на нашей восточной "
-"границе правда?"
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:236
-msgid ""
-"What gossip? Ghosts invading the castles? Rurk, I thought you are a "
-"reasonable man. Ghosts and undead are stories for Wesnothians, I think king "
-"Buffin is making this gossip himself to scare Wesnothians and to prevent "
-"them from thinking about the next rebellion."
-msgstr ""
-"Что за слухи? Призраки захватили замок? Рурк, я считал тебя разумным "
-"человеком. Призраки и мертвецы это веснотские байки. Скорее всего король "
-"Баффин сам распускает эти слухи, чтобы веснотцы больше боялись и меньше "
-"думали о новом восстании."
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:237
-msgid "So why are we preparing the army?"
-msgstr "Так для чего тогда мы собрали армию?"
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:238
-msgid "You don't have to know. You have to fulfill my orders."
-msgstr "Это не твоего ума дело. Просто выполняй мои приказы."
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:239
-msgid ""
-"They keep that poor girl somewhere north from their castle. We have to "
-"release her and help her return to her father."
-msgstr ""
-"Они держат бедную девушку на севере от замка. Нужно освободить её и "
-"проводить к отцу."
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:240
-msgid "... aaand of course we have to kill all the bastards who kidnapped her."
-msgstr "... и конечно нужно перебить ублюдков, которые её выкрали."
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:241
-msgid "This isn't necessary."
-msgstr "Это не обязательно."
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:242
-msgid "I know."
-msgstr "Я знаю."
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:244 A_New_Order/scenarios/ano-21a.cfg:247
-msgid ""
-"My Lord, this seems to be perfect task for Elvish Avenger. I may sneak right "
-"to the cage and free that girl!"
-msgstr ""
-"Милорд, похоже здесь есть работа для эльфийских мстителей. Я могу "
-"прокрасться прямо к темнице и освободить девушку!"
-
-#. [objective]: condition=win
-#: A_New_Order/scenarios/ano-21a.cfg:258 A_New_Order/scenarios/ano-21a.cfg:286
-msgid ""
-"Release peasant girl which is kept in a cage and move her to the northern "
-"edge of the map."
-msgstr ""
-"Освободите крестьянскую девушку из темницы и проведите её к северному краю "
-"карты."
-
-#. [objective]: condition=lose
-#: A_New_Order/scenarios/ano-23macros.cfg:580
-#: A_New_Order/scenarios/ano-27.cfg:593 A_New_Order/scenarios/ano-27.cfg:844
-#: A_New_Order/scenarios/ano-25.cfg:448 A_New_Order/scenarios/ano-22.cfg:345
-#: A_New_Order/scenarios/ano-21b.cfg:145 A_New_Order/scenarios/ano-21a.cfg:274
-msgid "Death of Deorien"
-msgstr "Смерть Деориена"
-
-#. [unit]: id=Euridica, type=Peasant girl
-#: A_New_Order/scenarios/ano-21a.cfg:319
-msgid "Euridica"
-msgstr "Эвридика"
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:328
-msgid ""
-"Don't thank us, it's not over yet. You have to escape. I guess we can escape "
-"to the north."
-msgstr ""
-"Не стоит благодарностей. Ты должна бежать. Думаю, бесопаснее всего идти на "
-"север."
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:329
-msgid "Move peasant girl to the northern edge of the map."
-msgstr "Доведите крестьянку до северного края карты."
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:340
-msgid ""
-"Thank you once again! Now I can go to my village, to my family and fiance!"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:347
-msgid "Our task here is finished. Should we withdraw now, my lord?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:362
-msgid "Father! Father! I can't see!"
-msgstr "Папа! Папа! Я ничего не вижу!"
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:363
-msgid "Oh no! We have failed our mission!"
-msgstr "О нет! Мы всё испортили!"
-
-#. [event]
-#: A_New_Order/scenarios/ano-22.cfg:598 A_New_Order/scenarios/ano-22.cfg:661
-#: A_New_Order/scenarios/ano-21a.cfg:371
-msgid ""
-"Everything is lost! The reinforcements for our enemies arrived! We have no "
-"chance now to win!"
-msgstr "Всё потеряно! К нашим врагам пришла помощь! Теперь нам не победить!"
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:376
-msgid "The poor girl is saved and we may now continue our quest."
-msgstr "Несчастная девушка спасена. Мы можем вернуться к нашему заданию."
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:377
-msgid ""
-"Yes - Gawen Hagarthen, great future waits for you. Do not let it wait for "
-"too long."
-msgstr ""
-"Да, Гэвен Хагартен. Тебя ждёт великое будущее. Не заставляй ждать слишком "
-"долго."
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:387
-msgid ""
-"Welcome, noble Bark O Skagrrak. My name is Lorin of Gallorae. Some call me "
-"She-wolf of Haeltin. Have you heard about me?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:388
-msgid ""
-"Yes.. I've heard about you. Hag wife of Hagarthen,  drab harlot from Vattin."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:389
-msgid ""
-"How funny a man you are, Bark. So willing to mock and flout. I wonder "
-"whether you will be equally ready to die."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:390
-msgid "Mother, please..."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:391
-msgid ""
-"You've heard how he called me? Bark O Skagrrak, my name is Lorin from "
-"Gallorae clan. And this is knife from Lorin. Say hello to it."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:392
-msgid "You think I will be.. AAAARGH!"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:404
-msgid ""
-"She is so beautiful... I want her for wife or slave, for whole eternity."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:406
-msgid "Why should I tell you? This is secret of my king."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:407
-msgid ""
-"Secret? I love secrets! I'm a woman, you know. Please share it with me. "
-"Preeeetty pleaaaase!"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:408
-msgid ""
-"Aaargh! Stop it! I will tell you! King is preparing to invade the Vakladia "
-"and claim the throne in Vattin. It is empty and it seems that no one will "
-"oppose Buffin. The two brothers in Guilcorta are now too busy, so it's "
-"perfect opportunity. The army is ready already."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-21a.cfg:459
-msgid "Rats! They are more dangerous that I thought! Bring the reinforcements!"
-msgstr "Крысы! Они сильнее чем я думал! Вызывайте помощь!"
-
 #. [scenario]: id=ano_21haunted
 #: A_New_Order/scenarios/ano-21b.cfg:3
 msgid "Haunted Place"
@@ -15215,11 +15881,12 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-21c.cfg:130
+#, fuzzy
 msgid ""
 "Yes. And this is already happening. No matter what the great Akladian lords "
 "are saying, how they are flaunting with their own superiority, how they "
 "heinous find the idea of being the same people as Wesnothian, it IS "
-"happening. Akladian clanmembers marrying Wesnothian woman. Akladian peasants "
+"happening. Akladian clansmen marrying Wesnothian woman. Akladian peasants "
 "seeking the help of a shaman in next village. It is just a beginning, but it "
 "is a good beginning."
 msgstr ""
@@ -17161,10 +17828,11 @@ msgstr "Я должен... на минутку остаться один."
 
 #. [event]
 #: A_New_Order/scenarios/ano-24.cfg:101
+#, fuzzy
 msgid ""
 "Because you were declared messiah by the Oracle and recognised as king by "
 "Wesnothians, you may again recruit Fencers, Spearmen, Bowmen, Akladian "
-"Clanmembers, Akladian Warriors, Akladian Homeguards, Akladian Wisemen."
+"Clansmen, Akladian Warriors, Akladian Homeguards, Akladian Wisemen."
 msgstr ""
 "Поскольку Оракул объявила о новом мессии, а веснотцы признали нового короля, "
 "теперь можно вербовать фехтовальщиков, копейщиков, лучников, членов кланов "
@@ -17178,611 +17846,6 @@ msgid ""
 msgstr ""
 "Кроме того, вследствие давнего союза с Робом Ро, можно вербовать "
 "головорезов, шестёрок, воров и грабителей."
-
-#. [scenario]: id=ano_25
-#: A_New_Order/scenarios/ano-25.cfg:3
-msgid "The Awakening"
-msgstr "Пробуждение"
-
-#. [scenario]: id=ano_25
-#: A_New_Order/scenarios/ano-25.cfg:12
-msgid "My Lord! My lord is dead!"
-msgstr ""
-
-#. [scenario]: id=ano_25
-#: A_New_Order/scenarios/ano-25.cfg:13
-msgid "Well, noble lord, do you think I proved I am worthy to be your king?"
-msgstr ""
-
-#. [scenario]: id=ano_25
-#: A_New_Order/scenarios/ano-25.cfg:14
-msgid "Yes, you did."
-msgstr ""
-
-#. [scenario]: id=ano_25
-#: A_New_Order/scenarios/ano-25.cfg:16
-msgid "Will you then stop the fight and join us?"
-msgstr ""
-
-#. [scenario]: id=ano_25
-#: A_New_Order/scenarios/ano-25.cfg:17
-msgid "It's a shame then I have to kill you."
-msgstr ""
-
-#. [scenario]: id=ano_25
-#: A_New_Order/scenarios/ano-25.cfg:21
-msgid "I will be honoured to fight at your side, my king."
-msgstr ""
-
-#. [scenario]: id=ano_25
-#: A_New_Order/scenarios/ano-25.cfg:36 A_New_Order/scenarios/ano-25.cfg:166
-msgid ""
-"Long live our king Gawen Haldric! It will be honour to fight for you, my "
-"king!"
-msgstr ""
-"Да здравствует наш король Гэвен Хальдрик! Я буду счастлив умереть за тебя, "
-"мой король!"
-
-#. [scenario]: id=ano_25
-#: A_New_Order/scenarios/ano-25.cfg:38
-msgid "Death to enemies of our king! Long live our king Gawen Haldric!"
-msgstr "Смерть врагам нашего короля! Да здравствует король Гэвен Хальдрик!"
-
-#. [unit]: type=Peasant, description=$ano_tmp
-#: A_New_Order/scenarios/ano-25.cfg:57 A_New_Order/scenarios/ano-25.cfg:71
-#: A_New_Order/scenarios/ano-25.cfg:85 A_New_Order/scenarios/ano-25.cfg:99
-#: A_New_Order/scenarios/ano-25.cfg:113 A_New_Order/scenarios/ano-25.cfg:127
-msgid "Peasant"
-msgstr "Крестьянин"
-
-#. [unit]: type=Akladian Clanmember, description=$ano_tmp
-#: A_New_Order/scenarios/ano-25.cfg:156
-msgid "Akladian Peasant"
-msgstr "Акладианский крестьянин"
-
-#. [part]
-#: A_New_Order/scenarios/ano-25.cfg:171
-msgid ""
-"People of Vakladia! People of Wesnoth! Long you have been waiting for "
-"messiah to come. Long you have been waiting for a new king to unite the "
-"nation and to end the wars plaguing the country. The orcs are ravaging "
-"unopposed through the land, murdering and raping both Akladians and "
-"Wesnothians, invited here by the traitors sick from the hatred."
-msgstr ""
-"Народ Вакладии! Народ Веснота! Вы долго ждали прихода мессии. Вы долго ждали "
-"короля, который объединит народы и прекратит войны, разоряющие ваши страны. "
-"Орки, призванные ослепшими от ненависти предателями, безнаказанно опустошают "
-"ваши земли, убивают и насилуют акладиан, и веснотцев"
-
-#. [part]
-#: A_New_Order/scenarios/ano-25.cfg:175
-msgid ""
-"You've heard the stories about undead invading neighbouring kingdom of "
-"Okladia. Some of you lost all the hope. But do not be worried, for there is "
-"a man, who is sent here to stop the undead menace and to defeat the evil "
-"inside the very heart of our country. "
-msgstr ""
-"Вы слышали рассказы о мертвецах, захвативших королевство Окладия. Некоторые "
-"из вас потеряли надежду. Не бойтесь! Есть человек, который послан нам, чтобы "
-"остановить мертвецов и поразить зло, рождённое в самом сердце вашей страны!"
-
-#. [part]
-#: A_New_Order/scenarios/ano-25.cfg:179
-msgid ""
-"You've heard about him. Son of Akladian king and Wesnothian queen. Great "
-"warrior and great leader. Let him know you want him to come here and take "
-"his crown. All hail the king! All hail the messiah! All hail Gawen Haldric "
-"Hagarthen!"
-msgstr ""
-"Вы знаете его. Сын акладианского короля и веснотской королевы. Великий воин "
-"и великий правитель. Дайте знать, что вы желаете, чтобы он пришёл и надел "
-"корону. Славьте короля! Славьте мессию! Славьте Гэвена Хальдрика Хагартена!"
-
-#. [side]: id=Barhoon Urk, type=Orcish Warlord
-#: A_New_Order/scenarios/ano-25.cfg:245
-msgid "Barhoon Urk"
-msgstr "Бархун Урк"
-
-#. [side]: id=Bar Urien, type=Akladian Lord
-#: A_New_Order/scenarios/ano-25.cfg:333
-msgid "Bar Urien"
-msgstr "Бар Уриен"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:402
-msgid "Are there any news from Bor Cryne?"
-msgstr "Есть известия от Бора Крайна?"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:403
-msgid "Nothing new, my lord."
-msgstr "Ничего нового, милорд."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:404
-msgid "He should already be here! Where is he?"
-msgstr "Он уже должен быть здесь! Где он?"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:405
-msgid "My lord... This man, they call a messiah.."
-msgstr "Милорд... Этот человек, которого называют мессией..."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:406
-msgid ""
-"This underling! Creature who has usurped the holy name and who will be "
-"punished by God!"
-msgstr ""
-"Дикарь! Ублюдок, узурпировавший священное имя, который должен понести кару "
-"Господню!"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:407
-msgid "But.. What about if he really IS messiah?"
-msgstr "Но... Что есть он В САМОМ ДЕЛЕ мессия?"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:408
-msgid ""
-"There is no question about it. Believe me, Bar Urien, I was hearing to "
-"spirits since my youth and God had sent me many messages. Gawen is not "
-"messiah. He is mixling, who is unworthy of even honourable death."
-msgstr ""
-"Нечего обсуждать. Верь мне, Бар Уриен, я слышу духов с самого детства, и "
-"Господь посыслал мне много знаков. Гэвен не мессия. Он полукровка, который "
-"не заслуживает даже достойной смерти."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:409
-msgid "But, I thought, let's just assume for the moment he IS..."
-msgstr ""
-"Но мне кажется, если хотя бы на мгновение представить, что он "
-"ДЕЙСТВИТЕЛЬНО..."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:410
-msgid ""
-"Bar, you are fine warrior and you were serving our clan loyally. But leave "
-"thinking to me."
-msgstr ""
-"Бар, ты отличный воин и преданно служишь своему клану. Оставь размышления "
-"мне."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:411
-msgid "But the Oracle..."
-msgstr "Но Оракул..."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:412
-msgid ""
-"There is no 'but'. I have long suspected the Oracle is tool of the evil, not "
-"God's."
-msgstr ""
-"Никаких \"но\". Я давно подозревал, что Оракул - орудие дьявола, а не Бога."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:413
-msgid ""
-"I don't want to interrupt you your interesting discussion, but _I_ think you "
-"will have chance to ask this Gawen directly about everything."
-msgstr ""
-"Не хочу прерывать вашу увлекательную беседу, но ЛИЧНО Я думаю, что вы сейча "
-"всё сможете узнать у Гэвена Хагартена лично."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:414
-msgid ""
-"Akladians - open the way for me and my army. I am your rightful king, I am "
-"messiah, the hand of God on this earth. Whoever opposes me opposes the God."
-msgstr ""
-"Акладианы! Дайте дорогу мне и моей армии. Я ваш законный король. Я мессия, "
-"рука господня на земле. Кто против меня, тот против Господа!"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:415
-msgid ""
-"Stop this blasphemies, foul mixling! You are nothing but a flabby underling."
-msgstr "Хватит болтать, паршивый полукровка! Ты просто дикарь-задохлик."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:417
-msgid ""
-"You already have forgot how you were running from me, reverend Hoyre? Two "
-"times you were fighting me; This time you will be dead on the battlefield, "
-"unless you will recognise me as your king."
-msgstr ""
-"А ты уже забыл как убегал от меня, уважаемый Ойре? Дважды ты сражался со "
-"мной. Теперь ты останешься лежать на поле боя или признаешь меня своим "
-"королём."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:419
-msgid "I am your king, Hoyre. Admit that or I will be forced to kill you."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:421
-msgid ""
-"My king? My king, you? Never! I will rip your heart off! I will cut your "
-"hands and feed the crows with them!"
-msgstr ""
-"Королём? Тебя - своим королём? Никогда! Я вырежу твоё сердце! Я отрублю тебе "
-"руки и скормлю их воронам!"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:422
-msgid ""
-"My lord, Bor Cryne may be just not far away from here. It isn't wise to "
-"fight alone against rebels' army."
-msgstr ""
-"Милорд, возможно Бор Крайн уже недалеко. Возможно мудрее будет дождаться его "
-"и не вступать в битву с бунтовщиками малыми силами."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:423
-msgid ""
-"What about you, noble lord? Will you oppose your king and messiah declared "
-"by the Oracle?"
-msgstr ""
-"А ты что скажешь, благородный лорд? Ты тоже против своего короля и мессии, "
-"провозглашённого Оракулом?"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:424
-msgid ""
-"I don't know what to think. But there IS one way to determine whether you "
-"are really what you claim to be. If you will be able to defeat us.. "
-msgstr ""
-"Даже не знаю что думать. Но ЕСТЬ один способ доказать, что ты именно тот за "
-"кого себя выдаёшь. Если ты сможешь победить нас..."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:425
-msgid ""
-"By the way, Gawen, you started to be really convincing in your role. You "
-"seem to like it, despite what you were telling earlier."
-msgstr ""
-"Кстати, Гэвен, ты начал довольно убедительно смотреться в новой роли. Тебе "
-"это нравится несмотря на всё, что ты говорил раньше."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:426
-msgid "Stop this talk. We have to kill our enemies. To arms!"
-msgstr "Хватит болтать. Мы должны уничтожить врага. К оружию!"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:427
-msgid "Yeah! OH MY GOD, I am agreeing with an underling!"
-msgstr ""
-"Да!\n"
-"О, БОЖЕ МОЙ, я соглашаюсь с дикарём!"
-
-#. [objective]: condition=lose
-#: A_New_Order/scenarios/ano-27.cfg:601 A_New_Order/scenarios/ano-27.cfg:852
-#: A_New_Order/scenarios/ano-25.cfg:452
-msgid "Death of Huon Ryedric"
-msgstr "Смерть Хуона Райдрика"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:460
-#, fuzzy
-msgid ""
-"Everything is lost! Their reinforcements have arrived! We have no chance now "
-"to win!"
-msgstr "Всё потеряно! К нашим врагам пришла помощь! Теперь нам не победить!"
-
-#. [unit]: type=Akladian Sturmknight, id=Bors Brien
-#: A_New_Order/scenarios/ano-25.cfg:490
-msgid "Bors Brien"
-msgstr "Борс Брин"
-
-#. [unit]: type=Akladian Darknite, id=Bors Dark
-#: A_New_Order/scenarios/ano-25.cfg:504
-msgid "Bors Dark"
-msgstr ""
-
-#. [unit]: type=Akladian Wonderman, id=Bors Wonder
-#: A_New_Order/scenarios/ano-25.cfg:512
-msgid "Bors Wonder"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:517
-msgid "Damn! We are too late."
-msgstr "Чёрт! Мы опоздали."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:518
-msgid "Should we attack, my lord?"
-msgstr "Атакуем, милорд?"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:519
-msgid ""
-"No. Hoyre as usual screwed everything he could. We will withdraw to the "
-"north, and wait until Grekulak will come here to help us."
-msgstr ""
-"Нет. Ойре, как всегда, угробил всё, что смог. Отступим на север и подождём "
-"помощи Грекулака."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:522
-msgid ""
-"My king, I've heard that some of people of Wesnoth already started to take "
-"the revenge on their own. Few Akladian villages were massacred south from "
-"Freetown. What will you do?"
-msgstr ""
-"Король, я слышал, что некоторые веснотцы начали мстить за своих сородичей. "
-"Несколько акладианских деревень на юге от Фритауна разорены. Что мы будем "
-"делать?"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:523
-msgid "And what do you think he could do? People want a revenge, so..."
-msgstr "А что вы собираетесь делать? Люди жаждут мести, значит.."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:524
-msgid "Revenge on whom? Innocent woman and children?"
-msgstr "Мести кому? Невиновым женщинам и детям?"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:525
-msgid ""
-"Innocent? No Akladian is innocent. Even if they had not participated in "
-"massacres, maybe their husbands or uncles did, and..."
-msgstr ""
-"Невиновным? Не бывает невиновных акладиан. Даже если они сами никого не "
-"убивали, значит их мужья или отцы, или..."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:526
-msgid ""
-"How many Wesnothians were raised from dead by killing Akladian children, "
-"Huon? I lost whole family in Freetown. But I don't want to revenge them by "
-"killing families of innocent people."
-msgstr ""
-"Сколько веснотцев воскреснет после смерти акладианских детей, Хуон? Я "
-"потерял всю семью во Фритауне. Но я не хочу мстить за них, убивая семьи "
-"безвинных людей."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:527
-msgid ""
-"Anyway, you have to react, my king. If you won't stop this, Akladians with "
-"turn away from you and this will be another round of civil war."
-msgstr ""
-"Как бы то ни было, бы должны как-то отреагировать, мой король. Если ты не "
-"остановишь это, акладианы отвернутся от тебя и гражданская война вступит в "
-"новую стадию."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:528
-msgid ""
-"Punish them? Why? They acted because of despair and anger, they lost their "
-"whole families from hands of Akladians, how can you punish them? And if you "
-"do, a lot of Wesnothians will turn away from you..."
-msgstr ""
-"Наказывать восставших? За что? Их ведут отчаяние и гнев, их семьи пали от "
-"рук акладиан! За что их наказывать? В конце концов, если ты пойдёшь на это, "
-"от тебя отвернутся веснотцы."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:529
-msgid ""
-"I declare the amnesty for everyone. But from this moment anyone, who wants "
-"to spill innocent blood will be chased by me and my people. People, who "
-"already committed crimes should go to pilgrimage to the Oracle to ask for "
-"forgiveness."
-msgstr ""
-"Я объявляю амнистию всем. Но с этого момента тот, кто прольёт невинную "
-"кровь, будет иметь дело со мной и моими людьми. А те, кто сейчас виновен, "
-"должны совершить паломничество к Оракулу и молить о прощении."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:530
-msgid "This supposed to be punishment? Akladians won't like it."
-msgstr "Это называется наказанием? Акладианы не поймут."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:531
-msgid ""
-"I am the messiah. Akladians who would contest my words are tools of the evil "
-"and will never be admitted to the land of the ancestors."
-msgstr ""
-"Я - мессия. Акладиане, которые не прислушиваются к моим словам, суть орудия "
-"зла и никогда не попадут в земли предков."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:532
-msgid "Messiah? You do not actually believe in that?"
-msgstr "Мессия? И ты в это веришь?"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:533
-msgid ""
-"Huon, the proper way to address your king is 'your majesty' or at least 'my "
-"king'. Deorien was right all the time, now I see it. Akladians can rebel "
-"against their king and they can definitely rebel against king of mixed "
-"blood. But they cannot rebel against the hand of God on earth."
-msgstr ""
-"Хуон, к королю нужно обращаться \"Ваше величество\" или хотя бы \"мой король"
-"\". Деориен был прав, теперь я это понимаю. Акладианы могут восстать против "
-"короля и уж точно восстанут против короля-полукровки. Но они не станут "
-"восставать против длани господней."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:534
-msgid "The way to Vattin is free of enemies. Let's go."
-msgstr "Путь в Ваттин очищен от врагов. Пойдём."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:600
-msgid "My king, we could really use some help."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:602
-msgid "We are under heavy attack, my king. We really could use some help."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:611
-msgid "Aaah!"
-msgstr "А-а-ах!"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:612
-msgid "What? Mother, are you hurt?"
-msgstr "Что? Мать, тебе больно?"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:613
-msgid "No... I'm ok.. I'm ok... It was nothing."
-msgstr "Нет... Я в порядке... В порядке... Ничего."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:614
-msgid "But what that? You are wounded?"
-msgstr "Но что это было? Ты ранена?"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:615
-msgid "No, Gawen, I've told you I'm OK!"
-msgstr "Нет, Гэвен. Я же сказала: я в порядке!"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:616
-msgid ""
-"Probably the witch mistakenly drunk a poison she has prepared for someone "
-"else."
-msgstr ""
-"Может эта ведьма проглотила яд, который приготовила для кого-то другого?"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:617
-msgid ""
-"No, my lord. I think I know what's happening with your step-mother, but if "
-"she does not want to tell you, neither will I. But be prepared that she may "
-"not be able to fight in battles which await us in future."
-msgstr ""
-"Милорд, думаю, я знаю, что происходит с вашей мачехой, но если она не хочет "
-"об этом говорить, я тоже буду молчать. Впрочем, предупрежу, чтобы вы были "
-"готовы к тому, что она не сможет принимать участие в будущих битвах."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:618
-#, fuzzy
-msgid ""
-"Underling, be silent. You know nothing. You all know nothing. I will fight."
-msgstr "Молчи, дикарь! Ты ничего не знаешь. Лорин всегда сражается!"
-
-#. [event]
-#: A_New_Order/scenarios/ano-27.cfg:719 A_New_Order/scenarios/ano-25.cfg:670
-msgid "Aaargh! I haven't revenged my family!"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:678
-msgid ""
-"Stop! Don't kill me! I will give you a lot of gold if you will spare me!"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:679
-msgid "Were you at Freetown?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:680
-msgid "NO! It was Bor Cryne! Don't kill me!"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:681
-msgid "I am an empty shell."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:687
-msgid ""
-"Before you will pass, I want to ask you one, simple, very simple question. "
-"Were you with Akladian army which burned Barnon?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:688
-msgid "No! No! That was Bor Cryne, I swear! I wasn't there!"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:691 A_New_Order/scenarios/ano-25.cfg:720
-msgid "Well.."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:692 A_New_Order/scenarios/ano-25.cfg:721
-msgid "Where is Bor Cryne?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:693 A_New_Order/scenarios/ano-25.cfg:722
-msgid "Who gave you the location of Freetown?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:694
-msgid "Do you know who poisoned my mother?"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:698 A_New_Order/scenarios/ano-25.cfg:726
-msgid "Whenever he is, he should be here!"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:700 A_New_Order/scenarios/ano-25.cfg:728
-msgid "I do not know! I wasn't at Freetown, really!"
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:702
-msgid ""
-"I do not know! Uri van Roe or Bor Cryne may know something about that..."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:715
-msgid ""
-"Don't kill me, Lorin! I know you where you still were little child, I played "
-"with you when you were small..."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:716
-msgid "You should've killed me then, when you still have the chance."
-msgstr ""
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:742
-msgid ""
-"You truly are worthy to be our king! Oracle was right! I never should listen "
-"to Hoyre...."
-msgstr ""
-"Ты действительно достоин быть королём! Оракул была права! Я не должен был "
-"слушать Ойре..."
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:761
-msgid "How this could be possible?"
-msgstr "Как это могло случиться?"
-
-#. [event]
-#: A_New_Order/scenarios/ano-25.cfg:770
-msgid "I should've stayed in hills in the north..."
-msgstr "Надо было сидеть в холмах севера..."
 
 #. [scenario]: id=ano_26
 #: A_New_Order/scenarios/ano-26.cfg:3
@@ -19043,15 +19106,17 @@ msgstr "Лучшие воины акладиан избираются глава
 msgid "sword"
 msgstr "меч"
 
-#. [unit_type]: id=Akladian Clanmember, race=akladian
-#: A_New_Order/units/akladians/Akladian_Clanmember.cfg:4
-msgid "Akladian Clanmember"
-msgstr "Член клана Акладиан"
+#. [unit_type]: id=Akladian Clansman, race=akladian
+#: A_New_Order/units/akladians/Akladian_Clansman.cfg:4
+#, fuzzy
+msgid "Akladian Clansman"
+msgstr "Акладианский крестьянин"
 
-#. [unit_type]: id=Akladian Clanmember, race=akladian
-#: A_New_Order/units/akladians/Akladian_Clanmember.cfg:20
+#. [unit_type]: id=Akladian Clansman, race=akladian
+#: A_New_Order/units/akladians/Akladian_Clansman.cfg:20
+#, fuzzy
 msgid ""
-"Akladian Clanmembers are core of Akladian tribes. They are raised in culture "
+"Akladian Clansmen are core of Akladian tribes. They are raised in culture "
 "promoting violence and hearing from childhood that their destination is to "
 "rule over the world. While very lightly armoured and badly armed they still "
 "can be dangerous, especially when used in larger groups. They are recruited "
@@ -19064,7 +19129,7 @@ msgstr ""
 "призываются на службу только в случае необходимости защиты королевства."
 
 #. [attack]: type=pierce
-#: A_New_Order/units/akladians/Akladian_Clanmember.cfg:24
+#: A_New_Order/units/akladians/Akladian_Clansman.cfg:24
 msgid "short spear"
 msgstr "короткое копьё"
 
@@ -19333,8 +19398,9 @@ msgstr "Воин Акладиан"
 
 #. [unit_type]: id=Akladian Warrior, race=akladian
 #: A_New_Order/units/akladians/Akladian_Warrior.cfg:26
+#, fuzzy
 msgid ""
-"Spending their times in constant fights and raids, many Akladian clanmember "
+"Spending their times in constant fights and raids, many Akladian clansmen "
 "become warriors, joining army not only in defense but also in raids against "
 "neighbouring lands."
 msgstr ""
@@ -19877,6 +19943,12 @@ msgstr ""
 "Быть одной из четырёх дочерей великого воина - непростая задача. С детства "
 "слыша истории о битвах, рыцарях и великих подвигах отца, Карен давно решила, "
 "что участь смирной домохозяйки не для неё."
+
+#~ msgid "Peasant"
+#~ msgstr "Крестьянин"
+
+#~ msgid "Akladian Clanmember"
+#~ msgstr "Член клана Акладиан"
 
 #~ msgid "I don't."
 #~ msgstr "Я не знаю."

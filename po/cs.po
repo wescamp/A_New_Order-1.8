@@ -6,15 +6,15 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-06-10 22:24+0200\n"
-"PO-Revision-Date: 2010-06-08 04:05+0200\n"
+"PO-Revision-Date: 2010-06-11 14:18+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
-"Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
+"Language-Team: Český <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: Lokalize 1.0\n"
 
 #. [campaign]: id=A_New_Order
 #. [editor_group]: id=ano
@@ -869,7 +869,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/01_Breaking_the_Circle.cfg:442
-#, fuzzy
 msgid ""
 "I see two good defensive positions here. One is to the north, near the "
 "village; the second is on the hills east from here. Use your troops to cover "
@@ -878,7 +877,7 @@ msgid ""
 msgstr ""
 "Vidím dva dobré opěrné strategické body: jeden je na severu, poblíž vesnice; "
 "druhý je v horách na východ, ale zase žádná vesnice poblíž. Postupuj tak, "
-"aby si Tví vojáci vždy kryli záda. Příslušníci klanu sice nejsou zrovna "
+"aby si Tví vojáci vždy kryli záda. Řadoví Akladijci sice nejsou zrovna "
 "zdatní v boji, ale můžeš je použít ve dvojici k obklíčení a tedy zablokování "
 "nepřátelské jednotky."
 
@@ -1289,16 +1288,15 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:316
-#, fuzzy
 msgid ""
 "Go and take the villages to have more gold. Recruit as many Clansmen as you "
 "can. Most of them will probably die, but the rest may become good fighters. "
 "Do not forget to recall our soldiers, too. Be careful, do not hurry without "
 "necessity. To cure wounded units you may use wiseman or villages."
 msgstr ""
-"Běž a obsaď vesnice, abys získal víc peněz. Naverbuj tolik Příslušníků "
-"klanu, kolik můžeš. Většina z nich pravděpodobně zemře, ale ze zbytku se "
-"stanou dobří bojovníci. nezapomeň přivolat staré bojovníky. Buď opatrný, "
+"Běž a obsaď vesnice, abys získal víc peněz. Naverbuj tolik řadových "
+"Akladijců, kolik můžeš. Většina z nich pravděpodobně zemře, ale ze zbytku se "
+"stanou dobří bojovníci. Nezapomeň přivolat staré bojovníky. Buď opatrný, "
 "zbytečně nespěchej. K léčení jednotek použij Akladijské šamany nebo vesnice."
 
 #. [objective]: condition=win
@@ -1468,7 +1466,6 @@ msgstr "Ubohý kamaráde!"
 
 #. [event]
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:636
-#, fuzzy
 msgid ""
 "He had an honorable death. Do not let fear for losing units paralyse you; "
 "There are a lot more clansmen ready to fight for you."
@@ -2713,7 +2710,6 @@ msgstr "Smrt Huona Ryerdika"
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:473
-#, fuzzy
 msgid ""
 "Everything is lost! Their reinforcements have arrived! We have no chance now "
 "to win!"
@@ -2879,32 +2875,32 @@ msgstr "Cesta do Vattinu je volná. Můžeme vyrazit."
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:558
 msgid "Vojta"
-msgstr ""
+msgstr "Vojta"
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:568
 msgid "Kuba"
-msgstr ""
+msgstr "Kuba"
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:578
 msgid "Matěj"
-msgstr ""
+msgstr "Matěj"
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:589
 msgid "Pankrác"
-msgstr ""
+msgstr "Pankrác"
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:598
 msgid "Servác"
-msgstr ""
+msgstr "Servác"
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:607
 msgid "Bumbác"
-msgstr ""
+msgstr "Bumbác"
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:617
@@ -2962,7 +2958,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:635
-#, fuzzy
 msgid ""
 "Underling, be silent. You know nothing. You all know nothing. I will fight."
 msgstr ""
@@ -4601,15 +4596,14 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-06.cfg:107
-#, fuzzy
 msgid ""
 "Now you should be safe, Lady Lorin. I have escorted you to this place. You "
 "may choose now five best troops from my army. I shall also leave you all the "
 "gold, which is $gold|. And then, we part ways."
 msgstr ""
 "Teď už jsi v bezpečí, Lady Lorin. Doprovodil jsem tě až sem. Teď si můžeš "
-"vybrat mých 5 nejlepších vojáků. Taky ti nechám všechno zlato, dělá to "
-"dohromady |$gold|. A pak se rozejdeme."
+"vybrat mých 5 nejlepších vojáků. Taky ti nechám všechno zlato, |$gold| "
+"zlatých. A pak se rozejdeme."
 
 #. [event]
 #: A_New_Order/scenarios/ano-06.cfg:108
@@ -5398,12 +5392,11 @@ msgstr "Byla by pro mě čest, kdybys byl v mojí armádě."
 
 #. [command]
 #: A_New_Order/scenarios/ano-09.cfg:218
-#, fuzzy
 msgid ""
 "After this battle you will be able to recruit Akladian Clansmen, Warriors "
 "and Wisemen again."
 msgstr ""
-"Po bitvě budeš moct zase verbovat Příslušníky Akladijského klanu, Akladijské "
+"Po bitvě budeš moct zase verbovat Řadové Akladijce, Akladijské "
 "bojovníky a šamany."
 
 #. [command]
@@ -5431,10 +5424,8 @@ msgstr ""
 
 #. [command]
 #: A_New_Order/scenarios/ano-09.cfg:241
-#, fuzzy
 msgid "After this battle you will be able to recruit Akladian Clansmen again."
-msgstr ""
-"Po konci bitvy budeš moci znovu verbovat Příslušníky Akladijského klanu."
+msgstr "Po skončení bitvy budeš moci znovu verbovat Řadové Akladijce."
 
 #. [then]
 #: A_New_Order/scenarios/ano-09.cfg:253
@@ -5561,7 +5552,6 @@ msgstr "Kam jste schovali zlato?"
 
 #. [then]
 #: A_New_Order/scenarios/ano-09.cfg:351
-#, fuzzy
 msgid ""
 "Gold? What gold? I know nothing about AAARGH it's in a safe place, I will "
 "show you!"
@@ -5589,7 +5579,6 @@ msgstr "Můžeš obdivovat moji ušlechtilost."
 
 #. [then]
 #: A_New_Order/scenarios/ano-09.cfg:367
-#, fuzzy
 msgid ""
 "Orcs? Bor Cryne told us to wait for them here. We will go then kill every "
 "one who is unworthy of being Akladian. Those who violated our customs, who "
@@ -5597,8 +5586,8 @@ msgid ""
 "Only then God will again be fond of us and he will reward us, completing of "
 "our conquest of Wesnoth."
 msgstr ""
-"Skřeti? Bor Cryne nám řekl, že tu máme na ně počkat. A pak spolu půjdem a "
-"pozabíjíme každého, kdo není hoden být Akladijcem. Všechny, kteří porušují "
+"Skřeti? Bor Cryne nám řek, že tu máme na ně počkat. A pak spolu půjdem a "
+"pozabíjíme každého, kdo není hoden být Akladijcem. Každýho, kdo porušuje "
 "naše staré tradice, kdo se přátelí s podřadnýma, kdo se protiví bohu ženením "
 "se s nima. Jenom pak se Bůh k nám zase navrátí, bude nás milovat a odmění "
 "nás svou podporou při dokončení našeho úkolu - ovládnout Wesnoth."
@@ -5676,13 +5665,11 @@ msgstr "Zklamána? Chtěla's větší akci?"
 
 #. [then]
 #: A_New_Order/scenarios/ano-09.cfg:403
-#, fuzzy
 msgid "There will be enough action when orcs come."
 msgstr "Větší prácička přinde až přitáhnout skřeti."
 
 #. [event]
 #: A_New_Order/scenarios/ano-09.cfg:434
-#, fuzzy
 msgid ""
 "What part of the phrase 'do not kill their leaders, leave them for me' have "
 "you not understood?"
@@ -5696,7 +5683,6 @@ msgstr "Ale to byla sebeobrana!"
 
 #. [event]
 #: A_New_Order/scenarios/ano-09.cfg:436
-#, fuzzy
 msgid ""
 "Yeah, sure. God, why these males are thinking I can't handle my enemies "
 "myself?"
@@ -5740,7 +5726,6 @@ msgstr ""
 
 #. [then]
 #: A_New_Order/scenarios/ano-09.cfg:451
-#, fuzzy
 msgid ""
 "Well, haven't you heard? Some army, orcish, is coming here. We have to "
 "prepare defenses. And then we will think what else."
@@ -5750,14 +5735,13 @@ msgstr ""
 
 #. [else]
 #: A_New_Order/scenarios/ano-09.cfg:454
-#, fuzzy
 msgid ""
 "Well, I have my own castle. That's for starters. Now I need more gold, so I "
 "guess we would have to kindly ask our neighbors for some. But we need some "
 "time to rest and cure the wounded."
 msgstr ""
 "Dobře, mám svůj vlastní hrad. To je pro začátek. Teď potřebuju víc zlata, "
-"takže si řeknu u sousedů o nějaké. Ale nejdřív potřebujeme nějakej čas na "
+"takže si řeknu u sousedů o nějaké. Ale nejdřív potřebujem nějakej čas na "
 "vodpočinek a na vyléčení zranění."
 
 #. [then]
@@ -5771,7 +5755,6 @@ msgstr ""
 
 #. [then]
 #: A_New_Order/scenarios/ano-09.cfg:464
-#, fuzzy
 msgid "What's so strange in that?"
 msgstr "A co je na tom tak divného?"
 
@@ -5782,7 +5765,6 @@ msgstr "No... nic. Navíc to vypadá, že mnoho z nich chce za tebe bojovat."
 
 #. [event]
 #: A_New_Order/scenarios/ano-09.cfg:525
-#, fuzzy
 msgid ""
 "Inside of the castle we found a lot of supplies. I hope we will find good "
 "use for them."
@@ -5807,13 +5789,11 @@ msgstr "Ale to bylo v sebeobraně!"
 
 #. [then]
 #: A_New_Order/scenarios/ano-09.cfg:573
-#, fuzzy
 msgid "You really can fight. I want to honor you before my death."
 msgstr "Ty se opravdu umíš bít! Než chcípnu, chci ti pogratulovat."
 
 #. [then]
 #: A_New_Order/scenarios/ano-09.cfg:574
-#, fuzzy
 msgid ""
 "What's wrong with you, Akladians? They hated you, you started to kill them "
 "and now they start to like you? Are you all some kind of gluttons for "
@@ -5855,7 +5835,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-10.cfg:38
-#, fuzzy
 msgid ""
 "Inside the castle of Haeltin, Lorin found large quantities of food, as well "
 "as arrows and weapons. It seemed like the castle owners were expecting a "
@@ -5867,7 +5846,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-10.cfg:42
-#, fuzzy
 msgid ""
 "Lorin ordered the castle to be prepared for defense. Men worked day and "
 "night, while eager snowflakes were melting on their bodies. She worked with "
@@ -5967,7 +5945,6 @@ msgstr ""
 
 #. [then]
 #: A_New_Order/scenarios/ano-10.cfg:148
-#, fuzzy
 msgid ""
 "We should sacrifice an ox to God. There are too many of them, without God's "
 "help we won't be able to defeat them."
@@ -6094,7 +6071,6 @@ msgstr "Mimochodem, co tu dělají skřeti? Proč se s váma spolčují?"
 
 #. [then]
 #: A_New_Order/scenarios/ano-10.cfg:242
-#, fuzzy
 msgid ""
 "They will help us purify our race. We will go and kill every one who is "
 "unworthy of being Akladian. Those who violated our customs, who are friends "
@@ -6102,7 +6078,7 @@ msgid ""
 "then will God again be fond of us and reward us with conquest of Wesnoth and "
 "the whole world."
 msgstr ""
-"Pomáhají nám usnadnit naši věc. Zabíjíme každého kdo je \"nehodný\" býti "
+"Pomáhaj nám usnadnit naši věc. Zabíjíme každého, kdo je \"nehodný\" býti "
 "Akladijcem. Ti, kteří pošpinili naši pověst, kdo se přátelí s podřadnými, "
 "ti, kdo se příčí Bohu ženěním se s jejich ženami. Jenom tehdy nás Bůh bude "
 "zase milovat a zase při nás bude stát při dokončení naší mise, dobytí celého "
@@ -6285,7 +6261,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-10.cfg:485
-#, fuzzy
 msgid ""
 "Listen carefully. Do not have any hope. Do not try anything. First, I am an "
 "Akladian and you are not. Second, I am a bad woman. You have no idea how "
@@ -6324,9 +6299,8 @@ msgstr "Moji vojáci! On zabíjí mé vojáky!"
 
 #. [event]
 #: A_New_Order/scenarios/ano-10.cfg:561
-#, fuzzy
 msgid "I never knew you cared so much for your warriors."
-msgstr "Nikdy jsem tě neviděl se tak starat o své vojáky..."
+msgstr "Nikdy jsem tě neviděl se tak starat o své vojáky."
 
 #. [event]
 #: A_New_Order/scenarios/ano-10.cfg:562
@@ -6372,7 +6346,6 @@ msgstr "Rokování ve Svobodově."
 
 #. [part]
 #: A_New_Order/scenarios/ano-11.cfg:11
-#, fuzzy
 msgid ""
 "The day was bright when Gawen Hagarthen entered the forests of Raedwood. "
 "There, inside the very heart of the forest, lay the city of Freetown, "
@@ -6387,7 +6360,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-11.cfg:14
-#, fuzzy
 msgid ""
 "Karen said she could smell the freedom in the air here; Gawen smelled "
 "nothing, though, only the meals prepared in field kitchen. It was not given "
@@ -6402,7 +6374,6 @@ msgstr ""
 #. [label]
 #: A_New_Order/scenarios/ano-15a.cfg:21 A_New_Order/scenarios/ano-11.cfg:20
 #: A_New_Order/scenarios/ano-15.cfg:27
-#, fuzzy
 msgid "Freetown"
 msgstr "Ku Svobodovu"
 
@@ -6477,7 +6448,6 @@ msgstr "Já tě nenávidím."
 
 #. [event]
 #: A_New_Order/scenarios/ano-11.cfg:110
-#, fuzzy
 msgid ""
 "But now he has to leave. We have very important and secret things to talk "
 "upon."
@@ -6490,7 +6460,6 @@ msgstr "Má mou plnou důvěru. Zůstane."
 
 #. [event]
 #: A_New_Order/scenarios/ano-11.cfg:112
-#, fuzzy
 msgid ""
 "Now, let's greet our honorable guest, Mithrandil from the northern Elves. He "
 "made a long journey here and he bears important news."
@@ -6500,7 +6469,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-11.cfg:113
-#, fuzzy
 msgid ""
 "My respect and best wishes for everyone in this free city. I hope you will "
 "forgive me for not boring you with a long and pompous traditional speech. "
@@ -6523,7 +6491,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-11.cfg:115
-#, fuzzy
 msgid ""
 "He is saying the truth, Huon. You have not seen the reports I've gotten."
 msgstr ""
@@ -6531,7 +6498,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-11.cfg:116
-#, fuzzy
 msgid ""
 "They indeed crossed the free realms of the north. The relations among humans "
 "are none of my business. Also, I will pretend that I have not noticed that "
@@ -6545,7 +6511,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-11.cfg:117
-#, fuzzy
 msgid ""
 "According to what we gathered, it's internal strife amongst Akladians. If "
 "Akladians are slaughtering each other, even if with Orcish help, why should "
@@ -6557,7 +6522,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-11.cfg:118
-#, fuzzy
 msgid ""
 "We elves believe that this is more than just an Orcish invasion and quarrels "
 "between Akladians. Something greater, something evil, is hiding behind this. "
@@ -6568,7 +6532,7 @@ msgstr ""
 "My, Elfové, jsme přesvědčeni, že se jedná o daleko více než jen vyřizování "
 "účtů mezi Akladijci. Něco mnohem většího, nějaké vyšší zlo se ukrývá za tím "
 "vším. Co tím ale může být, to doposud neznáme. Tak daleko naše vědomosti "
-"nesahají. Přišel jsem Vás varovat, pomoci Vám a požádat a pomoc. Rozkryjte "
+"nesahají. Přišel jsem Vás varovat, pomoci Vám a požádat o pomoc. Rozkryjte "
 "pravý důvod příchodu skřetů. Odhalte, kdo nebo co se ukrývá v pozadí. Naši "
 "moudří mají jisté tušení, ale musíme si být jisti."
 
@@ -6590,7 +6554,6 @@ msgstr "Ne, Gwidle. Moje armáda půjde pod vedením našeho ... Gaumhaldrika."
 
 #. [event]
 #: A_New_Order/scenarios/ano-11.cfg:121
-#, fuzzy
 msgid ""
 "I will join Huon with part of my escort, I will gave the rest of them to "
 "Ruv.. to Gah - uhm - haldreeck. My finest archer, my best captain, two "
@@ -6600,7 +6563,7 @@ msgstr ""
 "Já se s dílem své eskorty připojím k Huonovi, zbytek přenechám pod velením "
 "Ruv.. Gah..-uhm-..haldaríka. Mého nejlepšího lučištníka, mého skvělého "
 "kapitána, dva bojovníky a nádavkem jednoho lučištníka. A o koho ještě "
-"požádáš, o šamana nebo průzkumníka?"
+"požádáš, o šamana či průzkumníka?"
 
 #. [message]: speaker=Gawen Hagarthen
 #: A_New_Order/scenarios/ano-11.cfg:124
@@ -6862,7 +6825,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-12.cfg:50
-#, fuzzy
 msgid ""
 "Akladians hated woods, passionately, Gawen was told. Yet they established an "
 "outpost at the edge of Raedwood, to protect their settlements in the plains "
@@ -6895,7 +6857,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:140
-#, fuzzy
 msgid ""
 "That's what advisers are for. Right now, we have to leave the forests. Then "
 "find the orcs, catch their leaders and that's it."
@@ -6905,7 +6866,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:152
-#, fuzzy
 msgid ""
 "I felt we had not enough gold to accomplish the task ahead. So, I asked the "
 "others from the council of Freetown for help and they had agreed. We now "
@@ -6916,7 +6876,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:160
-#, fuzzy
 msgid "Karen! What are you doing here!?"
 msgstr "Karen! Co ty tady děláš?"
 
@@ -6927,7 +6886,6 @@ msgstr "Je mi to moc líto, můj Pane. Nemohl jsem ji zastavit."
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:162
-#, fuzzy
 msgid ""
 "I'm sorry father. I just couldn't miss the opportunity to see how our great "
 "future king is doing great heroic things, the kind the great future kings "
@@ -6954,7 +6912,6 @@ msgstr "Budoucí král? O čem to to děvče blábolí?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:166
-#, fuzzy
 msgid ""
 "You didn't know? Your true mother was from a long line of kings. The last of "
 "her branch. You are true heir to the throne of Wesnoth."
@@ -6964,7 +6921,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:167
-#, fuzzy
 msgid ""
 "Along with your cousins from other branches, of course. They are also true "
 "heirs to the throne of Wesnoth."
@@ -6984,7 +6940,6 @@ msgstr "Nemáš na vybranou. Je to Tvůj úděl."
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:170
-#, fuzzy
 msgid ""
 "No, I don't want to. Besides, if there are other heirs, why me? What should "
 "I do with those other cousins, if they won't recognise me as king?"
@@ -6994,7 +6949,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:171
-#, fuzzy
 msgid ""
 "Why, you should fight and kill them. That's kind a family tradition. Didn't "
 "your mother teach you anything?"
@@ -7004,7 +6958,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:172
-#, fuzzy
 msgid ""
 "No. I want only peace. I don't want to start civil wars, or fight for any "
 "throne. No and let's not talk about it again."
@@ -7014,7 +6967,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:173
-#, fuzzy
 msgid ""
 "There will come time when we'll have to talk about it again. For now, we "
 "should get through the lines of the Akladians."
@@ -7024,7 +6976,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:174
-#, fuzzy
 msgid ""
 "If I may suggest, my lord. We are here to gather news. But I don't think "
 "interrogating the eastern enemy leader makes any sense. He doesn't look "
@@ -7036,14 +6987,12 @@ msgstr ""
 
 #. [objectives]
 #: A_New_Order/scenarios/ano-12.cfg:180
-#, fuzzy
 msgid ""
 "In this scenario, you may interrogate the leader with either Ruvio or Gawen, "
 "it will make no difference.\n"
 "\n"
 "Move Ruvio to signpost to ask him for advice."
 msgstr ""
-"\n"
 "V tomto scénáři je jedno, zda bude vyslýchat vůdce nepřátel Ruvio či Gawen.\n"
 "\n"
 "Chceš-li poradit od Ruvia, pošli ho na směrovník."
@@ -7055,7 +7004,6 @@ msgstr "Dojdi s Gawenem na jižní okraj mapy NEBO"
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:227
-#, fuzzy
 msgid ""
 "Uhmmm.. I should investigate him, right? So... Uhmm.. What did you eat for "
 "breakfast?"
@@ -7075,13 +7023,11 @@ msgstr "Ále, nic."
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:230
-#, fuzzy
 msgid "Wait, don't kill him!"
 msgstr "Počkej, nezabíjej ho!"
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:231
-#, fuzzy
 msgid "He's already dying. I don't think he heard us."
 msgstr "Je po něm. Myslím, že nás vůbec neslyšel."
 
@@ -7102,13 +7048,11 @@ msgstr "Ojojój! Elfové! Zelení ďábli jsou tu!"
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:286
-#, fuzzy
 msgid "We fought our way out of forest. What now?"
 msgstr "Zříš? Tak se v lese bojuje po Elfím. Co dál?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:287
-#, fuzzy
 msgid ""
 "Now Gaumhaldric the Great will accomplish all those amazing things that "
 "bards will sing about him in future."
@@ -7118,19 +7062,16 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:288
-#, fuzzy
 msgid "Ruvio, could you please send her back home?"
 msgstr "Ruvio, prosím, můžeš ji poslat šupito presto domů?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:289
-#, fuzzy
 msgid "Stop it, kids. We've got to go. We have a mission to accomplish."
 msgstr "Přestaň, Karen. Musíme jít. Máme tady poslání."
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:290
-#, fuzzy
 msgid ""
 "A GREAT mission. Hey, Gaumhaldric, I think I just made a song about this. Do "
 "you want to hear it?"
@@ -7140,7 +7081,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-12.cfg:295
-#, fuzzy
 msgid ""
 "If I may suggest something, you may want to use elves. Six elves alone is "
 "enough force to hold the eastern leader, especially using hit-and-run "
@@ -7149,8 +7089,8 @@ msgid ""
 msgstr ""
 "Mohu-li něco poradit, bylo by dobré nasadit Elfy. Šest Elfů v lese je síla "
 "dostatečná k tomu, aby zvládli posádku na východě. Zvláště při použití "
-"taktiky \"bodni a uteč.\n"
-"\"Jedna nepřátelská jednotka nic nezmůže, takže je možné ji ignorovat a "
+"taktiky \"bodni a uteč.\" Jedna nepřátelská jednotka nic nezmůže, takže je "
+"možné ji ignorovat a "
 "přitom se vší silou soustředit na jinou nepřátelskou jednotku. A pěkně "
 "pomaloučku, času je spousta."
 
@@ -7167,6 +7107,12 @@ msgid ""
 "way, they found a near-frozen orc, dying in the snow. 'Grekulark', it said, "
 "and then expired."
 msgstr ""
+"Zahořklý a roztrpčený, že se mu nepodařilo vyslechnout jediného vůdce "
+"skřetů, který mohl něco vědět, "
+"vracel se Gawen se svými vojáky zpět do Svobodova. Cestou narazili na "
+"skřeta, který už ve sněhu téměř umrzl. "
+"Gawen se ho rozhodl vyslechnout. Skřet řekl jediné slovo, 'Grekulak', a "
+"zemřel. "
 
 #. [part]
 #: A_New_Order/scenarios/ano-13.cfg:53
@@ -8515,26 +8461,20 @@ msgstr ""
 
 #. [objectives]
 #: A_New_Order/scenarios/ano-14a.cfg:197
-#, fuzzy
 msgid ""
 "Lady Lorin can also interrogate enemy leaders.\n"
 "You will receive no bonus if withdrawing with Gawen."
 msgstr ""
-"\n"
 "Také Lady Lorin může vyslýchat nepřátelské vůdce. \n"
 "Pokud s Gawenem uprchneš, nezískáš žádný bonus."
 
 #. [objectives]
 #: A_New_Order/scenarios/ano-14a.cfg:205
-#, fuzzy
 msgid "You will receive no bonus if withdrawing with Gawen."
-msgstr ""
-"\n"
-"Pokud s Gawenem uprchneš, nezískáš žádný bonus."
+msgstr "Pokud s Gawenem uprchneš, nezískáš žádný bonus."
 
 #. [event]
 #: A_New_Order/scenarios/ano-14a.cfg:219
-#, fuzzy
 msgid ""
 "That's impossible! They are breaking into the city! How, how, how this could "
 "happened? Where are my soldiers? My allies? Help me!!"
@@ -8559,7 +8499,6 @@ msgstr "Hej, stůj, a co náš souboj? Zbabělec!"
 
 #. [event]
 #: A_New_Order/scenarios/ano-14a.cfg:237 A_New_Order/scenarios/ano-14a.cfg:255
-#, fuzzy
 msgid ""
 "He ran away! But I will meet him one day, and then he will have no time to "
 "flee.."
@@ -8569,7 +8508,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14a.cfg:269
-#, fuzzy
 msgid ""
 "Hey, I think I know you! Weren't you one of those young chieftains who "
 "visited Vattin the other day.."
@@ -8610,13 +8548,12 @@ msgstr "A doprdele."
 
 #. [event]
 #: A_New_Order/scenarios/ano-14a.cfg:275
-#, fuzzy
 msgid ""
 "I promised myself that I would take revenge one day. And see, the God was "
 "fond of me, because he let me kill you! Or maybe do you know something about "
 "the orcs, why are they here and all?"
 msgstr ""
-"Přísahala jsem si, že se ti pomstím. A vidíš, Bůh mně vyslyšel, protože mně "
+"Přísahala jsem si, že se ti pomstím. A vidíš, Bůh mě vyslyšel, protože mně "
 "nechal naživu, abych tě teďka mohla zabít! Anebo snad víš něco o těch "
 "mizerných skřetech? Proč tady jsou a tak dále..."
 
@@ -8649,7 +8586,6 @@ msgstr "Matko..."
 
 #. [event]
 #: A_New_Order/scenarios/ano-14a.cfg:292
-#, fuzzy
 msgid ""
 "Listen, if you'll answer me a few questions I'll let you go. Understand? "
 "Now, what do you know about orcs and why they are here?"
@@ -8677,7 +8613,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14a.cfg:311
-#, fuzzy
 msgid ""
 "Listen, if you will answer my questions I will let you go. Understand? Now, "
 "what do you know about orcs and why they are here?"
@@ -8687,7 +8622,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14a.cfg:313
-#, fuzzy
 msgid "He knows nothing. Let him go"
 msgstr "Nic neví, nech ho jít."
 
@@ -8816,7 +8750,6 @@ msgstr "Pane, opravdu chceš složit zbraně?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-14a.cfg:402
-#, fuzzy
 msgid ""
 "Oh no! New reinforcements arrived to help our enemies, now we cannot win!"
 msgstr ""
@@ -8849,7 +8782,6 @@ msgstr ""
 
 #. [scenario]: id=ano_14_bontom
 #: A_New_Order/scenarios/ano-14b.cfg:11
-#, fuzzy
 msgid "Now, we may withdraw. There is no point in fighting the others."
 msgstr "Teď můžeme klidně odtáhnout. Není žádný důvod bojovat dál."
 
@@ -8866,7 +8798,6 @@ msgstr "Poznámka: nezískáš žádný bonus, pokud Reme dojde ke směrovníku.
 
 #. [part]
 #: A_New_Order/scenarios/ano-14b.cfg:37
-#, fuzzy
 msgid ""
 "Guides showed Gawen where Bontom was located. He and his army soon reached "
 "the area. Of course his army was too big to be not noticed and his scouts "
@@ -8917,7 +8848,6 @@ msgstr "A co ti druzí?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-14b.cfg:217
-#, fuzzy
 msgid ""
 "I don't care about the others. If you want, you may ask them questions, but "
 "I won't waste my time on them."
@@ -9010,13 +8940,11 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14b.cfg:253 A_New_Order/scenarios/ano-14b.cfg:327
-#, fuzzy
 msgid "You may recruit Akladian Clansmen again."
-msgstr "Znovu můžeš verbovat Příslušníky Akladijského klanu."
+msgstr "Znovu můžeš verbovat Řadové Akladijce."
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/ano-14b.cfg:274 A_New_Order/scenarios/ano-14b.cfg:289
-#, fuzzy
 msgid ""
 "NORMAL: Rescue Reme Carrenemoe and move him to the north-eastern signpost"
 msgstr "NORMÁLNĚ: Zachraň Remeho a dojdi s ním k severovýchodnímu směrovníku"
@@ -9032,7 +8960,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14b.cfg:307
-#, fuzzy
 msgid "To win, you should move Reme Carrenemore here!"
 msgstr "Víš, kde je teď Reme Carrenemoe?"
 
@@ -9205,7 +9132,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14b.cfg:464
-#, fuzzy
 msgid ""
 "You are from Outlaw Base, right? Place from which assasins come.. Maybe you "
 "know who poisoned the mother of Gawen Hagarthen?"
@@ -9215,13 +9141,11 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14b.cfg:465
-#, fuzzy
 msgid "I don't know that. A lot of Akladians buy poison from us."
 msgstr "Ale nevím to. Mnoho Akladijců si od nás kupuje jedy."
 
 #. [event]
 #: A_New_Order/scenarios/ano-14b.cfg:467
-#, fuzzy
 msgid ""
 "Someone hired an assassin to kill Gawen Hagarthen, immediately after his "
 "father's death. I know he came from Outlaw Base. Who hired him?"
@@ -9437,7 +9361,6 @@ msgstr ""
 
 #. [scenario]: id=ano_14_haeltin
 #: A_New_Order/scenarios/ano-14c.cfg:3
-#, fuzzy
 msgid "She-Wolf of Haeltin"
 msgstr "Vlčice Haeltinská"
 
@@ -9456,7 +9379,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14c.cfg:64
-#, fuzzy
 msgid ""
 "My Lady, our scouts have told us that an unknown army is approaching us. "
 "Scouts report that it is led by Gaumhaldric, a Wesnothian. I've heard about "
@@ -9470,7 +9392,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14c.cfg:65
-#, fuzzy
 msgid ""
 "What kind of madman is he, attacking in the winter? And why wouldn't we be "
 "able to defend ourselves? Anyway, Yaranov, now it's time for you to learn "
@@ -9478,7 +9399,7 @@ msgid ""
 msgstr ""
 "Je to nějaký šílenec. Útočit v zimě? A my a neubránit se? Proč? Ty, "
 "Jaranove, teď je príma čas, aby ses něco naučil. Přesvědčíme toho "
-"Gaumhaldrika že zaútočit na nás je špatná volba."
+"Gaumhaldrika, že zaútočit na nás je špatná volba."
 
 #. [event]
 #: A_New_Order/scenarios/ano-14c.cfg:66
@@ -9544,7 +9465,6 @@ msgstr "To není možné! Jak.. jak.. dyk si mrtvej!"
 
 #. [event]
 #: A_New_Order/scenarios/ano-14c.cfg:92
-#, fuzzy
 msgid "Wait a moment. She's your mother?"
 msgstr "Počkejte chvilku. Ona je tvoje MATKA?"
 
@@ -9568,7 +9488,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14c.cfg:95
-#, fuzzy
 msgid ""
 "It was Ruvio who saved my life. He took my body from the battlefield and "
 "cared for me until I regained my health. This is his daughter, Karen."
@@ -9628,7 +9547,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14c.cfg:102
-#, fuzzy
 msgid ""
 "Hey, hey, I think there is some misunderstanding here. Gawen is our rightful "
 "king, and he has to get back his heritage. He's king of Wesnoth."
@@ -9639,7 +9557,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14c.cfg:103
-#, fuzzy
 msgid ""
 "Exactly, with the difference that he is king of Vakladia. So, what do you "
 "want, underling, for saving my son's life? Speak quickly, for Gawen and I "
@@ -9653,7 +9570,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14c.cfg:104
-#, fuzzy
 msgid ""
 "Listen, woman, I want nothing from you. Gawen's not going anywhere with you. "
 "He stays with us and he will unite Wesnoth and..."
@@ -9684,7 +9600,6 @@ msgstr "Můj synu, tvoji vojáci sou už dávno ve hradu a tito podřadní..."
 
 #. [event]
 #: A_New_Order/scenarios/ano-14c.cfg:108
-#, fuzzy
 msgid ""
 "These are my troops who fought alongside me. Don't call them underlings. "
 "Then, I want to ask you few questions about the orcs. And then we will leave "
@@ -9696,7 +9611,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14c.cfg:109
-#, fuzzy
 msgid ""
 "The orcs... well, you know that they tried to take my castle? We defeated "
 "them. Could you believe that they were allied with Akladians?"
@@ -9706,7 +9620,6 @@ msgstr ""
 
 #. [then]
 #: A_New_Order/scenarios/ano-14c.cfg:116
-#, fuzzy
 msgid ""
 "Earlier, after the battle at Barnon, we spotted orcs in the hills. I had the "
 "occasion to interrogate one of the Orcish leaders. He said that they waited "
@@ -9718,7 +9631,6 @@ msgstr ""
 
 #. [then]
 #: A_New_Order/scenarios/ano-14c.cfg:125
-#, fuzzy
 msgid ""
 "It seems that Bor Cryne had allied with orcs to kill every Akladian who is "
 "not worthy to be member of our race in Bor Cryne's eyes. It means every "
@@ -9748,7 +9660,6 @@ msgstr ""
 
 #. [then]
 #: A_New_Order/scenarios/ano-14c.cfg:145
-#, fuzzy
 msgid "(whispering) Old friend my arse..."
 msgstr "<šeptem> Starý známý mně může..."
 
@@ -9763,25 +9674,21 @@ msgstr ""
 
 #. [else]
 #: A_New_Order/scenarios/ano-14c.cfg:149
-#, fuzzy
 msgid ""
 "What for? He left me alone. Why not treat him the same way he treated me?"
-msgstr "A proč? Zdrhl ode mě. Proč ho nenechat být ta jak on nechal mě?"
+msgstr "A proč? Zdrhl ode mě. Proč ho nenechat být tak, jak on nechal mě?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-14c.cfg:154
-#, fuzzy
 msgid "So, have you seduced Gaumhaldric already? Or did I miss something?"
 msgstr "Tak co, ty už jsi toho Gaumhaldrika svedla? A nebo jsem něco propásl?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-14c.cfg:169
-#, fuzzy
 msgid ""
 "Because Andrey Yaranov joined you together with Lorin, you can now recruit "
 "Aragwaiths."
 msgstr ""
-"\n"
 "Protože se k tobě připojil zároveň s Lorin i Andrej Jaranov, můžeš nyní "
 "verbovat i Aragwaithi."
 
@@ -9961,7 +9868,6 @@ msgstr "Možná máš pravdu. Měli bychom se vrátit do Svobodova."
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:199 A_New_Order/scenarios/ano-14d.cfg:234
-#, fuzzy
 msgid ""
 "Yes, yes, I will answer, yummie.. liver. What kind of liver it would be?"
 msgstr "Ano, ano, odpovědět. Chtít těžit. Ale co těžit? Zlato? Stříbro? UHLÍ?"
@@ -9991,11 +9897,11 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:203 A_New_Order/scenarios/ano-14d.cfg:238
-#, fuzzy
 msgid ""
 "My boss would know. I know nothing, I am great warrior, not great thinker."
 msgstr ""
-"Moje šéf vědět všecko. Já nevědět nic. Já být velký bojovník, já málo myslet."
+"UMoje šéf vědět všecko. Já nevědět nic. Já být velký bojovník, já málo "
+"myslet."
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:205 A_New_Order/scenarios/ano-14d.cfg:240
@@ -10093,7 +9999,6 @@ msgstr "Poznámka: pokud přijmeš nabídku, nečeká tě bonus za brzké ukonč
 
 #. [scenario]: id=ano_14_saorduc
 #: A_New_Order/scenarios/ano-14e.cfg:11
-#, fuzzy
 msgid "All right, I accept your offer"
 msgstr "Tak jo. Nabídku přijímáme."
 
@@ -10109,12 +10014,11 @@ msgstr "Moudré rozzzhhhodnutí. Tady máššššš zzzlato."
 
 #. [scenario]: id=ano_14_saorduc
 #: A_New_Order/scenarios/ano-14e.cfg:30
-#, fuzzy
 msgid ""
 "Speak quickly, and I will spare your life. What do you know about alliance "
 "between orcs and Akladians?"
 msgstr ""
-"Mluv rychle a já ti zachráním život. Co víš o spojenectví mezi skřety a "
+"Mluv rychle a já tě nechám žít. Co víš o spojenectví mezi skřety a "
 "Akladijci?"
 
 #. [scenario]: id=ano_14_saorduc
@@ -10143,7 +10047,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-14e.cfg:46
-#, fuzzy
 msgid ""
 "Ruvio complained that nothing good could be found in Saorduc Swamps, but "
 "that didn't stop Gawen. He reasoned that in winter swamps would be frozen "
@@ -10170,7 +10073,6 @@ msgstr "Bussur"
 
 #. [objectives]
 #: A_New_Order/scenarios/ano-14e.cfg:173
-#, fuzzy
 msgid "You may withdraw by moving Gawen to signpost."
 msgstr "Můžeš ustoupit. Stačí přesunout Gawena na směrovník."
 
@@ -10706,7 +10608,6 @@ msgstr "Zpátky ve Svobodově"
 
 #. [part]
 #: A_New_Order/scenarios/ano-15.cfg:11
-#, fuzzy
 msgid ""
 "The winter was just ending when we returned to Freetown. Soldiers were "
 "singing mirthfull songs, waiting impatiently when they will see again faces "
@@ -10718,7 +10619,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-15.cfg:14
-#, fuzzy
 msgid ""
 "Even Lorin and Karen seemed to finally get along. I think they start to like "
 "each other. Karen even promised to show Lorin to a few easy exercises, to "
@@ -10730,7 +10630,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-15.cfg:18
-#, fuzzy
 msgid ""
 "Ruvio insisted on leaving all Akladians in our army outside the city, in the "
 "forest, but I refused. Of course, inhabitants of Freetown weren't eager to "
@@ -10744,7 +10643,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-15.cfg:21
-#, fuzzy
 msgid ""
 "Huon and Mithrandil were back few days after our arrival. When the time of "
 "another meeting came, nobody questioned my right to be there. Also Lorin "
@@ -10758,7 +10656,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:112
-#, fuzzy
 msgid ""
 "My greetings and wishes of long life and luck for everyone, even for those "
 "who were not invited here and who should never enter this city. Mithrandil, "
@@ -10779,24 +10676,22 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:114
-#, fuzzy
 msgid ""
 "But why? All they brought back is that name: Grekulak.  What's so important "
 "about that?"
 msgstr ""
 "Ale proč? Vždyť jediné, co přinesli, je jeho jméno: Grekulak. Je to pouze "
-"jedno slovo. Proč by mělo být tak důležite?"
+"jedno slovo. Proč by mělo být tak důležité?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:115
-#, fuzzy
 msgid ""
 "I think everyone here knows the legends about Wesnoth's past. When this "
 "kingdom was powerful and rich. You know also the old story about invasion of "
 "evil forces from the east, led by evil lich, Mal-Ravanal."
 msgstr ""
 "Hádám, všichni, jak jste zde, důvěrně jste byli obeznámeni s legendami o "
-"historii Wesnothu. O dobách největších, kdy Wesnoth silným a bohatým se "
+"historií Wesnothu. O dobách největších, kdy Wesnoth silným a bohatým se "
 "zdál. Zajisté znáte i starý příběh o invazi sil zla z východu, vedenou "
 "ďábelským lichem, Mal-Ravanalem."
 
@@ -10804,11 +10699,10 @@ msgstr ""
 #: A_New_Order/scenarios/ano-15.cfg:116
 msgid ""
 "Of course not, that is from WESNOTHIAN culture.  Is it another fairy tale?"
-msgstr ""
+msgstr "Samo že ne, to je WESNOTHSKÁ kultura. To má být další pohádka?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:117
-#, fuzzy
 msgid ""
 "After this invasion large parts of Wesnoth were turned into barren "
 "wasteland. The swamps of Saorduc are in the place where there were vast "
@@ -10821,7 +10715,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:118
-#, fuzzy
 msgid ""
 "Yes, we know this story. That's why the Akladians were able to conquer us. "
 "They could never have been succesful if we would be united."
@@ -10831,7 +10724,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:119
-#, fuzzy
 msgid ""
 "We won because this land was given to us by God. That's why he divided you "
 "and made you forget how to handle swords, why you became weak. When we came, "
@@ -10843,7 +10735,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:120
-#, fuzzy
 msgid ""
 "So, as I was saying just before you were so kind to interrupt me, some time "
 "ago a new leader appeared amongst orcs. His name was Grekulak. He united "
@@ -10853,7 +10744,7 @@ msgstr ""
 "Takže, jak jsem vám vypověděl ještě předtím, než jste mne ráčila přerušit, "
 "před nějakým časem nový vůdce se objevil mezi skřety. Jmenoval se Grekulak. "
 "Zlatem, lépe řečeno lstí a zlatem, sjednotil hordy skřetů, jednu po druhé, "
-"takže nyní poroučí více než třetině skřetů."
+"takže nyní poroučí více než třetině všech skřetů."
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:121
@@ -10866,14 +10757,14 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:122
-#, fuzzy
 msgid ""
 "We believe that Grekulak is one of surviving adepts of Mal-Ravanal. We "
 "suspected that he was behind the sudden alliance of orcs and Akladians. Now "
 "we are certain. We are also sure this orcish invasion is just the beginning."
 msgstr ""
 "Věříme, že Grekulak je jedním z přeživších adeptů Mal-Ravanala. Očekávali "
-"jsme, že on stál za překvapivým spojenectvým skřetů a Akladijců. Nyní jsme "
+"jsme, že právě on stál za překvapivým spojenectvím skřetů a Akladijců. Nyní "
+"jsme "
 "si jisti nade vší pochybnost. Jsme si také jisti, že tato skřetí invaze je "
 "pouhý začátek."
 
@@ -10884,7 +10775,6 @@ msgstr "Co tím myslíš?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:124
-#, fuzzy
 msgid ""
 "I mean you will face an invasion soon. An undead army, orcs, and who know of "
 "what else. You will need help from the mages."
@@ -10895,17 +10785,16 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:125
-#, fuzzy
 msgid ""
 "Great. Akladians, orcs, zombies. And we need help of the mages. But, being a "
 "wise elf and all, you know of course that no mages exist anymore. Maybe a "
 "few on the Isle of Anduin, or in besieged Elensefar, but not enough to help "
 "us."
 msgstr ""
-"Skvěle. Akladijci, skřeti, zombie. A my potřebujeme pomoc mágů. Ale, jsa "
-"moudrý mág a tak dál, samozřejmě víš, že zde nemáme žádných mágů. Možná "
+"Skvělé. Akladijci, skřeti, zombie. A my potřebujeme pomoc mágů. Ale, jsa "
+"moudrý elf a tak dál, samozřejmě víš, že zde nemáme žádných mágů. Možná "
 "nějací zůstali na ostrově Anduin, možná někteří obývají království "
-"Elensefarské, ale ti nám nepomohou."
+"Elensefarské, ale ti nám příliš nepomohou."
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:126
@@ -10918,7 +10807,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:127
-#, fuzzy
 msgid ""
 "Yes. Deorien. A white mage, living somewhere in eastern Wesnoth. You should "
 "go and find him. I will gave you my soldiers and even gold, if you want. "
@@ -10930,23 +10818,20 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:128
-#, fuzzy
 msgid "This meeting is over. We will discuss everything tomorrow."
 msgstr "Setkání skončilo. Vše probereme zítra."
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:140
-#, fuzzy
 msgid ""
 "Great. Green devils advise us to seek the help of whom? Those who are dirt "
 "on the face of God's world. The MAGES."
 msgstr ""
 "Príma. Zelený ďábel nám radí, že máme najít koho? Jednoho z těch špinavců ve "
-"tváři božího světa. MÁGA!"
+"tváři Božího světa. MÁGA!"
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:141
-#, fuzzy
 msgid ""
 "You speak often about something you called God, Lorin. Can you give us more "
 "details about God?"
@@ -10956,7 +10841,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:142
-#, fuzzy
 msgid ""
 "He is the force behind the universe. He created the world and is our father. "
 "He gave us the world to rule. One of his angels tried to stop us from doing "
@@ -10971,7 +10855,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:143
-#, fuzzy
 msgid ""
 "So we killed that evil angel and her minions to journey west. We fought our "
 "way through the swamps and hills, fighting with nightmarish creatures, not "
@@ -10981,11 +10864,10 @@ msgstr ""
 "Tak jsme zamordovali služebníky toho ďábelského anděla a odešli na západ. "
 "Probojovali jsme si cestu bažinama a horama, kde jsme válčili z "
 "nejhrůzostrašnějšíma kreatůrama, a to nemám na mysli ještěráky a zelené "
-"ďábly. Jako malé mi zpívali písničky o té slavné cestě."
+"ďábly. Jako malé holce mi zpívali písničky o té slavné cestě."
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:144
-#, fuzzy
 msgid ""
 "Finally, we reached Wesnoth, decimated, but strenghtened, because it was the "
 "wish of God that weak should perish before we start our holy task. When we "
@@ -10999,7 +10881,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:145
-#, fuzzy
 msgid ""
 "As for mages, they  are main opponents of God in his fight for the good of "
 "the universe, usurping his powers, and elves are minions of the fallen "
@@ -11010,7 +10891,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:146
-#, fuzzy
 msgid ""
 "Oh my goodness. Wow. You are not making fun of us, you actually believe all "
 "that?"
@@ -11037,7 +10917,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:149
-#, fuzzy
 msgid ""
 "Oracle? The Oracle is a hoax. She knows nothing. She once told me... she... "
 "she deceived me. Her prophecy has not been, and cannot be, fullfilled."
@@ -11047,7 +10926,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:150
-#, fuzzy
 msgid ""
 "The Oracle never deceives anyone. She just looks into the sea of magic and "
 "sees everything that may happen. So, she is not saying what will, but what "
@@ -11063,7 +10941,6 @@ msgstr "Nechápu."
 
 #. [event]
 #: A_New_Order/scenarios/ano-15.cfg:152
-#, fuzzy
 msgid ""
 "That means, if she tells you that you will be the best swimmer in the world, "
 "it means you will be great swimmer if you keep on trying. But the prophecy "
@@ -11088,7 +10965,6 @@ msgstr "Přípravy"
 
 #. [part]
 #: A_New_Order/scenarios/ano-15a.cfg:13
-#, fuzzy
 msgid ""
 "Few days has passed. Finally, the Freetown council decided to send Gawen to "
 "search for Deorien. Gwidle Turlin came to Gawen to ask for his agreement."
@@ -11098,7 +10974,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-15a.cfg:117
-#, fuzzy
 msgid ""
 ".. So, you will take twelve of your best troops and search for this great "
 "mage, to try to convince him to join our cause. "
@@ -11113,7 +10988,6 @@ msgstr "Chápu. Můj rádce a dvanáct nejlepších bojovníků. Kdy mám vyrazi
 
 #. [event]
 #: A_New_Order/scenarios/ano-15a.cfg:119
-#, fuzzy
 msgid "Does that mean that you agree?"
 msgstr "Znamená to, že souhlasíš?"
 
@@ -11124,7 +10998,6 @@ msgstr "Samozřejmě."
 
 #. [event]
 #: A_New_Order/scenarios/ano-15a.cfg:121
-#, fuzzy
 msgid ""
 "I think you should start your quest after the thaw. After all, you need some "
 "time to pick the best soldiers and train them."
@@ -11135,7 +11008,7 @@ msgstr ""
 #. [event]
 #: A_New_Order/scenarios/ano-15a.cfg:122
 msgid "If you want, more elves are willing to serve you."
-msgstr ""
+msgstr "Budeš-li chtít, mnoho elfů je nakloněno myšlence pomoci ti."
 
 #. [event]
 #: A_New_Order/scenarios/ano-15a.cfg:123
@@ -11150,15 +11023,13 @@ msgstr "Nebo ti můžeme poskytnout nějaké zlato."
 
 #. [event]
 #: A_New_Order/scenarios/ano-15a.cfg:125
-#, fuzzy
 msgid ""
 "Note: you will have to choose twelve your best soldiers soon. Elves and "
 "soldiers given by Huon and Mithrandil count against this limit. Choose four "
 "soldiers now."
 msgstr ""
 "Poznámka: musíš si vybrat svých dvanáct vojáků brzy. Elfy a Huonovi vojáky "
-"si můžeš vybrat také, ale budou také započítáni. Nyní můžeš čtyřikrát "
-"vybírat."
+"si můžeš vybrat také, ale budou také započítáni. Vyber teď první čtyři."
 
 #. [event]
 #: A_New_Order/scenarios/ano-15a.cfg:129
@@ -11192,25 +11063,21 @@ msgstr "Dej mi..."
 
 #. [event]
 #: A_New_Order/scenarios/ano-15a.cfg:142
-#, fuzzy
 msgid "an Elvish fighter"
 msgstr "Elfího bojovníka"
 
 #. [event]
 #: A_New_Order/scenarios/ano-15a.cfg:143
-#, fuzzy
 msgid "an Elvish archer"
 msgstr "Elfího lučištníka"
 
 #. [event]
 #: A_New_Order/scenarios/ano-15a.cfg:144
-#, fuzzy
 msgid "an Elvish scout"
 msgstr "Elfího průzkumníka"
 
 #. [event]
 #: A_New_Order/scenarios/ano-15a.cfg:145
-#, fuzzy
 msgid "an Elvish shaman"
 msgstr "Šamanku"
 
@@ -11221,19 +11088,16 @@ msgstr "Změnil jsem své rozhodnutí"
 
 #. [event]
 #: A_New_Order/scenarios/ano-15a.cfg:161
-#, fuzzy
 msgid "a Bowman"
 msgstr "Lučištníka"
 
 #. [event]
 #: A_New_Order/scenarios/ano-15a.cfg:162
-#, fuzzy
 msgid "a Spearman"
 msgstr "Kopiníka"
 
 #. [event]
 #: A_New_Order/scenarios/ano-15a.cfg:185
-#, fuzzy
 msgid ""
 "My lord, we know an orcish group attacked a few villages north of here. Huon "
 "Ryedric was going there to defend the villages, but I thought you would want "
@@ -11268,7 +11132,6 @@ msgstr "Zůstanu s ní, pro případ, že je to něco vážnějšího."
 
 #. [event]
 #: A_New_Order/scenarios/ano-15a.cfg:216
-#, fuzzy
 msgid ""
 "Karen, you will stay here, with your mother and sisters. It's too dangerous "
 "for you."
@@ -11277,7 +11140,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-15a.cfg:220
-#, fuzzy
 msgid "So, let's go and choose our twelve best troops."
 msgstr "Tak, pojďme tedy vybrat dvanáct nejlepších jednotek."
 
@@ -11288,7 +11150,6 @@ msgstr "Zapuzení skřetů"
 
 #. [part]
 #: A_New_Order/scenarios/ano-15b.cfg:11
-#, fuzzy
 msgid ""
 "The scouts brought news: a small orcish party north of Freetown. Usually "
 "Huon Ryedric would deal with such marauders, but Gawen decided this was an "
@@ -11305,7 +11166,6 @@ msgstr "Uruk Marlaf"
 
 #. [event]
 #: A_New_Order/scenarios/ano-15b.cfg:66
-#, fuzzy
 msgid ""
 "So, I think this should be easy. There's only one Orcish leader. Take him "
 "down and his band will scatter."
@@ -11315,7 +11175,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-15b.cfg:69
-#, fuzzy
 msgid "Hello there! You missed me, of course?"
 msgstr "Ahojky vy tam. Nechyběla jsem vám?"
 
@@ -11332,7 +11191,6 @@ msgstr "Očekával jsem tě."
 
 #. [objectives]
 #: A_New_Order/scenarios/ano-15b.cfg:74
-#, fuzzy
 msgid ""
 "There are no hidden elements in this scenario. The Orcish leader can't be "
 "interrogated. This scenario is intended for gathering more experience for "
@@ -11350,7 +11208,6 @@ msgstr "Vybírání Nejlepších"
 
 #. [part]
 #: A_New_Order/scenarios/ano-16.cfg:10
-#, fuzzy
 msgid ""
 "Finally, I was confident that my troops are ready for the task which awaited "
 "us. When I told Gwidle about that, he insisted upon a farewell feast. There "
@@ -11367,7 +11224,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-16.cfg:14
-#, fuzzy
 msgid ""
 "Soon we were all a little bit drunk. On my right, Karen kept commenting on "
 "the dancer's faults and how she was much better, and how even her dancer's "
@@ -11379,11 +11235,10 @@ msgstr ""
 "chybu nějaké tanečnice a chvástala se, jak by ona byla mnohem lepší, stejně "
 "tak jak je mnohem lepší její kostým. Zleva jsem slyšel Andreje Jaranova "
 "svádět moji macechu. Tím víc, čím byl opilejší. Lorin ho ignorovala a pořád "
-"si mumlala něco o tom, co jí v mládí řekla Veštkyně."
+"si mumlala něco o tom, co jí v mládí řekla Věštkyně."
 
 #. [part]
 #: A_New_Order/scenarios/ano-16.cfg:18
-#, fuzzy
 msgid ""
 "Karen was the first to leave the chamber, and Lorin went immediately after "
 "her. Of course Yaranov jauntly followed her. I drank with Ruvio, without "
@@ -11395,7 +11250,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-16.cfg:21
-#, fuzzy
 msgid ""
 "I'm not sure when she came to me, devoid of shame and clothes. She entered "
 "my chamber so quietly that I initially mistook it for a dream. I was too "
@@ -11408,7 +11262,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-16.cfg:25
-#, fuzzy
 msgid ""
 "Who was she? She wore a dancer's mask, but somehow I knew she wasn't one of "
 "dancers from a few hours earlier. There was something familiar in the way "
@@ -11422,7 +11275,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-16.cfg:29
-#, fuzzy
 msgid ""
 "She left as quietly as she came, as if she were just a dream. But I still "
 "could smell her in the air, and my hands still remembered her as well. "
@@ -11436,7 +11288,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-16.cfg:32
-#, fuzzy
 msgid ""
 "But I had no such chance. Next day Gwidle woke me before dawn and I came to "
 "my soldiers, to call the twelve best. Most of them were in better shape than "
@@ -11448,7 +11299,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-16.cfg:89
-#, fuzzy
 msgid "Wonderful day... Perfect for starting a quest. You slept well?"
 msgstr "Překrásný den... Perfektní pro začátek naší mise. Vyspal ses dobře?"
 
@@ -11464,7 +11314,6 @@ msgstr "Ještě spí. Včera toho bylo hodně na mou ubohou holčičku."
 
 #. [event]
 #: A_New_Order/scenarios/ano-16.cfg:92
-#, fuzzy
 msgid ""
 "I looked into her room. The dancer's outfit was on the floor, and she slept "
 "in her clothes. I guess she tried to change her clothes, you know, to show "
@@ -11486,13 +11335,11 @@ msgstr "Chudák dítě. Když jsem ji viděla naposled, sotva se potácela."
 
 #. [event]
 #: A_New_Order/scenarios/ano-16.cfg:95
-#, fuzzy
 msgid "Mother! What have you done with your hair?"
 msgstr "Matko! Co sis to udělala s vlasy?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-16.cfg:96
-#, fuzzy
 msgid ""
 "Hair? My hair? I decided that it would be a hindrance in battle, so I cut it."
 msgstr ""
@@ -11514,7 +11361,6 @@ msgstr "Opustil Svobodov."
 
 #. [event]
 #: A_New_Order/scenarios/ano-16.cfg:99
-#, fuzzy
 msgid "Huh? Why?"
 msgstr "Proč?"
 
@@ -11553,7 +11399,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-16.cfg:104
-#, fuzzy
 msgid ""
 "Who allowed you to listen, underling? This discussion is between two worthy "
 "people. Go and bother someone else."
@@ -11568,7 +11413,6 @@ msgstr "Tvá macecha mi začíná lézt na nervy."
 
 #. [event]
 #: A_New_Order/scenarios/ano-16.cfg:106
-#, fuzzy
 msgid ""
 "I said, a widow cannot have a man, husband or in any other way. The man can. "
 "There was time when men could even have a few wives at once. There are women "
@@ -11584,7 +11428,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-16.cfg:107
-#, fuzzy
 msgid ""
 "What a wonderful culture you have. Now, Gawen, choose the twelve best troops."
 msgstr "Máte báječnou kulturu. Tak, Gawene, vyber dvanáct svých nejlepších."
@@ -11619,13 +11462,11 @@ msgstr "Ukonči kolo, pokud už nemůžeš nebo nechceš přivolat víc vojáků
 
 #. [scenario]: id=ano_17
 #: A_New_Order/scenarios/ano-17.cfg:3
-#, fuzzy
 msgid "Sneaking out of Raedwood"
 msgstr "Plížení ven z Raedwoodu"
 
 #. [scenario]: id=ano_17
 #: A_New_Order/scenarios/ano-17.cfg:11
-#, fuzzy
 msgid ""
 "MY KING! Forgive me, kill me now, how could I fight against you? Now I know "
 "I am a worthless traitor."
@@ -11640,7 +11481,6 @@ msgstr "Gawene, říkal jsem ti, že se máš držet v anonymitě."
 
 #. [scenario]: id=ano_17
 #: A_New_Order/scenarios/ano-17.cfg:13
-#, fuzzy
 msgid ""
 "It is for advisers to advise, and the leader to choose whether to follow "
 "that advice. Raban, there is no treachery if you didn't know it was me."
@@ -11651,7 +11491,6 @@ msgstr ""
 
 #. [scenario]: id=ano_17
 #: A_New_Order/scenarios/ano-17.cfg:16
-#, fuzzy
 msgid ""
 "I've heard that name.. New, skilled underling leader. Now I know my honor is "
 "intact even in defeat."
@@ -11683,15 +11522,13 @@ msgstr "Nařídím mým lidem, aby ošetřili tvé zranění. A pak tě propust�
 
 #. [scenario]: id=ano_17
 #: A_New_Order/scenarios/ano-17.cfg:26
-#, fuzzy
 msgid "Go to your ancestors, brave man. I can't leave you alive."
 msgstr "Následuj své předky, odvážný muži. Nemohu tě nechat žít."
 
 #. [scenario]: id=ano_17
 #: A_New_Order/scenarios/ano-17.cfg:31
-#, fuzzy
 msgid "You still hear me, can't you? I have some questions."
-msgstr "Slyšíš mě jěště? Já vím že ano. Mám pár otázek."
+msgstr "Slyšíš mě ještě? Já vím že ano. Mám pár otázek."
 
 #. [scenario]: id=ano_17
 #: A_New_Order/scenarios/ano-17.cfg:32
@@ -11700,7 +11537,6 @@ msgstr "Tak se ptej těch, kteří budou znát odpovědi."
 
 #. [scenario]: id=ano_17
 #: A_New_Order/scenarios/ano-17.cfg:33
-#, fuzzy
 msgid "Wait! Don't die yet! Damn, he lost consciousness already."
 msgstr "Počkej! Neumírej ještě! Zatraceně, ten už své svědomí ztratil."
 
@@ -11711,7 +11547,6 @@ msgstr "Tak mi tedy řekni..."
 
 #. [scenario]: id=ano_17
 #: A_New_Order/scenarios/ano-17.cfg:41
-#, fuzzy
 msgid "Why is Bor Cryne allied with orcs?"
 msgstr "Proč se Bor Cryne spojil se skřety?"
 
@@ -11737,7 +11572,6 @@ msgstr "Mág? Tak ten je určitě v pekle!"
 
 #. [scenario]: id=ano_17
 #: A_New_Order/scenarios/ano-17.cfg:52
-#, fuzzy
 msgid ""
 "I don't know. He is leading the orcs, but he is not orc. I am not sure who "
 "is he. There is gossip that a new messiah will come to lead us to conquer "
@@ -11753,7 +11587,6 @@ msgstr "Nový mesiáš?"
 
 #. [scenario]: id=ano_17
 #: A_New_Order/scenarios/ano-17.cfg:54
-#, fuzzy
 msgid ""
 "Yes. He will show us how to renew our alliance with God, he will show us new "
 "ways. He won't be Akladian, at least not fully Akladian, rumors are not "
@@ -11765,7 +11598,6 @@ msgstr ""
 
 #. [scenario]: id=ano_17
 #: A_New_Order/scenarios/ano-17.cfg:57
-#, fuzzy
 msgid ""
 "It's because we need allies against the usurper mixling, Gawen Hagarthen."
 msgstr ""
@@ -11779,7 +11611,6 @@ msgstr "A jaké jsou jeho plány dobudoucna?"
 
 #. [scenario]: id=ano_17
 #: A_New_Order/scenarios/ano-17.cfg:59
-#, fuzzy
 msgid ""
 "I think Bor wants to be king. He will try to unite all Akladian kingdoms and "
 "finish conquering Wesnoth. On the way he will purify our race by killing "
@@ -11796,7 +11627,6 @@ msgstr "Nečistý? Co tím myslíš?"
 
 #. [scenario]: id=ano_17
 #: A_New_Order/scenarios/ano-17.cfg:61
-#, fuzzy
 msgid ""
 "Those who offended our God by marrying Wesnothian women. Those who allowed "
 "their daughters to live when they chose another husband or married "
@@ -11883,17 +11713,15 @@ msgstr "Nesnáším tento les. Opravdu ho nenávidím. Přímo vášnivě."
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:303
-#, fuzzy
 msgid ""
 "Shut up, Bar. In last year I heard enough of your whining about trees, "
 "woods, branches and so on."
 msgstr ""
 "Zavři klapačku, Bare. Za poslední rok mám už dost toho tvého skučení o "
-"stromech, lesech nebo větvích."
+"stromech, lesech nebo haluzách."
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:304
-#, fuzzy
 msgid ""
 "It's the wind. And this noise.. As if green devils are whispering in the "
 "leaves. I really hate this forest."
@@ -11903,7 +11731,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:305
-#, fuzzy
 msgid ""
 "Spit out those words! Green devils.. I've heard they appeared recently in "
 "Raedwood. My friend told me there were THOUSANDS of them. I wish I would be "
@@ -11915,13 +11742,11 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:306
-#, fuzzy
 msgid "Like in bed with your underling so called 'wife'?"
 msgstr "Jako třeba v posteli se svou podřadnou, které říkáš manželka?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:307
-#, fuzzy
 msgid ""
 "Don't call her that, I've told you. What's wrong with marrying Wesnothian "
 "woman anyway? If our old king could do it, why not us lesser men?"
@@ -11931,7 +11756,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:308
-#, fuzzy
 msgid ""
 "The King is dead. I think God punished him for mixing our holy blood with "
 "that of underlings. And Raban, you should really expel your, as you called "
@@ -11947,7 +11771,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:309
-#, fuzzy
 msgid ""
 "Cousin, do not utter that name! I've heard he was seen on the face of this "
 "world.. As if.. he was alive again.. or undead..."
@@ -11957,7 +11780,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:310
-#, fuzzy
 msgid ""
 "We have to get pass these guards. Akladians set up the line of guards around "
 "the forest some time ago, when our rebellion was becoming more succesful."
@@ -11967,7 +11789,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:311
-#, fuzzy
 msgid ""
 "I want to avoid fighting. Only twelve seasoned troops, and in this "
 "neigborhood I can recruit only peasants. I won't be able to find replacement "
@@ -11979,7 +11800,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:312
-#, fuzzy
 msgid ""
 "If so, then it is up to you to figure out a strategy which will avoid any "
 "losses. We have to just pass near the guards, there is no need to fight them."
@@ -11989,7 +11809,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:313
-#, fuzzy
 msgid ""
 "How typical for underling, avoid a fight. My son, let's slaughter them all! "
 "More enemies, more honor!"
@@ -11999,7 +11818,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:314
-#, fuzzy
 msgid ""
 "With this kind of attitude, how are you still alive, oh mighty SUPER-lingie? "
 "Anyway, I guess we should have at least 250 golden coins at the end of this "
@@ -12036,7 +11854,6 @@ msgstr "Zabijte je! Zabijte je všechny! Rychle! Jsou jich tisíce, jsou všude!
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:381
-#, fuzzy
 msgid ""
 "You are from Raednon clan? So also Raednons' are supporting the treachery of "
 "Bor Cryne. Why I am not surprised? I know you are all pig-eaters and swine-"
@@ -12048,7 +11865,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:382
-#, fuzzy
 msgid ""
 "Stop your insults, witch. I know you: you are Lorin, the witch from Gallorae "
 "clan. You soon will be the last of your clan; how does it feel?"
@@ -12058,19 +11874,16 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:383
-#, fuzzy
 msgid "You can feel THIS. How does IT feel?"
 msgstr "A ty budeš brzy mršina. Jak se TA cítí?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:390 A_New_Order/scenarios/ano-17.cfg:433
-#, fuzzy
 msgid "He had some gold in his castle."
 msgstr "Vypadá to, že měl ve svém hradě nějaké penízky."
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:400
-#, fuzzy
 msgid "You were a worthy opponent, Quivre from Raednons. It was good fight."
 msgstr "Byl jsi dobrým protivníkem, Quivre Raednonský. Byl to dobrý boj."
 
@@ -12081,7 +11894,6 @@ msgstr "Ano, to byl."
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:402
-#, fuzzy
 msgid ""
 "If you were as delighted as I with the fight, please answer a few questions."
 msgstr ""
@@ -12090,7 +11902,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:407
-#, fuzzy
 msgid ""
 "Another super-ling sent to his barbarian hell. How does it feel, mighty "
 "Akladian lord? To be killed by underling?"
@@ -12100,7 +11911,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:408
-#, fuzzy
 msgid ""
 "You wouldn't be able to do this if not for the magical support of that "
 "witch, Lorin. It was she who gave you courage, that traitor to her own race."
@@ -12120,7 +11930,6 @@ msgstr "Byl jsi dobrým protivníkem, Quivre Raednonský. Byl to dobrý boj."
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:416
-#, fuzzy
 msgid ""
 "If you were as delighted as I with the fight, please answer my few questions."
 msgstr ""
@@ -12154,7 +11963,6 @@ msgstr "Přestaň, bosorko. Mě nenaženeš strach."
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:425
-#, fuzzy
 msgid ""
 "Well, I think I will try anyway. Let's start with this little knife you see "
 "here."
@@ -12163,7 +11971,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:465
-#, fuzzy
 msgid ""
 "It was honor to fight with you. Nice fight. You must know, I feel no bad "
 "feelings to you and I will not damage your body when you will die, so you "
@@ -12215,7 +12022,6 @@ msgstr "Jmenuji se..."
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:480
-#, fuzzy
 msgid "Another Akladian lord losing to old underling. How do you explain that?"
 msgstr ""
 "Další Akladijský lord padl rukou starého podřadného. Jak bys to mohl "
@@ -12223,7 +12029,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:481
-#, fuzzy
 msgid ""
 "My wife is Wesnothian, so I know many Wesnothians. Save your irony for "
 "another."
@@ -12248,7 +12053,6 @@ msgstr "Ty mě nedorazíš?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:486
-#, fuzzy
 msgid "No, if you're able to survive your wounds, you will live."
 msgstr "Ne. Pokud budeš schopen se zotavit ze svých zranění, budeš žít."
 
@@ -12274,14 +12078,12 @@ msgstr "Matko, NEUBLIŽUJ tomuto muži."
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:503
-#, fuzzy
 msgid ""
 "My son, but why? He would have gladly harmed me, if I gave him a chance."
 msgstr "Můj Synu, ale proč? On by mi klidně ublížil, kdybych mu dala šanci."
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:505
-#, fuzzy
 msgid ""
 "Hm.. You are still alive. There is strong spirit inside of your body. Accept "
 "the final blow, but before that, know that I won't damage your body."
@@ -12291,13 +12093,11 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:513
-#, fuzzy
 msgid "Where do we go from here?"
 msgstr "Tak kam teď?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:514
-#, fuzzy
 msgid ""
 "I say to hell with that mage. Let's go to Vattin and announce that the king "
 "has returned."
@@ -12311,7 +12111,6 @@ msgstr "Důrazně doporučuji jít k Věštkyni."
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:516
-#, fuzzy
 msgid ""
 "And first thing we will do in Vattin will be to kill all those who interrupt "
 "me when I speak."
@@ -12332,13 +12131,11 @@ msgstr "Těžko."
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:519
-#, fuzzy
 msgid "Who or what is the Oracle anyway?"
 msgstr "Kdo nebo co je ta Věštkyně vlastně zač?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:520
-#, fuzzy
 msgid ""
 "She's a woman, a mage with prophetic abilities. The only mage left in "
 "Vakladia by Akladians, no idea why. When one oracle dies, she is replaced by "
@@ -12353,7 +12150,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:521
-#, fuzzy
 msgid ""
 "The Oracle is not a mage, do not listen to him, my son. This worthless "
 "underling does not know God, that's why he is mistaken, as usual. If the "
@@ -12371,13 +12167,11 @@ msgstr "Přestaň mu říkat \"podřadný\". Přestaň používat toto slovo!"
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:523
-#, fuzzy
 msgid "But how should I call him? He IS an underling."
 msgstr "Ale jak mu mám říkat? On JE podřadný."
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:524
-#, fuzzy
 msgid ""
 "And stop calling me your son. You are not my mother. My mother was an "
 "underling, wasn't she, Lorin? Poisoned by oh so noble Akladians, all full of "
@@ -12436,7 +12230,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-18.cfg:17
-#, fuzzy
 msgid ""
 "From what we gathered, Akladians across Vakladia were fighting each other. "
 "Bor Cryne and his faction were slowly but steadily gaining an advantage, "
@@ -12450,7 +12243,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-18.cfg:21
-#, fuzzy
 msgid ""
 "I wasn't happy with the results of our visit to Oracle. None of her "
 "'answers' satisfied me. Still, we had no idea where to search for Deorien, "
@@ -12480,7 +12272,6 @@ msgstr "Vepřovice"
 
 #. [scenario]: id=ano_18
 #: A_New_Order/scenarios/ano-18.cfg:50
-#, fuzzy
 msgid "Laville"
 msgstr "Laville"
 
@@ -12501,7 +12292,6 @@ msgstr "Můj Pane, už jsme Věštkyni přece navštívili."
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:109 A_New_Order/scenarios/ano-18.cfg:128
-#, fuzzy
 msgid "My lord, I really insist we visit Oracle first"
 msgstr "Můj Pane, v prvé řadě bychom měli navštívit Věštkyni"
 
@@ -12668,7 +12458,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:175
-#, fuzzy
 msgid ""
 "A knight? Ha, ha, I thought you were serious. There are only archers in this "
 "village."
@@ -12678,7 +12467,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:176
-#, fuzzy
 msgid ""
 "The best archers may even earn 45 gold pieces when hired, and twenty golden "
 "pieces for each battle."
@@ -12697,7 +12485,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:179
-#, fuzzy
 msgid ""
 "My lord, will we accept that unit into our army? It is not loyal unit, just "
 "a normal Bowman."
@@ -12724,7 +12511,6 @@ msgstr "Už jsem ti na tuto otázku odpovídal."
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:206
-#, fuzzy
 msgid ""
 "Well, I don't know. But I think he lives on the Isle of Anduin, where all "
 "mages live."
@@ -12734,7 +12520,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:208
-#, fuzzy
 msgid ""
 "You mean you don't know? South from here, west from a larger village called "
 "Porkton. If I lived in that village, I would change its name into something "
@@ -12745,7 +12530,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:210
-#, fuzzy
 msgid ""
 "Something interesting? Well, young Henry is marrying Mary from Buckston. "
 "Last storm was so heavy that it broke all trees in Larry's orchard. Orcs and "
@@ -12797,7 +12581,6 @@ msgstr "Har Barien"
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:260
-#, fuzzy
 msgid "Fight for you? Against my own kin? No joke."
 msgstr "Bojovat za tebe? Proti vlastním lidem? Žertuješ."
 
@@ -12809,7 +12592,6 @@ msgstr "Dobře, nevím. Ale myslím, že Věštkyně to bude vědět, ta ví vš
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:268
-#, fuzzy
 msgid ""
 "God's voice is west from here. I've heard she will visit one of our lords "
 "soon."
@@ -12824,7 +12606,6 @@ msgstr "Jak bych to měl vědět? Lodri žijou svůj vlastní život, my zas ten
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:272
-#, fuzzy
 msgid ""
 "Well, Akladians from Easkladia were defeated by Wesnothians in battle near "
 "Broken Heart Runlet. I think it is because God hides his face from us. Their "
@@ -12836,7 +12617,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:273
-#, fuzzy
 msgid ""
 "We have no king now and because of that, according to custom other "
 "Hagarthens should wait one year until one of them is invited to rule "
@@ -12869,20 +12649,17 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:288
-#, fuzzy
 msgid "My lord! Isn't that Gaumhaldric, about whom we've heard so many tales?"
 msgstr ""
 "Můj Pane! Není to náhodou Ten Gaumhaldrik, o kterém jsme toho tolik slyšeli?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:307
-#, fuzzy
 msgid "It would be honor to join your army."
 msgstr "Bude mi ctí připojit se ke tvé armádě."
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:308 A_New_Order/scenarios/ano-18.cfg:329
-#, fuzzy
 msgid ""
 "My lord, will we accept that unit into our army? It is loyal unit, but it's "
 "just a simple Peasant."
@@ -12897,13 +12674,11 @@ msgstr "Hans"
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:328
-#, fuzzy
 msgid "Yes, that is good enough reason."
 msgstr "Ano, to je dobrý důvod."
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:351
-#, fuzzy
 msgid ""
 "Gold? I thought you were fighting for freedom, not gold. I am so "
 "dissapointed."
@@ -12912,7 +12687,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:361
-#, fuzzy
 msgid ""
 "Well, I don't know. But I think the Oracle may know, she knows everything."
 msgstr "Dobře, nevím. Ale myslím, že Věštkyně to bude vědět, ta ví všechno."
@@ -12924,23 +12698,20 @@ msgstr "Jižně odtud."
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:366
-#, fuzzy
 msgid "East from here. But please, hurry."
 msgstr "Jižně odtud. Ale prosím, pospěšte si."
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:368
-#, fuzzy
 msgid ""
 "A large army went there not long ago. Orcs, Akladians, Outlaws. I don't know "
 "what their intentions are, but I doubt they are friendly."
 msgstr ""
-"Před nedávnem tudy prošla velkánksá armáda. Skřeti, Akladijci, zbojníci. "
+"Před nedávnem tudy prošla velikánská armáda. Skřeti, Akladijci, zbojníci. "
 "Nevím přesně z jakého důvodu, ale nechovali se zrovna přátelsky."
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:372
-#, fuzzy
 msgid ""
 "The greatest news of all is that you have saved the Oracle. This - this is "
 "so wonderful I can't find proper words to describe it."
@@ -12950,7 +12721,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:374
-#, fuzzy
 msgid ""
 "Akladians from other kingdom were defeated by our people in battle near "
 "Broken Heart Runlet. Well, our people - this was army from Blackwater. A "
@@ -12972,7 +12742,6 @@ msgstr "Přítel"
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:389
-#, fuzzy
 msgid ""
 "A lot of friends came to us recently. There are Akladians in your army, I "
 "think. Why should I trust you?"
@@ -12981,20 +12750,17 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:408
-#, fuzzy
 msgid "And die in the first fight. No, thank you."
 msgstr "A zemřít v první bitvě. Ne, děkuji."
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:410
-#, fuzzy
 msgid "Really? Well, If so, one of our boys wants to join your army."
 msgstr ""
 "Opravdu? Dobře, jeden z tvých chlapců by se mohl připojit k mojí armádě."
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:411
-#, fuzzy
 msgid ""
 "My lord, will we accept that unit into our army? It is a loyal unit, but "
 "it's just a simple Peasant."
@@ -13014,7 +12780,6 @@ msgstr "Mrtvoly domů peníze nenosí."
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:440
-#, fuzzy
 msgid "Well, I don't know. He may live in the free kingdom of Elensefar."
 msgstr "No, nevím. Možná žije ve svobodném království Elensefaru."
 
@@ -13036,13 +12801,12 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:447
-#, fuzzy
 msgid ""
 "A lot of interesting things happened recently! Two girls were born in my "
 "village, the same day and even the same hour! Fat Robert lost a horse in the "
 "forest, stolen by outlaws, I think."
 msgstr ""
-"Posledni dobou se stalo tolik zajímavých věcí! Dvě holčičky se nám ve "
+"Poslední dobou se stalo tolik zajímavých věcí! Dvě holčičky se nám ve "
 "vesnici narodily, a to ve stejný den, dokonce ve stejnou hodinu! Tlustému "
 "Robertovi se ztratil v lese kůň, asi mu ho ukradli zbojníci."
 
@@ -13058,7 +12822,6 @@ msgstr "Řekni mi něco o Karen"
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:487
-#, fuzzy
 msgid ""
 "You must be kidding. The woman is so hard to live near I cannot understand "
 "why Yaranov has a crush on her."
@@ -13068,7 +12831,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:491
-#, fuzzy
 msgid ""
 "Weeell, she is my oldest daughter. From her youth she always wanted to be a "
 "great fighter, and she always tried to be the best."
@@ -13083,7 +12845,6 @@ msgstr "Jsem tak nějak překvapen, že tu není s námi."
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:493
-#, fuzzy
 msgid ""
 "I ordered Karl to tie her and lock her room. I think this gave us enough "
 "time to escape. This journey is really too dangerous for her. I hope she "
@@ -13150,13 +12911,11 @@ msgstr "Už sem ti řekla, že ti to nikdy neřeknu."
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:515
-#, fuzzy
 msgid "Nice child. In a few years she could even pretend to be a woman."
 msgstr "Hezké dítě. Za pár let se z ní bude pěkná ženská."
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:517
-#, fuzzy
 msgid ""
 "When I was young, I visited her and she told me.. No, I can't tell you. This "
 "was just between the Oracle and me. The first part of her prediction is "
@@ -13195,13 +12954,11 @@ msgstr "Dojdi s Gawenem ke směrovníku."
 
 #. [event]
 #: A_New_Order/scenarios/ano-19a.cfg:156 A_New_Order/scenarios/ano-19b.cfg:143
-#, fuzzy
 msgid "So, shall we continue our journey?"
 msgstr "Tak, budeme pokračovat v našem putování?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-19a.cfg:166
-#, fuzzy
 msgid ""
 "All is lost! The enemy reinforcements have arrived! We have no chance to win "
 "now!"
@@ -13217,14 +12974,12 @@ msgstr "Vyhráli jsme! Co budeme dělat teď?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-19a.cfg:172 A_New_Order/scenarios/ano-19b.cfg:159
-#, fuzzy
 msgid ""
 "We've got to hurry before the enemy reinforcements arrive here. Let's go."
 msgstr "Musíme si pospíšit, než nepříteli dorazí posily. Pojďme."
 
 #. [scenario]: id=ano_19b
 #: A_New_Order/scenarios/ano-19b.cfg:3
-#, fuzzy
 msgid "Entering Okladia"
 msgstr "Vstup do Okladie"
 
@@ -13240,7 +12995,6 @@ msgstr "Ripe Scud"
 
 #. [event]
 #: A_New_Order/scenarios/ano-19b.cfg:153
-#, fuzzy
 msgid ""
 "All is lost! Enemy reinforcements have arrived! We have no chance to win now!"
 msgstr ""
@@ -13254,7 +13008,6 @@ msgstr "Věštkyně"
 
 #. [part]
 #: A_New_Order/scenarios/ano-19c.cfg:11
-#, fuzzy
 msgid ""
 "The Oracle was the title of a woman living in ruins of an old city. For "
 "generations there was always one female mage with prophetic abilities living "
@@ -13268,7 +13021,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-19c.cfg:14
-#, fuzzy
 msgid ""
 "The city now was besieged. Four different armies, each under a different "
 "leader, and it seemed this heavily contributed to fact the Oracle still "
@@ -13358,7 +13110,6 @@ msgstr "Rebarnon"
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:730
-#, fuzzy
 msgid ""
 "Remember, the Oracle must be untouched. Do not kill the woman. Bor Cryne "
 "wants to have her untouched."
@@ -13368,7 +13119,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:731
-#, fuzzy
 msgid ""
 "Bor Cryne may want whatever he wants. But the holy Oracle will be a 'guest' "
 "of the noble lord Uri van Roe."
@@ -13386,7 +13136,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:733
-#, fuzzy
 msgid "Ha, ha, human. Everything we leave you."
 msgstr "Ha, ha, lidský červ. Vše nechat pro skřeti!"
 
@@ -13397,7 +13146,6 @@ msgstr "Stop! Myslím, že se někdo snaží obleženým pomoci!"
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:735
-#, fuzzy
 msgid ""
 "The Oracle was right, as always! Relief is coming! Fight harder, dammit, I "
 "don't know how long we can hold!"
@@ -13422,7 +13170,6 @@ msgstr "Vše je ztraceno! Zajali Věštkyni!"
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:783
-#, fuzzy
 msgid ""
 "Everything is lost! The reinforcements for our enemies arrived! We now have "
 "no chance to win!"
@@ -13437,7 +13184,6 @@ msgstr "Vyhráli jsme! Skvělé. A teď, kde je ta slavná Věštkyně?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:789
-#, fuzzy
 msgid ""
 "You pronounce that 'the Oracle' with a  big O. But indeed, where is she?"
 msgstr "Ty jsi řekl Věštkyně s Velkým \"V\"! Ale opravdu, kde je?"
@@ -13450,7 +13196,6 @@ msgstr "Věštkyně"
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:798
-#, fuzzy
 msgid ""
 "Here I am. My voice speaks to those willing to listen. I know why you are "
 "here. I know who you are. Ask your questions and wait for the answers, for I "
@@ -13462,7 +13207,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:799
-#, fuzzy
 msgid ""
 "Everything? Then how does it happen that you were besieged and almost "
 "captured? Why didn't you escape or call someone to help you?"
@@ -13486,7 +13230,6 @@ msgstr "Paní, hledáme velkého mága, Deoriena. Možná budeš vědět..."
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:802
-#, fuzzy
 msgid ""
 "Search for Deorien in the ruins of the great city, where even wind cries "
 "when bringing back memories of marvelous past. He will give you answers, "
@@ -13497,7 +13240,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:803
-#, fuzzy
 msgid ""
 "Ruins of great city? What kind of answer is this? Which city? Why can't you "
 "give me straight answers?"
@@ -13507,13 +13249,12 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:804
-#, fuzzy
 msgid ""
 "I am an Oracle. Why should I give straight answers? Why do you think my "
 "answer is not enough for you? Why do you think I should tell you more?"
 msgstr ""
 "Já jsem Věštkyně. Proč bych měla dávat přímé odpovědi? Proč si myslíš, že má "
-"odpově není pro tebe dostačující? Proč si myslíš, že bych ti měla říct víc?"
+"odpověď není pro tebe dostačující? Proč si myslíš, že bych ti měla říct víc?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:805
@@ -13522,7 +13263,6 @@ msgstr "Věštkyně.. já.."
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:806
-#, fuzzy
 msgid ""
 "I know your questions, Lorin from Gallorae, clan which had more gold in the "
 "hair of their daughters than in their treasuries. The first answer is yes, "
@@ -13534,13 +13274,11 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:807
-#, fuzzy
 msgid "No! No!  There has to be a better answer!"
 msgstr "Ne! Ne! Musí být lepší odpověď!"
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:808
-#, fuzzy
 msgid ""
 "As the Oracle I have nothing more to say to you. As a woman, advise this: "
 "There is only one man in this world who may change your future. I think you "
@@ -13554,7 +13292,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:809
-#, fuzzy
 msgid ""
 "Is that all you wanted to tell me? Then know that I've heard, She-wolf of "
 "Haeltin has heard the Oracle, voice of God on Earth. She has not heard the "
@@ -13566,13 +13303,11 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:810
-#, fuzzy
 msgid "Let's go, Gawen. We're finished here."
 msgstr "Tak pojď, Gawene, pojď."
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:811
-#, fuzzy
 msgid ""
 "I have not understand the discussion between you, and I know it was "
 "important. But why?"
@@ -13582,7 +13317,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:812
-#, fuzzy
 msgid ""
 "You will understand that one day, young king. I wish you luck in your quest. "
 "I will give one of my sergeants into your service. He will serve you loyally."
@@ -13623,7 +13357,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-20.cfg:24
-#, fuzzy
 msgid ""
 "Akladians weren't happy seeing mages marching in the ranks, but the personal "
 "authority of Gawen prevailed. However, he noticed that whatever were the "
@@ -13647,7 +13380,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-20.cfg:35
-#, fuzzy
 msgid ""
 "The farmer's daughter wasn't as beautiful as I expected. She was joyful to "
 "see her father again. She kissed both me - and Lorin - leaving my step-"
@@ -13693,7 +13425,6 @@ msgstr "Nejdřív najděme Deoriena. A pak..."
 
 #. [then]
 #: A_New_Order/scenarios/ano-20.cfg:117
-#, fuzzy
 msgid ""
 "And then, we will earn the gratitude of the God by killing that offense to "
 "nature, that foulest of creatures, that MAGE."
@@ -13723,7 +13454,7 @@ msgstr "Já se o něj také starám."
 #. [then]
 #: A_New_Order/scenarios/ano-20.cfg:121
 msgid "Why, I wonder? Some silly promise made to his mother?"
-msgstr ""
+msgstr "Zajímalo by mě proč? Nějaká srandovní přísaha jeho matce?"
 
 #. [then]
 #: A_New_Order/scenarios/ano-20.cfg:122
@@ -13753,7 +13484,6 @@ msgstr "Ruvio, nevěděl jsem..."
 
 #. [then]
 #: A_New_Order/scenarios/ano-20.cfg:126
-#, fuzzy
 msgid ""
 "And maybe it's a mistake to tell you this. I loved your mother, Gawen. And I "
 "hated your father. When I look at you, I see her features, not your father's."
@@ -13763,7 +13493,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:148
-#, fuzzy
 msgid "So, shall we go to the ruins of Weldyn?"
 msgstr "Takže bychom měli jít k ruinám Weldynu?"
 
@@ -13774,7 +13503,6 @@ msgstr "Můj Pane, už jsme tam byli a už jsme tam Deoriena našli."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:167
-#, fuzzy
 msgid "So, shall we go to these haunted ruins?"
 msgstr "Takže vstoupíme do těch strašidelných rozvalin?"
 
@@ -13800,7 +13528,6 @@ msgstr "Můj Pane, ještě jsme nenašli Deoriena."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:251
-#, fuzzy
 msgid ""
 "Thank you once again, noble Gaumhaldric! I've sent my daughter to safety. If "
 "not for you, she would be still imprisoned."
@@ -13815,7 +13542,6 @@ msgstr "Prosím přijmi tento prostý dar na znamení tvé vděčnosti."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:264
-#, fuzzy
 msgid "We are saved! Look, who has come - it's Gaumhaldric the legendary!"
 msgstr ""
 "Jsme zachráněni! Podívej, kdo přišel - to je ten Gaumhaldrik, o kterém jsme "
@@ -13823,7 +13549,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:266
-#, fuzzy
 msgid ""
 "It's Gaumhaldric, this is true, but he is also Gawen Hagarthen, king of "
 "Vakladia, and as Haldric he is king of Wesnoth. Wait, did you say - `saved`?"
@@ -13834,13 +13559,11 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:268
-#, fuzzy
 msgid "Well, yes, it's me, but why do you need to be saved?"
 msgstr "Dobře, ano, jsem to já, ale proč si myslíš, že musíš být zachráněn?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:270
-#, fuzzy
 msgid ""
 "My lord, my daughter is the most beautiful girl in these parts. I knew this "
 "would bring woe upon us. An Akladian lord wanted her hand in marriage, and "
@@ -13852,7 +13575,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:271
-#, fuzzy
 msgid ""
 "This Akladian lord, from Skagrrae clan, abducted her and swore to keep her "
 "imprisoned until she changes her mind. Please, free her!"
@@ -13863,7 +13585,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:272
-#, fuzzy
 msgid ""
 "Ugh. From your description she seems to be a girl with character, even for "
 "an under... anyway, we will release her, won't we, Gawen?"
@@ -13878,7 +13599,6 @@ msgstr "Ano, samozřejmě, ale nejdřív mám pár otázek."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:285
-#, fuzzy
 msgid ""
 "The hard and grueling times are ahead, I can't release anyone to join your "
 "army"
@@ -13899,18 +13619,16 @@ msgstr "Deorien, velký mág."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:289
-#, fuzzy
 msgid "I don't know. Mages were all slaughtered by Akladians long time ago."
 msgstr "Nevím. Všichni mágové byli dávno povražděni Akladijci."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:291
-#, fuzzy
 msgid ""
 "Our king, Buffin, is gathering the army to invade the neighbouring kingdom "
 "of Vakladia."
 msgstr ""
-"Náž král, Buffin, sbírá armádu, aby získal sousední království, Vakladii."
+"Náš král, Buffin, sbírá armádu, aby získal sousední království, Vakladii."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:292
@@ -13919,27 +13637,24 @@ msgstr "Získal Vakladii? Jak?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:293
-#, fuzzy
 msgid ""
 "The previous king of Vakladia is dead. Usually Akladian lords should elect "
 "new Hagarthen for the throne, but their king left no heir. So they should "
 "pick regent and then send for Hagarthen from other countries, but instead "
 "they're just fighting amongst themselves."
 msgstr ""
-"Poslední král Vakladie je mrtvý. Obvykle Alůadijští lordové vybírají jako "
+"Poslední král Vakladie je mrtvý. Obvykle Akladijští lordové vybírají jako "
 "následníka nového Hagarthena, ale jejich král nezanechal jediného potomka. "
 "Takže by měli zvolit regenta a poslat pro nějakého Hagarthena do ciziny, ale "
 "místo toho válčí mezi sebou."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:295
-#, fuzzy
 msgid "Gawen Hagarthen is not dead, You see him now with your own eyes."
 msgstr "Gawen Hagarthen není mrtev, právě se mu díváš do tváře."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:296
-#, fuzzy
 msgid ""
 "No offense, but I don't care. You wanted news, so I repeat what I've heard."
 msgstr ""
@@ -13947,7 +13662,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:298
-#, fuzzy
 msgid ""
 "I've heard that Perien, king of Easkladia is besieged in his own capital by "
 "Wesnothians. Two brothers in Guilcorta, Luc and Gauri, are quarreling "
@@ -13966,7 +13680,6 @@ msgstr "Zajímavé. Velice zajímavé."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:313
-#, fuzzy
 msgid ""
 "It's you who defeated the ghosts, aren't you? We will always keep you in our "
 "memory."
@@ -13976,7 +13689,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:315
-#, fuzzy
 msgid ""
 "You've defeated the ghosts, then? We don't have much, but please accept this "
 "token of our gratitude."
@@ -13986,19 +13698,16 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:328
-#, fuzzy
 msgid "Will you fight for me?"
 msgstr "Budeš za nás bojovat?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:329
-#, fuzzy
 msgid "Do you know anything about the mage Deorien?"
 msgstr "Víš něco o mágovi jménem Deorien?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:335
-#, fuzzy
 msgid "There are no more people left here who can go with you."
 msgstr "Už tady není nikdo, kdo by chtěl s tebou jít."
 
@@ -14014,7 +13723,6 @@ msgstr "Gusto"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:353 A_New_Order/scenarios/ano-20.cfg:379
-#, fuzzy
 msgid "Deorien, a great mage."
 msgstr "Deorien, velký mág."
 
@@ -14025,7 +13733,6 @@ msgstr "Nevím. Všichni mágové byli dávno povražděni Akladijci."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:356
-#, fuzzy
 msgid ""
 "There is a haunted place east from here. People who go there never come "
 "back. We don't know what happens to them."
@@ -14056,7 +13763,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:371
-#, fuzzy
 msgid "Do you know something about the mage Deorien?"
 msgstr "Víš něco o mágovi jménem Deorien?"
 
@@ -14067,7 +13773,6 @@ msgstr "Ne, skutečně ne."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:382
-#, fuzzy
 msgid ""
 "There is a haunted place to the east. People who go there dissapear. We "
 "don't know what happens to them."
@@ -14082,7 +13787,6 @@ msgstr "Řekni mi víc o sobě a o mé matce."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:443
-#, fuzzy
 msgid ""
 "You must be kidding. That woman is so hard to bear I cannot understand why "
 "Yaranov seems to have a crush on her."
@@ -14092,7 +13796,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:445
-#, fuzzy
 msgid ""
 "There's not much to talk about. I told you she was my fiance. But a few days "
 "before our wedding... Gawen.. Please, don't ask me. It's too painful."
@@ -14103,18 +13806,16 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:446
-#, fuzzy
 msgid "But you have a wife now, and you love her, don't you?"
 msgstr "Ale teď máš ženu, a ta tě miluje, neníliž pravda?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:447
-#, fuzzy
 msgid ""
 "Yes. I love my wife, and my daughters. But sometimes, just sometimes.. I "
 "feel like I've betrayed my first love..."
 msgstr ""
-"Ano, Já miluji svou ženu, i mé dcery. Ale někdy, jenom zřídkadky.. se cítím, "
+"Ano, Já miluji svou ženu, i mé dcery. Ale někdy, jenom zřídkakdy.. se cítím, "
 "jako že jsem ji zradil..."
 
 #. [event]
@@ -14128,7 +13829,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:451
-#, fuzzy
 msgid ""
 "I ordered Karl to tie her and lock her room. I think that gave us enough "
 "time to escape. This journey is really too dangerous for her. I hope she "
@@ -14140,7 +13840,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:457
-#, fuzzy
 msgid ""
 "I do not know. Many people, I know, will hail you as the messiah. You could "
 "become king of all Wesnoth and the religious leader of our people."
@@ -14159,10 +13858,11 @@ msgid ""
 "Alliance with a mage is a disturbing concept, my lord. But I shall try to "
 "adjust."
 msgstr ""
+"Založit plán na spojenectví s mágy je velmi znepokojující koncept, můj pane. "
+"Ale zkusím to zkousnout."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:466
-#, fuzzy
 msgid "Mother? I thought you said I was not your real mother?"
 msgstr "Matko? Myslela jsem, žes mi říkal, že nejsem tvoje mami."
 
@@ -14178,7 +13878,6 @@ msgstr "Proč jsi poslední dobou tak nabručená?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:475
-#, fuzzy
 msgid "Deorien is mage. Mages deserve to be killed. It is that simple."
 msgstr "Deorien je mág. Mágové mají být pozabíjeni. To je prosté."
 
@@ -14203,7 +13902,6 @@ msgstr "Deoriene, mohu si s tebou promluvit?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:485
-#, fuzzy
 msgid "Why did you waited until I came to you?"
 msgstr "Proč jsi čekal, dokud k tobě nepřijdu?"
 
@@ -14214,7 +13912,6 @@ msgstr "Jaké jsou tvé plány do budoucna?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:490
-#, fuzzy
 msgid ""
 "Why did you and the Oracle wait until I came to Weldyn? Why didn't you "
 "declare me messiah before?"
@@ -14224,7 +13921,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:491
-#, fuzzy
 msgid ""
 "Because I wasn't sure whether you were the right person. I had to see you in "
 "person to decide. Besides, you had to make a name of your own. You had to "
@@ -14233,12 +13929,11 @@ msgid ""
 msgstr ""
 "Protože jsem si nebyl jist, že jsi tím pravým. Musel jsem vidět, že ty jsi "
 "tou správnou osobou, která o tom rozhodne. Mimochodem, musel sis o své "
-"zásluze sám vydobít reputaci,sám ses musel proslavit jak mezi Akladijci, tak "
+"zásluze sám vydobýt reputaci,sám ses musel proslavit jak mezi Akladijci, tak "
 "Wesnotskými."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:493
-#, fuzzy
 msgid ""
 "We will declare you king of Wesnoth and Vakladia, and messiah. As messiah "
 "you will become ruler of all Akladians. I hope both Akladians and "
@@ -14718,9 +14413,8 @@ msgstr "Lorinin klan jednou přinesl od zbojníků jed. Nevíš proč?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:440
-#, fuzzy
 msgid "Yes.. I remember it. Indeed, they bought poison from us. (cough)"
-msgstr "Ano.. vzpomínám si. Jistě, koupili od nás jed. <kašel>"
+msgstr "Ano.. vzpomínám si. Jistě, koupili od nás jed. (kašel)"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:441
@@ -14738,7 +14432,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:443
-#, fuzzy
 msgid ""
 "Everything I've heard about your mother's death, fits perfectly our poison. "
 "I can't be sure, of course, but I think Lorin's clan bought the poison to "
@@ -14746,7 +14439,7 @@ msgid ""
 msgstr ""
 "Všechno, co jsem slyšel o smrti tvé matky, všechno perfektně sedělo na náš "
 "jed. Nemůžu si být úplně jistý, to je jasné, ale myslím, že Lorinin klan "
-"koupil ten jed, aby otrávil tvoji matku... <kašel>"
+"koupil ten jed, aby otrávil tvoji matku... (kašel)"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:446
@@ -14971,7 +14664,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:505
-#, fuzzy
 msgid ""
 "Ha, ha, and who is speaking that? Hey, Gawen, have you ever asked Lorin "
 "about how your mother died? Have you... aaargh!"
@@ -15187,12 +14879,11 @@ msgstr ""
 "Akladijci budou žít v míru."
 
 #: A_New_Order/scenarios/ano-20macros.cfg:595
-#, fuzzy
 msgid ""
 "Wesnothians! Bunch of flabby wimps! Band of stinking lobs! (coughs) You... "
 "you..."
 msgstr ""
-"Wesnoťané! Horda slabých bab! Banda smradlavých tchořů! <kašel> Vy... vy..."
+"Wesnoťané! Horda slabých bab! Banda smradlavých tchořů! (kašel) Vy... vy..."
 
 #: A_New_Order/scenarios/ano-20macros.cfg:596
 msgid ""
@@ -15458,7 +15149,6 @@ msgstr ""
 #. [scenario]: id=ano_21weldyn
 #. [scenario]: id=ano_21weldyn-b
 #: A_New_Order/scenarios/ano-21d.cfg:3 A_New_Order/scenarios/ano-21c.cfg:3
-#, fuzzy
 msgid "Ruins of the Past"
 msgstr "Ruiny minulosti"
 
@@ -15490,7 +15180,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-21c.cfg:17
-#, fuzzy
 msgid ""
 "Only one of adepts of Mal-Ravanal survived, and, paradoxically, the weakest "
 "one. His magic seems to be of some other kind than that of the other liches. "
@@ -15498,10 +15187,10 @@ msgid ""
 "who keeps his human appearance with the stubborness of Grekulak. According "
 "to my spies, he still looks like a living human."
 msgstr ""
-"Jediný z Mal-Ravanalových učedníků přežil, a, paradoxně, tej nejslabší. Jeho "
+"Jediný z Mal-Ravanalových učedníků přežil, a, paradoxně, ten nejslabší. Jeho "
 "magie byla jiného druhu než magie všech ostatních lichů. Ve skutečnosti se "
 "zdráhám nazývat jej lichem. Neznám žádného jiného nekromanta, který si "
-"udžoval svou lidskou podstatu tak umíněně, jako právě Grekulak. Díky mým "
+"udržoval svou lidskou podstatu tak umíněně, jako právě Grekulak. Díky mým "
 "špehům víme, že stále vypadá jako normální smrtelník."
 
 #. [part]
@@ -15521,7 +15210,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-21c.cfg:23
-#, fuzzy
 msgid ""
 "Grekulak wanted to rule over the world, and the art of necromancy was only a "
 "means for him, not the goal - at least, that's what I think. The undead "
@@ -15581,14 +15269,13 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-21c.cfg:35
-#, fuzzy
 msgid ""
 "But the Akladians were human enough to want the same thing all human in all "
 "times wanted. The freedom, the right of choosing their own way. One of them, "
 "first Hagarthen, announced that Grekulak is the tool of the false God, and "
 "led a bloody rebellion."
 msgstr ""
-"Ale Akladijci byli do té míry lidmy, aby chtěli to, co lidé chtějí po "
+"Ale Akladijci byli do té míry lidmi, aby chtěli to, co lidé chtějí po "
 "všechny časy. Svobodu. možnost vybrat si svoji vlastní cestu. Jeden z nich, "
 "první z Hagarthenů, oznámil, že Grekulak je nástrojem falešného Boha a vedl "
 "krvavou rebelii."
@@ -15609,7 +15296,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-21c.cfg:41
-#, fuzzy
 msgid ""
 "Then they came to Wesnoth and they immediately started a brutal conquest. As "
 "you know, the kingdom was deeply fragmented then, and at the beginning all "
@@ -15618,7 +15304,7 @@ msgid ""
 "mercenaries rather than terrible menace."
 msgstr ""
 "Tak nakonec dorazili do Wesnothu a ihned započali s jejich brutální vládou. "
-"Jak jistě víš, královstí bylo značně rozděleno a všichni Wesnotští panovníci "
+"Jak jistě víš, královští bylo značně rozděleno a všichni Wesnotští panovníci "
 "si zprvu mysleli, že Akladijci by se mohli stát jejich nástrojem k ovládnutí "
 "ostatních, tedy spíše jako jejich potenciální spojenci či žoldnéři než "
 "děsivé nebezpečí."
@@ -15667,7 +15353,7 @@ msgid ""
 "breeding another race of warriors. He came here now, trying to seduce orcs "
 "and some of Akladians by promises of gold, fame and who knows what else."
 msgstr ""
-"Mezi tím se grekulak snažil posbírat, co se se dalo, z jeho zničeného "
+"Mezi tím se Grekulak snažil posbírat, co se se dalo, z jeho zničeného "
 "království. Akladijská rebelie pro něj byla strašnou ranou. Myslím, že mu "
 "trvalo více než století, aby znovu vybudoval ztracenou armádu. Zavrhl plány "
 "na vytvoření nové rasy válečníků. A tak nyní přišel a získává na svou stranu "
@@ -15675,7 +15361,6 @@ msgstr ""
 
 #. [label]
 #: A_New_Order/scenarios/ano-21d.cfg:23 A_New_Order/scenarios/ano-21c.cfg:56
-#, fuzzy
 msgid "Dead city"
 msgstr "Mrtvé Město."
 
@@ -15711,7 +15396,6 @@ msgstr "Proč nám zde vykládáš tento předlouhý příběh?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-21c.cfg:119
-#, fuzzy
 msgid ""
 "You probably heard the stories about the messiah. I think that Grekulak is "
 "source of this stories. He wants to appear amongst the Akladians, to graspp "
@@ -15757,7 +15441,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-21c.cfg:122
-#, fuzzy
 msgid ""
 "No, Gawen. For great many Akladians, especially simple clan members Gawen "
 "Hagarthen is rightfull king. Only part of Akladian lords hates you. You are "
@@ -15816,7 +15499,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-21c.cfg:127
-#, fuzzy
 msgid ""
 "Mage Deorien, do you really think Gawen can unite Akladians and Wesnoth? "
 "You're no serious, aren't you? Hey, Lorin, do you think underlings are equal "
@@ -15833,7 +15515,6 @@ msgstr "Si děláš prdel."
 
 #. [event]
 #: A_New_Order/scenarios/ano-21c.cfg:129
-#, fuzzy
 msgid ""
 "Deorien, they have whole religion about their own supremacy over the rest of "
 "the world. The God himself chose them to be masters of every other nation "
@@ -15845,7 +15526,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-21c.cfg:130
-#, fuzzy
 msgid ""
 "Yes. And this is already happening. No matter what the great Akladian lords "
 "are saying, how they are flaunting with their own superiority, how they "
@@ -15919,7 +15599,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-21d.cfg:17
-#, fuzzy
 msgid ""
 "Finally they were helped by the treachery from the inside. The traitor was "
 "promised three bags of gold for opening the city gates. Akladians kept their "
@@ -15927,7 +15606,8 @@ msgid ""
 "traitor's legs before they pushed him from the walls into the river."
 msgstr ""
 "Nakonec jim pomohla zrada zevnitř. Zrádci slíbili tři pytle zlata za "
-"otevření městké brány. A svůj slib plnili. Pověst říká, že mu tyto tři pytle "
+"otevření městské brány. A svůj slib plnili. Pověst říká, že mu tyto tři "
+"pytle "
 "zlata přivázali na nohy a pak ho shodili z hradeb do řeky."
 
 #. [event]
@@ -16026,9 +15706,8 @@ msgstr "Žádný duch neobstojí proti chladné oceli v rukou Lorin."
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/ano-21d.cfg:97
-#, fuzzy
 msgid "Explore"
-msgstr "Doslov"
+msgstr "Prozkoumej"
 
 #. [event]
 #: A_New_Order/scenarios/ano-21d.cfg:124
@@ -16145,7 +15824,6 @@ msgstr ""
 
 #. [scenario]: id=ano_22
 #: A_New_Order/scenarios/ano-22.cfg:3
-#, fuzzy
 msgid "Leaving Okladia"
 msgstr "Opouštění Okladie"
 
@@ -16667,7 +16345,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-22.cfg:485
-#, fuzzy
 msgid "And..."
 msgstr "A nyní..."
 
@@ -16923,7 +16600,6 @@ msgstr "V pasti"
 
 #. [event]
 #: A_New_Order/scenarios/ano-23.cfg:16
-#, fuzzy
 msgid ""
 "Is it possible? Yes! Lorin! Long I was dreaming about repaying you for what "
 "you've done to me in Haeltin. Your time has come.."
@@ -16993,7 +16669,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-23.cfg:28
-#, fuzzy
 msgid "I am not afraid, old hag. I am dying anyway."
 msgstr "Je mi to jedno, stará bosorko. Stejně umírám."
 
@@ -17163,12 +16838,11 @@ msgstr "A on prokáže čest sám sobě, když tě zabije. Jo, jo."
 
 #. [event]
 #: A_New_Order/scenarios/ano-23c.cfg:42
-#, fuzzy
 msgid ""
 "Reumario, Reumario. I think I am bad luck for you. Every time you meet me, "
 "you lose."
 msgstr ""
-"Reumario, Reumario. Myslím, že ti přináším smůlu. POkažré když se mnou "
+"Reumario, Reumario. Myslím, že ti přináším smůlu. Pokaždé, když se mnou "
 "bojuješ, tak prohráváš."
 
 #. [event]
@@ -17211,7 +16885,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-23d.cfg:28
-#, fuzzy
 msgid ""
 "(sigh) Well, I am. King Gawen Haldric Hagarthen. Rightful heir to thrones of "
 "Vakladia et cetera, et cetera."
@@ -17249,7 +16922,6 @@ msgid "Show more respect, this is king Gawen Haldric Hagarthen."
 msgstr "Ukaž trochu víc respektu, toto je král Gawen Haldrik Hagarthen."
 
 #: A_New_Order/scenarios/ano-23macros.cfg:8
-#, fuzzy
 msgid ""
 "King? We were never joined by a king before. If he wants to be one of us, he "
 "will be welcomed, but he would have to understand that chances being called "
@@ -17313,7 +16985,6 @@ msgstr "Tak v míru odejděte, nebo se připravte na boj."
 
 #. [part]
 #: A_New_Order/scenarios/ano-23macros.cfg:50
-#, fuzzy
 msgid ""
 "King Buffin's army was right behind us - we almost felt their breaths on our "
 "backs. If this was not enough, we marched right into units of Akladians."
@@ -17518,7 +17189,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-23macros.cfg:424
-#, fuzzy
 msgid ""
 "You uncle? Me? You are just underling! Even if you ARE really Gawen "
 "Hagarthen, your wife was one of those dogs! (coughs) My cousin should never "
@@ -17548,7 +17218,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-23macros.cfg:430
-#, fuzzy
 msgid ""
 "So you are Lorin from Gallorae's... Best sword amongst the Akladian woman. "
 "(cough)"
@@ -17584,14 +17253,14 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-23macros.cfg:434
-#, fuzzy
 msgid ""
 "Ghosts, people who were long dead who were seen again.. Zombies... My scouts "
 "were giving me contradictory reports. Some of my lords disappeared. I was "
 "thinking about sending there some army immediately after finishing with "
 "Vakladia... (cough)"
 msgstr ""
-"Duchové, lídé co dávno chípli, jsou znova vidět.. Zombie... Moji průzkumníci "
+"Duchové, lidé co dávno chcípli, jsou znova vidět.. Zombie... Moji "
+"průzkumníci "
 "mi donesli nedobré zprávy. Někteří moji lordi zmizeli. Po dokončení věci "
 "Vakladie jsem tam chtěl nějakou armádu poslat... <kašel>"
 
@@ -17729,7 +17398,6 @@ msgstr "Pád Svobodova"
 
 #. [part]
 #: A_New_Order/scenarios/ano-24.cfg:10
-#, fuzzy
 msgid ""
 "I was trying to get to Freetown as fast as possible. On the way we heard "
 "dark news - about Akladian armies in Raedwood forest, columns of smoke in "
@@ -17741,7 +17409,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-24.cfg:13
-#, fuzzy
 msgid ""
 " From the first moment we knew that Freetown was not taken by the orcs. The "
 "orcs couldn't possibly be that atrocious. Children killed together with "
@@ -17755,7 +17422,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-24.cfg:17
-#, fuzzy
 msgid ""
 " Her face, though in dirt and blood, was untouched. She lay in a position "
 "which clearly told me her fate before she met the blow of mercy. I knelt "
@@ -17963,15 +17629,14 @@ msgstr "Chci být... na chvíli sám."
 
 #. [event]
 #: A_New_Order/scenarios/ano-24.cfg:101
-#, fuzzy
 msgid ""
 "Because you were declared messiah by the Oracle and recognised as king by "
 "Wesnothians, you may again recruit Fencers, Spearmen, Bowmen, Akladian "
 "Clansmen, Akladian Warriors, Akladian Homeguards, Akladian Wisemen."
 msgstr ""
 "Protože jsi byl Věštkyní označen za Mesiáše a jsi vnímán jako král "
-"Wesnoťanů, můžeš znovu verbovat Šermíře, Kopiníky, Lučištníky, Příslušníky "
-"Akladijského klanu, Akladijské bojovníky, Akladijské hlídače a Akladijské "
+"Wesnoťanů, můžeš znovu verbovat Šermíře, Kopiníky, Lučištníky, Řadové "
+"Akladijce, Akladijské bojovníky, Akladijské hlídače a Akladijské "
 "šamany."
 
 #. [event]
@@ -18162,7 +17827,6 @@ msgstr "Sami se připravujeme na obranu a nemůžeme postrádat jediného voják
 
 #. [event]
 #: A_New_Order/scenarios/ano-26.cfg:166
-#, fuzzy
 msgid ""
 "(To herself) Or rather, they are so afraid of each other that they can't "
 "risk weaken their armies, because the one beloved brother would then cut the "
@@ -18187,7 +17851,6 @@ msgstr "Získal jsi 200 zlatých"
 
 #. [event]
 #: A_New_Order/scenarios/ano-26.cfg:173
-#, fuzzy
 msgid ""
 "(To herself) 200 golden pieces! Wow, I'm impressed. I bet they will be "
 "forced to beg now, losing so ENORMOUS amount of gold."
@@ -18493,7 +18156,6 @@ msgstr "BLBÝ mág. Měl bys říkat: \"Jsem BLBÝ mág\"."
 
 #. [event]
 #: A_New_Order/scenarios/ano-27.cfg:866
-#, fuzzy
 msgid ""
 "\n"
 "Forces of Darkness, come to my aid -\n"
@@ -18505,13 +18167,13 @@ msgid ""
 "Forces of Darkness will consume your mind."
 msgstr ""
 "\n"
-"Forces of Darkness, come to my aid -\n"
+"Tvorové Temnot, slyšte můj hlas\n"
 "\n"
-"Let there will be eternal night;\n"
+"V tento den nastane nemrtvých čas\n"
 "\n"
-"Let your eyes will become blind -\n"
+"Nechť Vaše těla procitnou zas\n"
 "\n"
-"Forces of Darkness will consume your mind."
+"Tvorové Temnot, vyzývám vás!"
 
 #. [event]
 #: A_New_Order/scenarios/ano-27.cfg:932
@@ -18837,7 +18499,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-28.cfg:167
-#, fuzzy
 msgid "(whispering to himself) Oh my God, Yaranov..."
 msgstr "<šeptem pro sebe> Dobrý Bože, Jaranov..."
 
@@ -18971,7 +18632,6 @@ msgstr "Vemte ji na mučidla!"
 
 #. [event]
 #: A_New_Order/scenarios/ano-28.cfg:200
-#, fuzzy
 msgid ""
 "You are in my castle, Luc. Lady Lorin said she doesn't know the father's "
 "name. Let's leave it at that."
@@ -18997,7 +18657,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-28.cfg:203
-#, fuzzy
 msgid "Mage... I.. Lorin thanks you. "
 msgstr "Mágu... já.. Lorin ti děkuje."
 
@@ -19013,7 +18672,6 @@ msgstr "Doslov"
 
 #. [part]
 #: A_New_Order/scenarios/ano-29.cfg:10
-#, fuzzy
 msgid ""
 "Who is here? Gawen? I hoped you would visit me, before I leave the Vattin "
 "forever.. I wish I could see you this last time... I want to tell you "
@@ -19025,7 +18683,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-29.cfg:14
-#, fuzzy
 msgid ""
 "When I was still young, my family took me to the Oracle. I asked her about "
 "my future and I got the answer which I had not expected, and which greatly "
@@ -19037,7 +18694,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-29.cfg:18
-#, fuzzy
 msgid ""
 "The Oracle said I would marry a Hagarthen, become a queen, and that I would "
 "bear a Hagarthen son. We.. my clan.. helped... somehow.. the prediction to "
@@ -19049,7 +18705,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-29.cfg:22
-#, fuzzy
 msgid ""
 "But your father never called me to his bed, never even touched me. You have "
 "no idea how I hated him .. and you. And you have no idea about the dreams "
@@ -19098,7 +18753,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-29.cfg:38
-#, fuzzy
 msgid ""
 "I was drunk... And... Yaranov tried to stop me at corridor, maybe he thought "
 "that drinking some more wine would make him more attractive. I beat him "
@@ -19131,7 +18785,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-29.cfg:50
-#, fuzzy
 msgid ""
 "But I hope.. you will find a mercy in your heart. I know.. I cannot count "
 "for your love.. but.. maybe.. just maybe.. you will.. just touch me once, "
@@ -19145,7 +18798,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-29.cfg:54
-#, fuzzy
 msgid ""
 "Do not try to stop me. You know it is impossible. For the good of the "
 "Vakladia, your beloved Wesnoth, - I, Lorin, order you to forget about me and "
@@ -19154,9 +18806,9 @@ msgid ""
 "I... I am laughing.... "
 msgstr ""
 "Nesnaž se mne zastavit. Víš, že to není možné. Pro dobro Wesnothu - já, "
-"Lorin, ti přikazuji zapoměň na mne a na své dítě. Není to legrační? Já, "
+"Lorin, ti přikazuji zapomeň na mne a na své dítě. Není to legrační? Já, "
 "Lorin, obětuji samu sebe pro něco tak abstraktního, jako je myšlenka nového, "
-"spojeného národa? Podívej se na mne, směju se. Já... směju se..."
+"spojeného národa? Podívej se na mne, směju se. Já... se směju..."
 
 #. [part]
 #: A_New_Order/scenarios/ano-29.cfg:58
@@ -19169,7 +18821,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-29.cfg:61
-#, fuzzy
 msgid ""
 "It is said Gawen Hagarthen never smiled after the great battle. Some say he "
 "mourned the deaths of all good warriors who died fighting the undead menace. "
@@ -19183,12 +18834,11 @@ msgstr ""
 "hordami nemrtvých. Za ženu si vzal Wesnothskou princeznu z Elensefaru. "
 "Sjednotil tři Akladisjká království, když čtvrté - Guilcorta - se stalo jeho "
 "lénem. Byl schopen si podmanit obydla Aragwaithi a většinu z bývalých "
-"Wesnothských království, sjednocujíce tak vetšinu Wesnothu v jeden celek, "
+"Wesnothských království, sjednocujíce tak většinu Wesnothu v jeden celek, "
 "jak za starých dobrých časů."
 
 #. [part]
 #: A_New_Order/scenarios/ano-29.cfg:64
-#, fuzzy
 msgid ""
 "It is also said that he never called his wife Mavourneen; he never treated "
 "her as husband should treat his wife. Whatever was true in that gossip, the "
@@ -19200,7 +18850,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-29.cfg:67
-#, fuzzy
 msgid ""
 "The elves believed that with his death the curse of Haldric which was put "
 "long ago upon the Wesnothians was finally relieved. Mithrandil, the only elf "
@@ -19212,7 +18861,6 @@ msgstr ""
 
 #. [part]
 #: A_New_Order/scenarios/ano-29.cfg:70
-#, fuzzy
 msgid ""
 "Lorin and her son went among the sietches of Aragwaithi, searching for "
 "Andrey Yaranov. He took care of her and her child, raising him as if it was "
@@ -19268,17 +18916,17 @@ msgstr "Lorin,Laorin,Aoerin,Uyenaya,Rianna,Yeorienna,Thurienna,Marioellin,Eena"
 #: A_New_Order/units/_main.cfg:58
 #: A_New_Order/units/aragwaithi/Aragwaithe_Race.cfg:5
 msgid "race^Aragwaith"
-msgstr "race^Aragwaith"
+msgstr "Aragwaith"
 
 #. [race]: id=aragwaith
 #: A_New_Order/units/_main.cfg:59
 msgid "race+female^Aragwaith"
-msgstr "race+female^Aragwaith"
+msgstr "Aragwaithka"
 
 #. [race]: id=aragwaith
 #: A_New_Order/units/_main.cfg:60
 msgid "race^Aragwaithi"
-msgstr "race^Aragwaithi"
+msgstr "Aragwaithi"
 
 #. [unit_type]: id=Akladian Chieftain, race=akladian
 #: A_New_Order/units/akladians/Akladian_Chieftain.cfg:4
@@ -19320,13 +18968,11 @@ msgstr "meč"
 
 #. [unit_type]: id=Akladian Clansman, race=akladian
 #: A_New_Order/units/akladians/Akladian_Clansman.cfg:4
-#, fuzzy
 msgid "Akladian Clansman"
-msgstr "Akladijský sedlák"
+msgstr "Řadový Akladijec"
 
 #. [unit_type]: id=Akladian Clansman, race=akladian
 #: A_New_Order/units/akladians/Akladian_Clansman.cfg:20
-#, fuzzy
 msgid ""
 "Akladian Clansmen are core of Akladian tribes. They are raised in culture "
 "promoting violence and hearing from childhood that their destination is to "
@@ -19334,7 +18980,7 @@ msgid ""
 "can be dangerous, especially when used in larger groups. They are recruited "
 "only for defense of their kingdoms."
 msgstr ""
-"Příslušníci Akladijského klanu tvoří jádro Akladijkých rodin. Vyrůstali v "
+"Řadoví Akladijci tvoří jádro Akladijkých jednotek. Vyrůstali v "
 "přesvědčení, že osudem právě jejich rasy je ovládnout svět. Ačkoli jsou "
 "slabě vyzbrojeni a ve slabém brnění, jsou velmi nebezpeční, obzvláště jsou-"
 "li ve velkých skupinách. Bývají většinou verbováni k obraně jejich "
@@ -19608,13 +19254,13 @@ msgstr "Akladijský bojovník"
 
 #. [unit_type]: id=Akladian Warrior, race=akladian
 #: A_New_Order/units/akladians/Akladian_Warrior.cfg:26
-#, fuzzy
 msgid ""
 "Spending their times in constant fights and raids, many Akladian clansmen "
 "become warriors, joining army not only in defense but also in raids against "
 "neighbouring lands."
 msgstr ""
-"Trávení času v neustálých bojích a nájezdech, mnoho příslušníků Akladijských "
+"Trávení času v neustálých bojích a nájezdech, mnoho řadových příslušníků "
+"Akladijských "
 "klanů se stalo bojovníky, dali se do armády ne jenom v době obrany, ale i "
 "pro nájezdy do sousedních zemí."
 
@@ -19706,7 +19352,7 @@ msgstr "cvičný meč"
 #. [unit_type]: id=Aragwaith Ancient Banner, race=aragwaith
 #: A_New_Order/units/aragwaithi/Ancient_Banner.cfg:5
 msgid "Ancient Banner"
-msgstr ""
+msgstr "Korouhevník"
 
 #. [unit_type]: id=Aragwaith Ancient Banner, race=aragwaith
 #. [unit_type]: id=Aragwaith Flagbearer, race=aragwaith
@@ -19763,6 +19409,10 @@ msgid ""
 "exception. Their skills with a bow are comparable to those of some elves, "
 "and they are remarkably quick with their daggers."
 msgstr ""
+"Aragwaithi jsou subtilní jemní lidé, ale díky jejich náročným tréninkovým "
+"metodám se řadí mezi nejobávanější protivníky. "
+"Jejich lučištníci nejsou výjimkou. Jejich zručnost v lukostřelbě se blíží k "
+"umění elfů a navíc jsou neskutečně rychlí v práci s nožem."
 
 #. [attack]: type=blade
 #: A_New_Order/units/aragwaithi/Strongbow.cfg:20
@@ -19786,12 +19436,12 @@ msgstr "Kapitán"
 #. [unit_type]: id=Aragwaith Flagbearer, race=aragwaith
 #: A_New_Order/units/aragwaithi/Flagbearer.cfg:5
 msgid "Flagbearer"
-msgstr ""
+msgstr "Praporečník"
 
 #. [unit_type]: id=Aragwaith Greatbow, race=aragwaith
 #: A_New_Order/units/aragwaithi/Greatbow.cfg:5
 msgid "Greatbow"
-msgstr ""
+msgstr "Mocný střelec"
 
 #. [unit_type]: id=Aragwaith Greatbow, race=aragwaith
 #: A_New_Order/units/aragwaithi/Greatbow.cfg:19
@@ -19804,6 +19454,12 @@ msgid ""
 "pull these bows, anyone but the crafter who attempts to draw it could suffer "
 "serious injury."
 msgstr ""
+"Tím, že přešli od nožů a dýk k mečům, předčí Mocní střelci Silné střelce v "
+"boji zblízka, ale nedosahují schopností zabijáků. "
+"Jejich luky jsou mistrovskými kousky. I několik měsíců tráví jejich výrobou, "
+"dokud s nimi nesplyne v jedno tělo. "
+"To jim umožňuje dát mu tak mohutný tah, že nikdo jiný, než zase jenom Mocný "
+"střelec, není schopen použít tento vskutku vražedný nástroj."
 
 #. [unit_type]: id=Aragwaith Guard, race=aragwaith
 #: A_New_Order/units/aragwaithi/Guard.cfg:5
@@ -19818,6 +19474,10 @@ msgid ""
 "peace, or on the battlefield in times of war, their role is always the same: "
 "defending the Warlock nobilty."
 msgstr ""
+"Pečlivě vybraní nejsilnější Bojovníci mohou beze ztráty pohyblivosti nosit "
+"lepší brnění. "
+"Ať již v dobách míru při různých ceremoniálech, nebo na bitevním poli, je "
+"jejich role vždy stejná: tělesná stráž Zaklínačů."
 
 #. [unit_type]: id=Aragwaith Guardian, race=aragwaith
 #: A_New_Order/units/aragwaithi/Guardian.cfg:5
@@ -19832,7 +19492,7 @@ msgstr "Kopiník"
 #. [unit_type]: id=Aragwaith Longswordsman, race=aragwaith
 #: A_New_Order/units/aragwaithi/Longswordsman.cfg:5
 msgid "Longswordsman"
-msgstr ""
+msgstr "Válečník"
 
 #. [unit_type]: id=Aragwaith Longswordsman, race=aragwaith
 #: A_New_Order/units/aragwaithi/Longswordsman.cfg:17
@@ -19843,6 +19503,12 @@ msgid ""
 "adopted a longer blade than the Swordsmen, yet they are able to wield it "
 "with equal grace and skill."
 msgstr ""
+"Pakliže jsou Aragwaithští Bojovníci první mezi bojovníky s mečem mezi všemi "
+"rasami, "
+"nadřazení nad běžné Bojovníky jsou mezi Aragwaithi Válečníci. Stávají se z "
+"nich adepti na umění mečem ránu zasadit i odrazit. "
+"Svůj meč s ještě delší čepelí než je u Bojovníků zvykem ale nosí se stejnou "
+"grácií."
 
 #. [attack]: type=blade
 #: A_New_Order/units/aragwaithi/Swordmaster.cfg:79
@@ -19875,6 +19541,13 @@ msgid ""
 "these ancient shields to remind the world and to honor these brave man and "
 "their sacrifice."
 msgstr ""
+"Tito vojáci nosí štíty svých předků, kteří jako poslední v dávných bitvách "
+"byli těmi posledními, "
+"kteří drželi linie před příchodem posil. Zaplatili za to ale krutou, krvavou "
+"daň. Mnoho jich padlo "
+"přímo v boji či posléze na následky svých četných zranění. Na jejich "
+"památku, na památku dob cti a odvahy, "
+"bylo Štítonošům dovoleno nosit tyto štíty svých předků."
 
 #. [unit_type]: id=Aragwaith Silver Shield, race=aragwaith
 #: A_New_Order/units/aragwaithi/Silver_Shield.cfg:5
@@ -19894,17 +19567,20 @@ msgid ""
 "in hand-to-hand combat. He is not as rugged as others of comparable skill, "
 "but far deadlier."
 msgstr ""
+"Místo dalších pokroků ve střeleckém umění se Zabijáci rozhodli nahradit "
+"čepele za glaivy. Tyto halapartnám podobné zbraně jsou mnohem účinnější pro "
+"boj muže proti muži. O co je méně robustní než obdobné zbraně, o to je "
+"nebezpečnější."
 
 #. [attack]: type=blade
 #: A_New_Order/units/aragwaithi/Slayer.cfg:27
-#, fuzzy
 msgid "glaive"
-msgstr "Alarice"
+msgstr "Glaiva"
 
 #. [unit_type]: id=Aragwaith Sorcerer, race=aragwaith
 #: A_New_Order/units/aragwaithi/Sorcerer.cfg:5
 msgid "Sorcerer"
-msgstr ""
+msgstr "Čaroděj"
 
 #. [unit_type]: id=Aragwaith Sorcerer, race=aragwaith
 #: A_New_Order/units/aragwaithi/Sorcerer.cfg:20
@@ -19917,11 +19593,18 @@ msgid ""
 "And so it happens that even the Royal orders of Wesnothian magi treat these "
 "noble lores with respect and caution."
 msgstr ""
+"Mystičtí Aragwaithi Čarodějové jsou nepolapitelní, jako vítr. Dokáží zmást "
+"nepřítele tím, že před nimi stojí zdánlivě bezbranní do té doby, než "
+"nepřítel zaútočí. V tu chvíli se zhmoní za jejich zády a zasadí jim smrtelný "
+"úder. Na bojišti jsou velmi obávanými nepřáteli; i jejich vlastní "
+"spolubojovníci je nejraději sledují s povzdálí. A tak se stalo, že dokonce "
+"Královská rada Wesnotských mágů hovoří o těchto vznešených učencích s "
+"respektem a obezřetností."
 
 #. [unit_type]: id=Aragwaith Spearman, race=aragwaith
 #: A_New_Order/units/aragwaithi/Spearman.cfg:5
 msgid "Spearman"
-msgstr "Kopiníka"
+msgstr "Kopiník"
 
 #. [unit_type]: id=Aragwaith Spearman, race=aragwaith
 #: A_New_Order/units/aragwaithi/Spearman.cfg:18
@@ -19931,11 +19614,15 @@ msgid ""
 "knights have found themselves or their mounts impaled on the point of an "
 "Aragwaithi spear."
 msgstr ""
+"Silnější a méně obratní Aragwaithi volí raději kopí. Jsou užitečné jak při "
+"lovu, tak na bitevním poli. "
+"Mnoho zbrklých rytířů nalezlo svou smrt na hrotu kopí Aragwaithského "
+"Kopiníka."
 
 #. [unit_type]: id=Aragwaith Strongbow, race=aragwaith
 #: A_New_Order/units/aragwaithi/Strongbow.cfg:5
 msgid "Strongbow"
-msgstr ""
+msgstr "Silný střelec"
 
 #. [unit_type]: id=Aragwaith Strongbow, race=aragwaith
 #: A_New_Order/units/aragwaithi/Strongbow.cfg:35
@@ -19945,6 +19632,9 @@ msgid ""
 "longer than the daggers used by the typical archer, and they wield them far "
 "more effectively."
 msgstr ""
+"Používání pevnějšího luku a pravidelný trénink umožňuje Silnému střelci "
+"vysílat šípy mnohem smrtonosnější než je běžné u průměrných lučištníků. "
+"Jejich dýky jsou delší mnohem, mnohem nebezpečnější."
 
 #. [unit_type]: id=Aragwaith Swordmaster, race=aragwaith
 #: A_New_Order/units/aragwaithi/Swordmaster.cfg:5
@@ -19962,11 +19652,17 @@ msgid ""
 "young, passing on the proud Aragwaithi martial traditions. Even the Royal "
 "Guards of Wesnoth respect the Swordmasters."
 msgstr ""
+"Mistři meče nepřišli ke svému titulu lehce; roky tvrdého výcviku a mnoho "
+"vítězných bitev. O jejich umění v používání meče vypráví těch nemnoho "
+"přeživších hlupáků, kteří se jim pod meč připletli.\n"
+"S titulem Mistr meče je pak spojena i výuka mladých. Tak se z generace na "
+"generaci předává ono proslulé umění Aragwaithi. I jednotky Královské stráže "
+"Wesnothu mluví o Mistrech meče s respektem."
 
 #. [unit_type]: id=Aragwaith Swordsman, race=aragwaith
 #: A_New_Order/units/aragwaithi/Swordsman.cfg:44
 msgid "Swordsman"
-msgstr ""
+msgstr "Bojovník"
 
 #. [unit_type]: id=Aragwaith Swordsman, race=aragwaith
 #: A_New_Order/units/aragwaithi/Swordsman.cfg:57
@@ -19976,11 +19672,16 @@ msgid ""
 "military, make for superb swordsmen. Swordsmen are clad in light chain mail "
 "- the better to resist the blades of their enemies."
 msgstr ""
+"Jak jsou Aragwaithi subtilní, jsou také rychlí a mrštní. Jejich vrozené "
+"předpoklady znásobené "
+"dlouholetým armádním výcvikem z nich dělá výtečné Bojovníky. Bojovníci jsou "
+"oděni do lehkého kroužkového zbroje, "
+"lépe odolávající čepelím nepřátel."
 
 #. [unit_type]: id=Aragwaith Warlock, race=aragwaith
 #: A_New_Order/units/aragwaithi/Warlock.cfg:5
 msgid "Aragwaith^Warlock"
-msgstr "Aragwaith^Zaklínač"
+msgstr "Zaklínač"
 
 #. [unit_type]: id=Aragwaith Warlock, race=aragwaith
 #: A_New_Order/units/aragwaithi/Warlock.cfg:21
@@ -19990,17 +19691,21 @@ msgid ""
 "and of course in magic. Wielding powerful fire, competent with their staves, "
 "possessing a healing touch, Warlocks are the noblest of a noble people."
 msgstr ""
+"Aragwaithi, kteří projevili nadání v používání magie, podstoupili nejen "
+"základní výcvik spolu s ostatními, ale také se vzdělávají v umění "
+"léčitelském a také samozřejmě v magii. Ovládání mocného ohně, léčivý dotek "
+"či umění boje se svou holí staví Zaklínače do role vznešených vyvolených.  "
 
 #. [attack]: type=fire
 #: A_New_Order/units/aragwaithi/Warlock.cfg:37
 #: A_New_Order/units/aragwaithi/Wizard.cfg:36
 msgid "mage-bolt"
-msgstr ""
+msgstr "magická blesk"
 
 #. [female]
 #: A_New_Order/units/aragwaithi/Warlock.cfg:112
 msgid "female^Warlock"
-msgstr "female^Zaklínačka"
+msgstr "Zaklínačka"
 
 #. [female]
 #: A_New_Order/units/aragwaithi/Warlock.cfg:115
@@ -20011,16 +19716,20 @@ msgid ""
 "their staves, possessing a healing touch, Warlocks are the noblest of a "
 "noble people."
 msgstr ""
+"Aragwaithi, které projevily nadání v používání magie, podstoupily nejen "
+"základní výcvik spolu s ostatními, ale také se vzdělávají v umění "
+"léčitelském a také samozřejmě v magii. Ovládání mocného ohně, léčivý dotek "
+"či skvostné ovládání své hole staví Zaklínačky do role vznešených vyvolených."
 
 #. [unit_type]: id=Aragwaith Wizard, race=aragwaith
 #: A_New_Order/units/aragwaithi/Wizard.cfg:5
 msgid "Aragwaith^Wizard"
-msgstr "Aragwaith^Čaroděj"
+msgstr "Čarodějník"
 
 #. [female]
 #: A_New_Order/units/aragwaithi/Wizard.cfg:106
 msgid "female^Wizard"
-msgstr "female^Čarodějka"
+msgstr "Čarodějka"
 
 #. [advancement]: id=armoured
 #: A_New_Order/units/macros/amla.cfg:6
@@ -20114,6 +19823,11 @@ msgid ""
 "fights most of the time. They also usually build or buy (or steal) a better "
 "crosbow and their accuracy and skill have both improved with practice."
 msgstr ""
+"Velice záhy narazí každý kovboj při loupeži na nějakou větší zbraň, "
+"povětšinou na nějaký druh meče. Nejčastěji to bývá šavle, protože šermíři "
+"bývají velice oblíbeným cílem. neboť si myslí, že když mají na zádech dvě "
+"skřížené čepele, jde z nich strach. Kovbojové si také dělají nebo kupují "
+"(ale nejčastěji kradou) luky a pravidelným používáním si pilují přesnost."
 
 #. [attack]: type=blade
 #: A_New_Order/units/others/Outlaw_Raider.cfg:37

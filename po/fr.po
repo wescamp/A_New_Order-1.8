@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n - A new order en francais.\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-06-10 22:24+0200\n"
+"POT-Creation-Date: 2010-06-13 17:41+0200\n"
 "PO-Revision-Date: 2008-09-14 19:02+0100\n"
 "Last-Translator: Damien J <guydelatour AT gloireetpouvoirPTcom>\n"
 "Language-Team: Language fr <wesnoth@ml.free.fr>\n"
@@ -2580,7 +2580,7 @@ msgstr ""
 msgid "Death to enemies of our king! Long live our king Gawen Haldric!"
 msgstr "Mort aux ennemis de notre roi ! Longue vie à notre roi Gawen Haldric !"
 
-#. [unit]: type=Akladian Clansman, id={CLANSMAN_NAME}
+#. [unit]: type=Akladian Clansman, id=$clansman_id
 #: A_New_Order/scenarios/25_The_Awakening.cfg:163
 msgid "Akladian Peasant"
 msgstr "Paysan akladien"
@@ -3024,22 +3024,22 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:578
-msgid "Matěj"
+msgid "Matej"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:589
-msgid "Pankrác"
+msgid "Rumpel"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:598
-msgid "Servác"
+msgid "Cimper"
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:607
-msgid "Bumbác"
+msgid "Camper"
 msgstr ""
 
 #. [event]
@@ -7588,7 +7588,7 @@ msgstr "Exploration"
 msgid ""
 "Bitter and depressed, having failed to interrogate a single orc leader who "
 "knew anything, Gawen and his troops headed home toward Freetown. Along the "
-"way, they found a near-frozen orc, dying in the snow. 'Grekulark', it said, "
+"way, they found a near-frozen orc, dying in the snow. 'Grekulak', it said, "
 "and then expired."
 msgstr ""
 

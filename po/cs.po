@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-06-10 22:24+0200\n"
+"POT-Creation-Date: 2010-06-13 17:41+0200\n"
 "PO-Revision-Date: 2010-06-11 14:18+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Český <kde-i18n-doc@kde.org>\n"
@@ -2448,7 +2448,7 @@ msgstr ""
 msgid "Death to enemies of our king! Long live our king Gawen Haldric!"
 msgstr "Smrt nepřátelům našeho krále! Ať žije král Gawen Haldrik!"
 
-#. [unit]: type=Akladian Clansman, id={CLANSMAN_NAME}
+#. [unit]: type=Akladian Clansman, id=$clansman_id
 #: A_New_Order/scenarios/25_The_Awakening.cfg:163
 msgid "Akladian Peasant"
 msgstr "Akladijský sedlák"
@@ -2884,23 +2884,23 @@ msgstr "Kuba"
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:578
-msgid "Matěj"
-msgstr "Matěj"
+msgid "Matej"
+msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:589
-msgid "Pankrác"
-msgstr "Pankrác"
+msgid "Rumpel"
+msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:598
-msgid "Servác"
-msgstr "Servác"
+msgid "Cimper"
+msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:607
-msgid "Bumbác"
-msgstr "Bumbác"
+msgid "Camper"
+msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/25_The_Awakening.cfg:617
@@ -5396,8 +5396,8 @@ msgid ""
 "After this battle you will be able to recruit Akladian Clansmen, Warriors "
 "and Wisemen again."
 msgstr ""
-"Po bitvě budeš moct zase verbovat Řadové Akladijce, Akladijské "
-"bojovníky a šamany."
+"Po bitvě budeš moct zase verbovat Řadové Akladijce, Akladijské bojovníky a "
+"šamany."
 
 #. [command]
 #: A_New_Order/scenarios/ano-09.cfg:229
@@ -7090,9 +7090,8 @@ msgstr ""
 "Mohu-li něco poradit, bylo by dobré nasadit Elfy. Šest Elfů v lese je síla "
 "dostatečná k tomu, aby zvládli posádku na východě. Zvláště při použití "
 "taktiky \"bodni a uteč.\" Jedna nepřátelská jednotka nic nezmůže, takže je "
-"možné ji ignorovat a "
-"přitom se vší silou soustředit na jinou nepřátelskou jednotku. A pěkně "
-"pomaloučku, času je spousta."
+"možné ji ignorovat a přitom se vší silou soustředit na jinou nepřátelskou "
+"jednotku. A pěkně pomaloučku, času je spousta."
 
 #. [scenario]: id=ano_13
 #: A_New_Order/scenarios/ano-13.cfg:3
@@ -7101,18 +7100,17 @@ msgstr "Průzkum"
 
 #. [part]
 #: A_New_Order/scenarios/ano-13.cfg:43
+#, fuzzy
 msgid ""
 "Bitter and depressed, having failed to interrogate a single orc leader who "
 "knew anything, Gawen and his troops headed home toward Freetown. Along the "
-"way, they found a near-frozen orc, dying in the snow. 'Grekulark', it said, "
+"way, they found a near-frozen orc, dying in the snow. 'Grekulak', it said, "
 "and then expired."
 msgstr ""
 "Zahořklý a roztrpčený, že se mu nepodařilo vyslechnout jediného vůdce "
-"skřetů, který mohl něco vědět, "
-"vracel se Gawen se svými vojáky zpět do Svobodova. Cestou narazili na "
-"skřeta, který už ve sněhu téměř umrzl. "
-"Gawen se ho rozhodl vyslechnout. Skřet řekl jediné slovo, 'Grekulak', a "
-"zemřel. "
+"skřetů, který mohl něco vědět, vracel se Gawen se svými vojáky zpět do "
+"Svobodova. Cestou narazili na skřeta, který už ve sněhu téměř umrzl. Gawen "
+"se ho rozhodl vyslechnout. Skřet řekl jediné slovo, 'Grekulak', a zemřel. "
 
 #. [part]
 #: A_New_Order/scenarios/ano-13.cfg:53
@@ -10018,8 +10016,7 @@ msgid ""
 "Speak quickly, and I will spare your life. What do you know about alliance "
 "between orcs and Akladians?"
 msgstr ""
-"Mluv rychle a já tě nechám žít. Co víš o spojenectví mezi skřety a "
-"Akladijci?"
+"Mluv rychle a já tě nechám žít. Co víš o spojenectví mezi skřety a Akladijci?"
 
 #. [scenario]: id=ano_14_saorduc
 #: A_New_Order/scenarios/ano-14e.cfg:31 A_New_Order/scenarios/ano-14e.cfg:37
@@ -10764,9 +10761,8 @@ msgid ""
 msgstr ""
 "Věříme, že Grekulak je jedním z přeživších adeptů Mal-Ravanala. Očekávali "
 "jsme, že právě on stál za překvapivým spojenectvím skřetů a Akladijců. Nyní "
-"jsme "
-"si jisti nade vší pochybnost. Jsme si také jisti, že tato skřetí invaze je "
-"pouhý začátek."
+"jsme si jisti nade vší pochybnost. Jsme si také jisti, že tato skřetí invaze "
+"je pouhý začátek."
 
 #. [event]
 #: A_New_Order/scenarios/ano-22.cfg:591 A_New_Order/scenarios/ano-15.cfg:123
@@ -15607,8 +15603,7 @@ msgid ""
 msgstr ""
 "Nakonec jim pomohla zrada zevnitř. Zrádci slíbili tři pytle zlata za "
 "otevření městské brány. A svůj slib plnili. Pověst říká, že mu tyto tři "
-"pytle "
-"zlata přivázali na nohy a pak ho shodili z hradeb do řeky."
+"pytle zlata přivázali na nohy a pak ho shodili z hradeb do řeky."
 
 #. [event]
 #: A_New_Order/scenarios/ano-21d.cfg:79
@@ -17260,9 +17255,8 @@ msgid ""
 "Vakladia... (cough)"
 msgstr ""
 "Duchové, lidé co dávno chcípli, jsou znova vidět.. Zombie... Moji "
-"průzkumníci "
-"mi donesli nedobré zprávy. Někteří moji lordi zmizeli. Po dokončení věci "
-"Vakladie jsem tam chtěl nějakou armádu poslat... <kašel>"
+"průzkumníci mi donesli nedobré zprávy. Někteří moji lordi zmizeli. Po "
+"dokončení věci Vakladie jsem tam chtěl nějakou armádu poslat... <kašel>"
 
 #. [event]
 #: A_New_Order/scenarios/ano-23macros.cfg:435
@@ -17636,8 +17630,7 @@ msgid ""
 msgstr ""
 "Protože jsi byl Věštkyní označen za Mesiáše a jsi vnímán jako král "
 "Wesnoťanů, můžeš znovu verbovat Šermíře, Kopiníky, Lučištníky, Řadové "
-"Akladijce, Akladijské bojovníky, Akladijské hlídače a Akladijské "
-"šamany."
+"Akladijce, Akladijské bojovníky, Akladijské hlídače a Akladijské šamany."
 
 #. [event]
 #: A_New_Order/scenarios/ano-24.cfg:103
@@ -18980,11 +18973,10 @@ msgid ""
 "can be dangerous, especially when used in larger groups. They are recruited "
 "only for defense of their kingdoms."
 msgstr ""
-"Řadoví Akladijci tvoří jádro Akladijkých jednotek. Vyrůstali v "
-"přesvědčení, že osudem právě jejich rasy je ovládnout svět. Ačkoli jsou "
-"slabě vyzbrojeni a ve slabém brnění, jsou velmi nebezpeční, obzvláště jsou-"
-"li ve velkých skupinách. Bývají většinou verbováni k obraně jejich "
-"království."
+"Řadoví Akladijci tvoří jádro Akladijkých jednotek. Vyrůstali v přesvědčení, "
+"že osudem právě jejich rasy je ovládnout svět. Ačkoli jsou slabě vyzbrojeni "
+"a ve slabém brnění, jsou velmi nebezpeční, obzvláště jsou-li ve velkých "
+"skupinách. Bývají většinou verbováni k obraně jejich království."
 
 #. [attack]: type=pierce
 #: A_New_Order/units/akladians/Akladian_Clansman.cfg:24
@@ -19260,9 +19252,8 @@ msgid ""
 "neighbouring lands."
 msgstr ""
 "Trávení času v neustálých bojích a nájezdech, mnoho řadových příslušníků "
-"Akladijských "
-"klanů se stalo bojovníky, dali se do armády ne jenom v době obrany, ale i "
-"pro nájezdy do sousedních zemí."
+"Akladijských klanů se stalo bojovníky, dali se do armády ne jenom v době "
+"obrany, ale i pro nájezdy do sousedních zemí."
 
 #. [unit_type]: id=Akladian Wiseman, race=akladian
 #: A_New_Order/units/akladians/Akladian_Wiseman.cfg:4
@@ -19410,9 +19401,9 @@ msgid ""
 "and they are remarkably quick with their daggers."
 msgstr ""
 "Aragwaithi jsou subtilní jemní lidé, ale díky jejich náročným tréninkovým "
-"metodám se řadí mezi nejobávanější protivníky. "
-"Jejich lučištníci nejsou výjimkou. Jejich zručnost v lukostřelbě se blíží k "
-"umění elfů a navíc jsou neskutečně rychlí v práci s nožem."
+"metodám se řadí mezi nejobávanější protivníky. Jejich lučištníci nejsou "
+"výjimkou. Jejich zručnost v lukostřelbě se blíží k umění elfů a navíc jsou "
+"neskutečně rychlí v práci s nožem."
 
 #. [attack]: type=blade
 #: A_New_Order/units/aragwaithi/Strongbow.cfg:20
@@ -19455,11 +19446,11 @@ msgid ""
 "serious injury."
 msgstr ""
 "Tím, že přešli od nožů a dýk k mečům, předčí Mocní střelci Silné střelce v "
-"boji zblízka, ale nedosahují schopností zabijáků. "
-"Jejich luky jsou mistrovskými kousky. I několik měsíců tráví jejich výrobou, "
-"dokud s nimi nesplyne v jedno tělo. "
-"To jim umožňuje dát mu tak mohutný tah, že nikdo jiný, než zase jenom Mocný "
-"střelec, není schopen použít tento vskutku vražedný nástroj."
+"boji zblízka, ale nedosahují schopností zabijáků. Jejich luky jsou "
+"mistrovskými kousky. I několik měsíců tráví jejich výrobou, dokud s nimi "
+"nesplyne v jedno tělo. To jim umožňuje dát mu tak mohutný tah, že nikdo "
+"jiný, než zase jenom Mocný střelec, není schopen použít tento vskutku "
+"vražedný nástroj."
 
 #. [unit_type]: id=Aragwaith Guard, race=aragwaith
 #: A_New_Order/units/aragwaithi/Guard.cfg:5
@@ -19475,9 +19466,8 @@ msgid ""
 "defending the Warlock nobilty."
 msgstr ""
 "Pečlivě vybraní nejsilnější Bojovníci mohou beze ztráty pohyblivosti nosit "
-"lepší brnění. "
-"Ať již v dobách míru při různých ceremoniálech, nebo na bitevním poli, je "
-"jejich role vždy stejná: tělesná stráž Zaklínačů."
+"lepší brnění. Ať již v dobách míru při různých ceremoniálech, nebo na "
+"bitevním poli, je jejich role vždy stejná: tělesná stráž Zaklínačů."
 
 #. [unit_type]: id=Aragwaith Guardian, race=aragwaith
 #: A_New_Order/units/aragwaithi/Guardian.cfg:5
@@ -19504,11 +19494,9 @@ msgid ""
 "with equal grace and skill."
 msgstr ""
 "Pakliže jsou Aragwaithští Bojovníci první mezi bojovníky s mečem mezi všemi "
-"rasami, "
-"nadřazení nad běžné Bojovníky jsou mezi Aragwaithi Válečníci. Stávají se z "
-"nich adepti na umění mečem ránu zasadit i odrazit. "
-"Svůj meč s ještě delší čepelí než je u Bojovníků zvykem ale nosí se stejnou "
-"grácií."
+"rasami, nadřazení nad běžné Bojovníky jsou mezi Aragwaithi Válečníci. "
+"Stávají se z nich adepti na umění mečem ránu zasadit i odrazit. Svůj meč s "
+"ještě delší čepelí než je u Bojovníků zvykem ale nosí se stejnou grácií."
 
 #. [attack]: type=blade
 #: A_New_Order/units/aragwaithi/Swordmaster.cfg:79
@@ -19542,12 +19530,10 @@ msgid ""
 "their sacrifice."
 msgstr ""
 "Tito vojáci nosí štíty svých předků, kteří jako poslední v dávných bitvách "
-"byli těmi posledními, "
-"kteří drželi linie před příchodem posil. Zaplatili za to ale krutou, krvavou "
-"daň. Mnoho jich padlo "
-"přímo v boji či posléze na následky svých četných zranění. Na jejich "
-"památku, na památku dob cti a odvahy, "
-"bylo Štítonošům dovoleno nosit tyto štíty svých předků."
+"byli těmi posledními, kteří drželi linie před příchodem posil. Zaplatili za "
+"to ale krutou, krvavou daň. Mnoho jich padlo přímo v boji či posléze na "
+"následky svých četných zranění. Na jejich památku, na památku dob cti a "
+"odvahy, bylo Štítonošům dovoleno nosit tyto štíty svých předků."
 
 #. [unit_type]: id=Aragwaith Silver Shield, race=aragwaith
 #: A_New_Order/units/aragwaithi/Silver_Shield.cfg:5
@@ -19615,9 +19601,8 @@ msgid ""
 "Aragwaithi spear."
 msgstr ""
 "Silnější a méně obratní Aragwaithi volí raději kopí. Jsou užitečné jak při "
-"lovu, tak na bitevním poli. "
-"Mnoho zbrklých rytířů nalezlo svou smrt na hrotu kopí Aragwaithského "
-"Kopiníka."
+"lovu, tak na bitevním poli. Mnoho zbrklých rytířů nalezlo svou smrt na hrotu "
+"kopí Aragwaithského Kopiníka."
 
 #. [unit_type]: id=Aragwaith Strongbow, race=aragwaith
 #: A_New_Order/units/aragwaithi/Strongbow.cfg:5
@@ -19673,10 +19658,9 @@ msgid ""
 "- the better to resist the blades of their enemies."
 msgstr ""
 "Jak jsou Aragwaithi subtilní, jsou také rychlí a mrštní. Jejich vrozené "
-"předpoklady znásobené "
-"dlouholetým armádním výcvikem z nich dělá výtečné Bojovníky. Bojovníci jsou "
-"oděni do lehkého kroužkového zbroje, "
-"lépe odolávající čepelím nepřátel."
+"předpoklady znásobené dlouholetým armádním výcvikem z nich dělá výtečné "
+"Bojovníky. Bojovníci jsou oděni do lehkého kroužkového zbroje, lépe "
+"odolávající čepelím nepřátel."
 
 #. [unit_type]: id=Aragwaith Warlock, race=aragwaith
 #: A_New_Order/units/aragwaithi/Warlock.cfg:5
@@ -19869,6 +19853,18 @@ msgstr ""
 "Být jednou ze čtyř dcer slavného válečníka není žádný med. Od dětství Karen "
 "slýchala o válkách, rytířích a velkých vítězstvích svého otce, takže se "
 "velice brzy rozhodla, že jejím údělem nebude stát se domácí putičkou."
+
+#~ msgid "Matěj"
+#~ msgstr "Matěj"
+
+#~ msgid "Pankrác"
+#~ msgstr "Pankrác"
+
+#~ msgid "Servác"
+#~ msgstr "Servác"
+
+#~ msgid "Bumbác"
+#~ msgstr "Bumbác"
 
 #~ msgid "Peasant"
 #~ msgstr "Sedlák"

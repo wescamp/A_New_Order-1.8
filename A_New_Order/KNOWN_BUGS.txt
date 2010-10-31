@@ -1,0 +1,3 @@
+* In "Ally from the Past", Gawen's XP reset to zero (level 2 Hargarthen). This was a little irritating seeing that I had him a third of the way to level 3 previous scenario - nothing big though.
+* In "Orannon", the game did not end when I got Lady Lorin killed (this was after she had to return to the keep within 6 turns).
+

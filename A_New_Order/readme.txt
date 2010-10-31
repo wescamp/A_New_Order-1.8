@@ -9,7 +9,7 @@ Aragwaiths are units created and maintained by Shadow.
 
 Many thanks to ott for hinting how to fix campaign to be post 0.9.3 compatible.
 
-Kudos to alxrem, ave, teldar, capitol, tomsik, scott, ott, tapik, derek and especially unsung for spelling corrections and bug reporting.
+Kudos to alxrem, ave, teldar, capitol, tomsik, scott, ott, tet, tapik, derek, malin keshar and especially unsung for spelling corrections and bug reporting.
 
 Outlaw is unit pack created and maintained by Shadow and Scott.
 
@@ -28,5 +28,6 @@ Copyright terms:
 
 "The tilesets are freeware. Even for commercial Games. I just want my name in the Credits in this case: Reiner "Tiles" Prokein. You can modify my graphics in every needed way: size, colour, fileformat , ..."
 
-From 1.4 to the present (v 0.9.9 to current), ANO was maintained by Typhon Rhishisikk.
+From 1.4 to the ?? (v 0.9.9 to current), ANO was maintained by Typhon Rhishisikk
+Since then, ANO was (is?) maintained by Oto 'tapik' Buchta
 Kudos to testers: Turuk, t3st3r, and others.

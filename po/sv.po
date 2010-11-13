@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-10-03 12:53+0200\n"
+"POT-Creation-Date: 2010-11-13 02:16+0100\n"
 "PO-Revision-Date: 2007-07-25 18:00+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
@@ -643,7 +643,7 @@ msgstr ""
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:60
 #: A_New_Order/scenarios/ano-14b.cfg:60 A_New_Order/scenarios/ano-22.cfg:118
 #: A_New_Order/scenarios/ano-19a.cfg:30 A_New_Order/scenarios/ano-16.cfg:46
-#: A_New_Order/scenarios/ano-26.cfg:41 A_New_Order/scenarios/ano-13.cfg:267
+#: A_New_Order/scenarios/ano-26.cfg:41 A_New_Order/scenarios/ano-13.cfg:273
 #: A_New_Order/scenarios/ano-11.cfg:25 A_New_Order/scenarios/ano-24.cfg:58
 #: A_New_Order/scenarios/ano-21b.cfg:25 A_New_Order/scenarios/ano-14c.cfg:23
 #: A_New_Order/scenarios/21_Abducted_Bride.cfg:103
@@ -1592,8 +1592,10 @@ msgstr ""
 "slagfältet i hast så var de sista akladiernas kroppar fortfarande varma. De "
 "tog sig in i Raedwoodskogen i hopp om att ingen skulle förfölja dem."
 
-#. [side]: id=Rob Roe, type=Outlaw
+#. [side]: id=Outlaw Leader, type=Outlaw
+#. [unit]: id=Rob Roe, type=$ano_robroe_unit.type
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:34
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:363
 msgid "Rob Roe"
 msgstr ""
 
@@ -1838,33 +1840,33 @@ msgid ""
 msgstr "Ja, jag accepterar dig och de av ditt folk som vill slåss i min armé."
 
 #. [option]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:256
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:263
 #, fuzzy
 msgid "No offence, but I do not trust you enough"
 msgstr "Nej, inget illa menat, men jag litar inte nog på dig."
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:259
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:266
 msgid "You said most of your army is elsewhere?"
 msgstr "Du sade att merparten av din armé var på uppdrag?"
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:260
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:267
 msgid "Yes. The best units were hired to invade clan of Carrenemoes."
 msgstr "Ja. De bästa soldaterna lejdes att invadera Carrenemoes klan."
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:261
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:268
 msgid "Carrenemoes? Ruvio, we have to.."
 msgstr "Carrenemoes? Ruvio, vi måste..."
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:262
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:269
 msgid "We have to go to Freetown, as soon as possible. I'm sorry kid."
 msgstr "Vi måste till Freetown, så snart som möjligt. Jag är ledsen."
 
 #. [then]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:266
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:273
 #, fuzzy
 msgid ""
 "Rob Roe, there was assassin who was send after m.. Gawen Hagarthen. He was "
@@ -1876,7 +1878,7 @@ msgstr ""
 "vem som hyrde honom att döda kung Gawen Hagarthen?"
 
 #. [then]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:267
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:274
 msgid ""
 "I am not sure. Maybe you will say few names, and I will tell you if they "
 "ring a bell"
@@ -1884,31 +1886,31 @@ msgstr ""
 "Jag vet inte riktigt. Om du nämner några namn så kanske det ringer en klocka."
 
 #. [message]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:275
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:282
 msgid "So, what about.."
 msgstr "Vad sägs om..."
 
 #. [option]: speaker=Gawen Hagarthen
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:277
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:284
 #: A_New_Order/scenarios/ano-03.cfg:197
 msgid "Uri van Roe?"
 msgstr "Uri van Roe?"
 
 #. [command]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:279
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:286
 msgid "No, I don't think it was him."
 msgstr "Nä, jag tror inte att det var han."
 
 #. [option]: speaker=Gawen Hagarthen
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:283
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:290
 #: A_New_Order/scenarios/ano-03.cfg:205
 msgid "Bor Cryne?"
 msgstr "Bor Cryne?"
 
 #. [command]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:285
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:292
 msgid ""
 "Yes! I remember that. A price for father and son. I think it was also him "
 "who paid us to invade Carrenemoe's place."
@@ -1917,22 +1919,22 @@ msgstr ""
 "samme person som betalade oss för att invadera Carrenemoes ställe."
 
 #. [option]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:291
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:298
 msgid "Reme Carrenemoe?"
 msgstr "Reme Carrenemoe?"
 
 #. [command]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:293
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:300
 msgid "The noble and oh-so-honorable Reme? You have to be kidding."
 msgstr "Den ädle och ack så hedervärde Reme? Du måste skämta."
 
 #. [option]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:297
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:304
 msgid "Lady Lorin?"
 msgstr "Lady Lorin?"
 
 #. [command]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:299
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:306
 msgid ""
 "No, it wasn't a woman. People from her clan did contact us in the past, "
 "wanting to buy some poison, but it was long ago."
@@ -1941,22 +1943,22 @@ msgstr ""
 "ville köpa något gift, men det var länge sedan."
 
 #. [option]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:305
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:312
 msgid "Graeme O Borraine?"
 msgstr ""
 
 #. [command]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:307
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:314
 msgid "Who? Never heard about him."
 msgstr "Vem? Har aldrig hört talas om honom."
 
 #. [option]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:311
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:318
 msgid "Hoyre O Barnon?"
 msgstr "Hoyre O Barnon?"
 
 #. [command]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:313
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:320
 #, fuzzy
 msgid ""
 "The guy from city of Barnon? No, though from what I've heard about him he "
@@ -1968,12 +1970,12 @@ msgstr ""
 #. [event]
 #. [option]: speaker=Gawen Hagarthen
 #: A_New_Order/scenarios/ano-20macros.cfg:308
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:317
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:324
 msgid "That's all I wanted to know"
 msgstr "Det var allt jag ville veta."
 
 #. [then]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:339
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:346
 msgid ""
 "There are no more trained able young man in this small settlement to recruit "
 "as Spearman or Bowman. You may only recruit Peasants and Fencers now."
@@ -1982,19 +1984,19 @@ msgstr ""
 "eller bågskyttar. Nu kan du bara rekrytera bönder och fäktare."
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:376
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:425
 #, fuzzy
 msgid "Look, fresh enemy forces arrived! We have no chance to win now!"
 msgstr "Titta, förstärkningar! Vi har inte en chans att vinna nu!"
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:377
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:426
 #, fuzzy
 msgid "Ha! Our army has returned! You are doomed now!"
 msgstr "Ha! Vår arme har återvänt! Ni är förlorade!"
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:386
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:435
 msgid ""
 "Hm, seems there are some people here, able with swords and bows, who could "
 "be recruited."
@@ -2003,19 +2005,19 @@ msgstr ""
 "som man kan rekrytera."
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:387
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:436
 msgid "You may recruit four more either archers or spearmen."
 msgstr "Du får rekrytera ytterligare fyra bågskyttar eller spjutbärare."
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:390
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:439
 #, fuzzy
 msgid "It seems that Outlaws hid a small treasury here."
 msgstr "Det verkar som att de fredlösa har en liten skattgömma här."
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:391 A_New_Order/scenarios/ano-17.cfg:434
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:391
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:440
 msgid "You receive 50 golden pieces."
 msgstr "Du får 50 guldstycken."
 
@@ -2250,9 +2252,9 @@ msgstr ""
 #: A_New_Order/scenarios/ano-20.cfg:228 A_New_Order/scenarios/ano-14d.cfg:157
 #: A_New_Order/scenarios/ano-14d.cfg:209 A_New_Order/scenarios/ano-14d.cfg:244
 #: A_New_Order/scenarios/ano-14b.cfg:311 A_New_Order/scenarios/ano-19a.cfg:157
-#: A_New_Order/scenarios/ano-13.cfg:382 A_New_Order/scenarios/ano-13.cfg:406
-#: A_New_Order/scenarios/ano-13.cfg:442 A_New_Order/scenarios/ano-13.cfg:726
-#: A_New_Order/scenarios/ano-13.cfg:756 A_New_Order/scenarios/ano-13.cfg:785
+#: A_New_Order/scenarios/ano-13.cfg:388 A_New_Order/scenarios/ano-13.cfg:412
+#: A_New_Order/scenarios/ano-13.cfg:448 A_New_Order/scenarios/ano-13.cfg:732
+#: A_New_Order/scenarios/ano-13.cfg:762 A_New_Order/scenarios/ano-13.cfg:791
 #: A_New_Order/scenarios/ano-21b.cfg:176
 #: A_New_Order/scenarios/21_Abducted_Bride.cfg:349
 #: A_New_Order/scenarios/ano-18.cfg:93 A_New_Order/scenarios/ano-18.cfg:115
@@ -2270,9 +2272,9 @@ msgstr "Ja, absolut."
 #: A_New_Order/scenarios/ano-20.cfg:186 A_New_Order/scenarios/ano-20.cfg:205
 #: A_New_Order/scenarios/ano-20.cfg:229 A_New_Order/scenarios/ano-14d.cfg:158
 #: A_New_Order/scenarios/ano-14b.cfg:312 A_New_Order/scenarios/ano-19a.cfg:158
-#: A_New_Order/scenarios/ano-13.cfg:383 A_New_Order/scenarios/ano-13.cfg:407
-#: A_New_Order/scenarios/ano-13.cfg:443 A_New_Order/scenarios/ano-13.cfg:727
-#: A_New_Order/scenarios/ano-13.cfg:757 A_New_Order/scenarios/ano-13.cfg:786
+#: A_New_Order/scenarios/ano-13.cfg:389 A_New_Order/scenarios/ano-13.cfg:413
+#: A_New_Order/scenarios/ano-13.cfg:449 A_New_Order/scenarios/ano-13.cfg:733
+#: A_New_Order/scenarios/ano-13.cfg:763 A_New_Order/scenarios/ano-13.cfg:792
 #: A_New_Order/scenarios/ano-21b.cfg:177
 #: A_New_Order/scenarios/21_Abducted_Bride.cfg:350
 #: A_New_Order/scenarios/ano-18.cfg:94 A_New_Order/scenarios/ano-18.cfg:116
@@ -2295,8 +2297,8 @@ msgstr "Jag måste stanna här."
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:213
-#: A_New_Order/scenarios/ano-04.cfg:179 A_New_Order/scenarios/ano-14b.cfg:487
-#: A_New_Order/scenarios/ano-13.cfg:332 A_New_Order/scenarios/ano-18.cfg:269
+#: A_New_Order/scenarios/ano-04.cfg:179 A_New_Order/scenarios/ano-14b.cfg:488
+#: A_New_Order/scenarios/ano-13.cfg:338 A_New_Order/scenarios/ano-18.cfg:269
 #: A_New_Order/scenarios/ano-18.cfg:367 A_New_Order/scenarios/ano-14e.cfg:252
 msgid "Why?"
 msgstr "Varför det?"
@@ -2401,8 +2403,8 @@ msgstr ""
 #: A_New_Order/scenarios/ano-12.cfg:12 A_New_Order/scenarios/ano-20.cfg:282
 #: A_New_Order/scenarios/ano-20.cfg:331 A_New_Order/scenarios/ano-20.cfg:373
 #: A_New_Order/scenarios/ano-17.cfg:45 A_New_Order/scenarios/ano-17.cfg:80
-#: A_New_Order/scenarios/ano-14b.cfg:395 A_New_Order/scenarios/ano-14b.cfg:402
-#: A_New_Order/scenarios/ano-14b.cfg:442 A_New_Order/scenarios/ano-14b.cfg:449
+#: A_New_Order/scenarios/ano-14b.cfg:396 A_New_Order/scenarios/ano-14b.cfg:403
+#: A_New_Order/scenarios/ano-14b.cfg:443 A_New_Order/scenarios/ano-14b.cfg:450
 #: A_New_Order/scenarios/ano-20macros.cfg:396
 #: A_New_Order/scenarios/ano-20macros.cfg:402
 #: A_New_Order/scenarios/ano-20macros.cfg:409
@@ -5020,8 +5022,8 @@ msgstr ""
 #: A_New_Order/units/others/Ruvio.cfg:4 A_New_Order/scenarios/ano-07.cfg:36
 #: A_New_Order/scenarios/ano-20.cfg:401 A_New_Order/scenarios/ano-20.cfg:410
 #: A_New_Order/scenarios/ano-20.cfg:420 A_New_Order/scenarios/ano-20.cfg:428
-#: A_New_Order/scenarios/ano-13.cfg:570 A_New_Order/scenarios/ano-13.cfg:580
-#: A_New_Order/scenarios/ano-13.cfg:591 A_New_Order/scenarios/ano-13.cfg:599
+#: A_New_Order/scenarios/ano-13.cfg:576 A_New_Order/scenarios/ano-13.cfg:586
+#: A_New_Order/scenarios/ano-13.cfg:597 A_New_Order/scenarios/ano-13.cfg:605
 #: A_New_Order/scenarios/ano-18.cfg:465 A_New_Order/scenarios/ano-18.cfg:473
 msgid "Ruvio"
 msgstr "Ruvio"
@@ -5030,9 +5032,9 @@ msgstr "Ruvio"
 #. [unit]: id=Karen, type=Ruvios Daughter
 #. [event]
 #: A_New_Order/units/others/Ruvios_Daughter.cfg:4
-#: A_New_Order/scenarios/ano-07.cfg:47 A_New_Order/scenarios/ano-13.cfg:571
-#: A_New_Order/scenarios/ano-13.cfg:581 A_New_Order/scenarios/ano-13.cfg:592
-#: A_New_Order/scenarios/ano-13.cfg:600
+#: A_New_Order/scenarios/ano-07.cfg:47 A_New_Order/scenarios/ano-13.cfg:577
+#: A_New_Order/scenarios/ano-13.cfg:587 A_New_Order/scenarios/ano-13.cfg:598
+#: A_New_Order/scenarios/ano-13.cfg:606
 msgid "Karen"
 msgstr "Karen"
 
@@ -7901,7 +7903,7 @@ msgid "John the Baldhead"
 msgstr "John den Skallige"
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:226
+#: A_New_Order/scenarios/ano-13.cfg:230
 msgid ""
 "Now, when you know where your friend Reme is, you may go to that Bontom "
 "place the peasants told us about."
@@ -7910,7 +7912,7 @@ msgstr ""
 "Bontomstället som bönderna berättade om."
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:228
+#: A_New_Order/scenarios/ano-13.cfg:232
 msgid ""
 "I guess we could ask peasants whether they know something about this Bontom "
 "place, in which your friend Reme is kept."
@@ -7919,20 +7921,20 @@ msgstr ""
 "Bontomstället, där din vän Reme hålls."
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:233
+#: A_New_Order/scenarios/ano-13.cfg:239
 msgid "We already know what we had to find out. We should go to Freetown now."
 msgstr ""
 "Vi har redan tagit reda på det vi behövde veta. Vi borde återvända till "
 "Freetown nu."
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:237
+#: A_New_Order/scenarios/ano-13.cfg:243
 #, fuzzy
 msgid "We've already searched for answers in the city of Barnon"
 msgstr "Vi har redan letat efter svar i Barnon."
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:239
+#: A_New_Order/scenarios/ano-13.cfg:245
 msgid ""
 "My lord, from here we may explore few possibilities. To the south, there is "
 "city of Barnon. Definetely it would be very dangerous to go there, but..."
@@ -7941,13 +7943,13 @@ msgstr ""
 "Det vore säkerligen väldigt farligt att ta sig dit, men..."
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:240
+#: A_New_Order/scenarios/ano-13.cfg:246
 msgid "..but we could probably find something about orcs there, right?"
 msgstr ""
 "...men vi skulle nog kunna få reda på något om orcherna där, eller hur?"
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:243
+#: A_New_Order/scenarios/ano-13.cfg:249
 msgid ""
 "We already searched in Haeltin, west from here. That your step-mother was "
 "there, known as She-wolf really surprised me."
@@ -7956,7 +7958,7 @@ msgstr ""
 "Honvargen, kom som en överraskning."
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:245
+#: A_New_Order/scenarios/ano-13.cfg:251
 msgid ""
 "Yes. We've heard that some woman, known by nickname 'She-wolf of Haeltin', "
 "was besieged by the orcs and she was able to repell them. Haeltin is west "
@@ -7968,12 +7970,12 @@ msgstr ""
 "frågor."
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:249
+#: A_New_Order/scenarios/ano-13.cfg:255
 msgid "We could also go for the swamps."
 msgstr "Vi skulle också kunna ta oss till träsken."
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:250
+#: A_New_Order/scenarios/ano-13.cfg:256
 #, fuzzy
 msgid ""
 "We could, but in swamps of Saorduc Saurians live, and they rarely go outside "
@@ -7987,7 +7989,7 @@ msgstr ""
 "kanske vet något."
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:255
+#: A_New_Order/scenarios/ano-13.cfg:261
 msgid ""
 "Frankly, I have no idea what to do now. We have already been in all the "
 "obvious locations."
@@ -7997,37 +7999,37 @@ msgstr ""
 
 #. [scenario]: id=ano_13
 #. [scenario]: id=ano_18
-#: A_New_Order/scenarios/ano-13.cfg:281 A_New_Order/scenarios/ano-18.cfg:46
+#: A_New_Order/scenarios/ano-13.cfg:287 A_New_Order/scenarios/ano-18.cfg:46
 msgid "Raedwood Forest"
 msgstr ""
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:282
+#: A_New_Order/scenarios/ano-13.cfg:288
 msgid "To Freetown"
 msgstr "Till Freetown"
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:283
+#: A_New_Order/scenarios/ano-13.cfg:289
 msgid "To Haeltin"
 msgstr "Till Haeltin"
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:284
+#: A_New_Order/scenarios/ano-13.cfg:290
 msgid "To Saorduc swamps"
 msgstr "Till Saorducs träsk"
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:285
+#: A_New_Order/scenarios/ano-13.cfg:291
 msgid "To Barnon"
 msgstr "Till Barnon"
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:286
+#: A_New_Order/scenarios/ano-13.cfg:292
 msgid "Hyeton"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:331
+#: A_New_Order/scenarios/ano-13.cfg:337
 msgid ""
 "This is extremely important to everyone to remember that you should not "
 "reference Gawen by his real name. Call him Gaumhaldric."
@@ -8036,7 +8038,7 @@ msgstr ""
 "riktiga namn. Kalla honom Gaumhaldric."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:333
+#: A_New_Order/scenarios/ano-13.cfg:339
 #, fuzzy
 msgid ""
 "Because our people at Freetown aren't ready to have an Akladian leader. And "
@@ -8047,7 +8049,7 @@ msgstr ""
 "fall."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:334
+#: A_New_Order/scenarios/ano-13.cfg:340
 msgid ""
 "Gaumhaldric.. So, this is why my son is not shaving? He wants to hide his "
 "real identity under a beard?"
@@ -8056,14 +8058,14 @@ msgstr ""
 "riktiga identitet under ett skägg?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:335
+#: A_New_Order/scenarios/ano-13.cfg:341
 msgid "Nonono. He has to have a beard, because all our great kings had beards."
 msgstr ""
 "Nej, nej, nej. Han måste ha skägg för att alla våra stora kungar har haft "
 "det."
 
 #. [objectives]
-#: A_New_Order/scenarios/ano-20.cfg:132 A_New_Order/scenarios/ano-13.cfg:346
+#: A_New_Order/scenarios/ano-20.cfg:132 A_New_Order/scenarios/ano-13.cfg:352
 #: A_New_Order/scenarios/ano-18.cfg:83
 msgid ""
 "This is a large-scale map, where you will choose a way to go. You should "
@@ -8075,7 +8077,7 @@ msgstr ""
 "nästa scenario. För Gawen till tältet för att tala med hand vänner."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:360
+#: A_New_Order/scenarios/ano-13.cfg:366
 msgid ""
 "My lord, we cannot go back to Freetown. We have nothing to report, and we "
 "have not found anything about the orcs."
@@ -8084,7 +8086,7 @@ msgstr ""
 "och vi har inte kommit på något om orcherna."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:363
+#: A_New_Order/scenarios/ano-13.cfg:369
 #, fuzzy
 msgid ""
 "My lord, I do not think we should go back to Freetown already. We haven't "
@@ -8096,27 +8098,27 @@ msgstr ""
 "eftersom hon redan har slagits med orcherna."
 
 #. [then]
-#: A_New_Order/scenarios/ano-13.cfg:377
+#: A_New_Order/scenarios/ano-13.cfg:383
 msgid "We were in Haeltin already. Were to go now?"
 msgstr "Vi har redan varit i Haeltin. Vart nu?"
 
 #. [else]
-#: A_New_Order/scenarios/ano-13.cfg:381
+#: A_New_Order/scenarios/ano-13.cfg:387
 msgid "Are you sure you want to go there?"
 msgstr "Är du säker på att du vill dit?"
 
 #. [else]
-#: A_New_Order/scenarios/ano-13.cfg:387
+#: A_New_Order/scenarios/ano-13.cfg:393
 msgid "As you wish, my lord."
 msgstr "Som du önskar, ers nåd."
 
 #. [then]
-#: A_New_Order/scenarios/ano-13.cfg:401
+#: A_New_Order/scenarios/ano-13.cfg:407
 msgid "We already were in Saorduc. Were to go now?"
 msgstr "Vi har redan varit i Saorduc. Vart nu?"
 
 #. [else]
-#: A_New_Order/scenarios/ano-13.cfg:405
+#: A_New_Order/scenarios/ano-13.cfg:411
 msgid ""
 "Are you sure you want to go there? I've told you that I doubt Saurians know "
 "anything useful."
@@ -8125,7 +8127,7 @@ msgstr ""
 "några användbara upplysningar."
 
 #. [else]
-#: A_New_Order/scenarios/ano-13.cfg:410 A_New_Order/scenarios/ano-13.cfg:412
+#: A_New_Order/scenarios/ano-13.cfg:416 A_New_Order/scenarios/ano-13.cfg:418
 msgid ""
 "So, on to Saorduc! Hope it is wise decision and lizard men would know "
 "something about orcs."
@@ -8134,22 +8136,22 @@ msgstr ""
 "något om orcherna."
 
 #. [else]
-#: A_New_Order/scenarios/ano-13.cfg:416
+#: A_New_Order/scenarios/ano-13.cfg:422
 msgid "Lizards? We already fought with them. I hate lizards."
 msgstr "Ödlor? Vi har redan slagits mot dem. Jag hatar ödlor."
 
 #. [else]
-#: A_New_Order/scenarios/ano-13.cfg:421
+#: A_New_Order/scenarios/ano-13.cfg:427
 msgid "That was wise decision, my lord."
 msgstr "Det var ett vist val, ers nåd."
 
 #. [then]
-#: A_New_Order/scenarios/ano-13.cfg:437
+#: A_New_Order/scenarios/ano-13.cfg:443
 msgid "We already were scouting near Barnon. Were to go now?"
 msgstr "Vi har redan sökt runt Barnon. Vart nu?"
 
 #. [else]
-#: A_New_Order/scenarios/ano-13.cfg:441
+#: A_New_Order/scenarios/ano-13.cfg:447
 msgid ""
 "Are you sure you want to go there? A lot of enemy soldiers could be near "
 "Barnon."
@@ -8158,7 +8160,7 @@ msgstr ""
 "fiendesoldater nära Barnon."
 
 #. [else]
-#: A_New_Order/scenarios/ano-13.cfg:445
+#: A_New_Order/scenarios/ano-13.cfg:451
 msgid ""
 "This could be dangerous. But also, extremely valuable. We definitely can "
 "find something about orcs there."
@@ -8168,115 +8170,115 @@ msgstr ""
 
 #. [else]
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:448 A_New_Order/scenarios/ano-13.cfg:766
-#: A_New_Order/scenarios/ano-13.cfg:792
+#: A_New_Order/scenarios/ano-13.cfg:454 A_New_Order/scenarios/ano-13.cfg:772
+#: A_New_Order/scenarios/ano-13.cfg:798
 msgid "Yes, on other hand maybe we should search elsewhere."
 msgstr "Ja, vi borde kanske leta någon annanstans."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:458
+#: A_New_Order/scenarios/ano-13.cfg:464
 msgid "Who is comin' here? What d'ya wanna from us?"
 msgstr "Vilka kommer där? Va' vill du?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:459 A_New_Order/scenarios/ano-13.cfg:498
+#: A_New_Order/scenarios/ano-13.cfg:465 A_New_Order/scenarios/ano-13.cfg:504
 msgid "Don't be afraid, I want ask you few question and then I will go."
 msgstr ""
 "Var inte rädda, jag vill bara ställa några frågor så skall jag ge mig av "
 "igen."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:460
+#: A_New_Order/scenarios/ano-13.cfg:466
 msgid "So go an' ask us"
 msgstr "Så fråga på, då."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:278 A_New_Order/scenarios/ano-20.cfg:327
-#: A_New_Order/scenarios/ano-20.cfg:369 A_New_Order/scenarios/ano-14b.cfg:390
-#: A_New_Order/scenarios/ano-14b.cfg:398 A_New_Order/scenarios/ano-14b.cfg:437
-#: A_New_Order/scenarios/ano-14b.cfg:445 A_New_Order/scenarios/ano-13.cfg:465
-#: A_New_Order/scenarios/ano-13.cfg:478 A_New_Order/scenarios/ano-13.cfg:503
-#: A_New_Order/scenarios/ano-13.cfg:516 A_New_Order/scenarios/ano-13.cfg:536
-#: A_New_Order/scenarios/ano-13.cfg:549 A_New_Order/scenarios/ano-18.cfg:152
+#: A_New_Order/scenarios/ano-20.cfg:369 A_New_Order/scenarios/ano-14b.cfg:391
+#: A_New_Order/scenarios/ano-14b.cfg:399 A_New_Order/scenarios/ano-14b.cfg:438
+#: A_New_Order/scenarios/ano-14b.cfg:446 A_New_Order/scenarios/ano-13.cfg:471
+#: A_New_Order/scenarios/ano-13.cfg:484 A_New_Order/scenarios/ano-13.cfg:509
+#: A_New_Order/scenarios/ano-13.cfg:522 A_New_Order/scenarios/ano-13.cfg:542
+#: A_New_Order/scenarios/ano-13.cfg:555 A_New_Order/scenarios/ano-18.cfg:152
 #: A_New_Order/scenarios/ano-18.cfg:237 A_New_Order/scenarios/ano-18.cfg:291
 #: A_New_Order/scenarios/ano-18.cfg:392
 msgid "Please, tell me..."
 msgstr "Var snäll och säg mig..."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:466 A_New_Order/scenarios/ano-13.cfg:504
-#: A_New_Order/scenarios/ano-13.cfg:537
+#: A_New_Order/scenarios/ano-13.cfg:472 A_New_Order/scenarios/ano-13.cfg:510
+#: A_New_Order/scenarios/ano-13.cfg:543
 msgid "Do you know where the place called Bontom is?"
 msgstr "Vet du var platsen de kallar Bontom ligger?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:467 A_New_Order/scenarios/ano-13.cfg:479
-#: A_New_Order/scenarios/ano-13.cfg:505 A_New_Order/scenarios/ano-13.cfg:517
-#: A_New_Order/scenarios/ano-13.cfg:538 A_New_Order/scenarios/ano-13.cfg:550
+#: A_New_Order/scenarios/ano-13.cfg:473 A_New_Order/scenarios/ano-13.cfg:485
+#: A_New_Order/scenarios/ano-13.cfg:511 A_New_Order/scenarios/ano-13.cfg:523
+#: A_New_Order/scenarios/ano-13.cfg:544 A_New_Order/scenarios/ano-13.cfg:556
 msgid "Do you know anything about Reme Carrenemoe?"
 msgstr "Vet du något om Reme Carrenemoe?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:468 A_New_Order/scenarios/ano-13.cfg:480
-#: A_New_Order/scenarios/ano-13.cfg:506 A_New_Order/scenarios/ano-13.cfg:518
-#: A_New_Order/scenarios/ano-13.cfg:539 A_New_Order/scenarios/ano-13.cfg:551
+#: A_New_Order/scenarios/ano-13.cfg:474 A_New_Order/scenarios/ano-13.cfg:486
+#: A_New_Order/scenarios/ano-13.cfg:512 A_New_Order/scenarios/ano-13.cfg:524
+#: A_New_Order/scenarios/ano-13.cfg:545 A_New_Order/scenarios/ano-13.cfg:557
 msgid "Have you heard anything about orcs?"
 msgstr "Har du hört något om orcherna?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:469 A_New_Order/scenarios/ano-13.cfg:481
-#: A_New_Order/scenarios/ano-13.cfg:507 A_New_Order/scenarios/ano-13.cfg:519
-#: A_New_Order/scenarios/ano-13.cfg:540 A_New_Order/scenarios/ano-13.cfg:552
+#: A_New_Order/scenarios/ano-13.cfg:475 A_New_Order/scenarios/ano-13.cfg:487
+#: A_New_Order/scenarios/ano-13.cfg:513 A_New_Order/scenarios/ano-13.cfg:525
+#: A_New_Order/scenarios/ano-13.cfg:546 A_New_Order/scenarios/ano-13.cfg:558
 msgid "Would you want to fight for me?"
 msgstr "Skulle du vilja slåss för mig?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:470 A_New_Order/scenarios/ano-13.cfg:482
-#: A_New_Order/scenarios/ano-13.cfg:508 A_New_Order/scenarios/ano-13.cfg:520
-#: A_New_Order/scenarios/ano-13.cfg:541 A_New_Order/scenarios/ano-13.cfg:553
+#: A_New_Order/scenarios/ano-13.cfg:476 A_New_Order/scenarios/ano-13.cfg:488
+#: A_New_Order/scenarios/ano-13.cfg:514 A_New_Order/scenarios/ano-13.cfg:526
+#: A_New_Order/scenarios/ano-13.cfg:547 A_New_Order/scenarios/ano-13.cfg:559
 msgid "Go and work, good man."
 msgstr "Gå och fortsätt jobba, min gode man."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:493
+#: A_New_Order/scenarios/ano-13.cfg:499
 msgid "Ah, welcome, we've heard about your victories, Gaumhaldric."
 msgstr "Ah, välkommen, vi har hört om dina segrar, Gaumhaldric."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:495
+#: A_New_Order/scenarios/ano-13.cfg:501
 #, fuzzy
 msgid "I still can't get used to them calling him Gaumhaldric."
 msgstr ""
 "Jag kan fortfarande inte vänja mig vid att de kallar honom Gaumhaldric."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:496
+#: A_New_Order/scenarios/ano-13.cfg:502
 msgid "Cute name, isn't it?"
 msgstr "Gulligt namn, eller hur?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:499
+#: A_New_Order/scenarios/ano-13.cfg:505
 #, fuzzy
 msgid "Anything for you, young knight."
 msgstr "Allt för dig, unge riddare."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:532
+#: A_New_Order/scenarios/ano-13.cfg:538
 msgid "Free men from Raedwood forest! You are always welcomed here."
 msgstr "De fria männen från Readwood-skogen! Ni är alltid välkomna här."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:400 A_New_Order/scenarios/ano-20.cfg:409
 #: A_New_Order/scenarios/ano-20.cfg:419 A_New_Order/scenarios/ano-20.cfg:427
-#: A_New_Order/scenarios/ano-13.cfg:569 A_New_Order/scenarios/ano-13.cfg:579
-#: A_New_Order/scenarios/ano-13.cfg:590 A_New_Order/scenarios/ano-13.cfg:598
+#: A_New_Order/scenarios/ano-13.cfg:575 A_New_Order/scenarios/ano-13.cfg:585
+#: A_New_Order/scenarios/ano-13.cfg:596 A_New_Order/scenarios/ano-13.cfg:604
 #: A_New_Order/scenarios/ano-18.cfg:464 A_New_Order/scenarios/ano-18.cfg:472
 msgid "I would love to talk to..."
 msgstr "Jag skulle vilja tala med..."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:402 A_New_Order/scenarios/ano-20.cfg:411
-#: A_New_Order/scenarios/ano-13.cfg:572 A_New_Order/scenarios/ano-13.cfg:593
+#: A_New_Order/scenarios/ano-13.cfg:578 A_New_Order/scenarios/ano-13.cfg:599
 #: A_New_Order/scenarios/ano-18.cfg:466
 msgid "Reme"
 msgstr "Reme"
@@ -8285,79 +8287,79 @@ msgstr "Reme"
 #. [event]
 #: A_New_Order/scenarios/ano-28.cfg:3 A_New_Order/scenarios/ano-20.cfg:403
 #: A_New_Order/scenarios/ano-20.cfg:412 A_New_Order/scenarios/ano-20.cfg:422
-#: A_New_Order/scenarios/ano-20.cfg:429 A_New_Order/scenarios/ano-13.cfg:573
-#: A_New_Order/scenarios/ano-13.cfg:582 A_New_Order/scenarios/ano-18.cfg:467
+#: A_New_Order/scenarios/ano-20.cfg:429 A_New_Order/scenarios/ano-13.cfg:579
+#: A_New_Order/scenarios/ano-13.cfg:588 A_New_Order/scenarios/ano-18.cfg:467
 #: A_New_Order/scenarios/ano-18.cfg:474
 msgid "Lorin"
 msgstr "Lady Lorin"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:574 A_New_Order/scenarios/ano-13.cfg:583
+#: A_New_Order/scenarios/ano-13.cfg:580 A_New_Order/scenarios/ano-13.cfg:589
 msgid "Yaranov"
 msgstr "Yaranov"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:405 A_New_Order/scenarios/ano-20.cfg:413
 #: A_New_Order/scenarios/ano-20.cfg:423 A_New_Order/scenarios/ano-20.cfg:430
-#: A_New_Order/scenarios/ano-13.cfg:575 A_New_Order/scenarios/ano-13.cfg:584
-#: A_New_Order/scenarios/ano-13.cfg:594 A_New_Order/scenarios/ano-13.cfg:601
+#: A_New_Order/scenarios/ano-13.cfg:581 A_New_Order/scenarios/ano-13.cfg:590
+#: A_New_Order/scenarios/ano-13.cfg:600 A_New_Order/scenarios/ano-13.cfg:607
 #: A_New_Order/scenarios/ano-18.cfg:468 A_New_Order/scenarios/ano-18.cfg:475
 msgid "I changed my mind"
 msgstr "Nä, förresten."
 
 #. [event]
-#: A_New_Order/scenarios/ano-20.cfg:437 A_New_Order/scenarios/ano-13.cfg:609
+#: A_New_Order/scenarios/ano-20.cfg:437 A_New_Order/scenarios/ano-13.cfg:615
 #: A_New_Order/scenarios/ano-18.cfg:481
 msgid "Ruvio, please tell me.."
 msgstr "Ruvio, kan du berätta för mig om..."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:610
+#: A_New_Order/scenarios/ano-13.cfg:616
 msgid "Where Reme Carrenemoe could possibly be?"
 msgstr "Var Reme Carrenemoe kan tänkas vara?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:611 A_New_Order/scenarios/ano-18.cfg:483
+#: A_New_Order/scenarios/ano-13.cfg:617 A_New_Order/scenarios/ano-18.cfg:483
 msgid "Advice me what could we do now."
 msgstr "Vad vi kan göra nu."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:612
+#: A_New_Order/scenarios/ano-13.cfg:618
 msgid "Tell me about my mother"
 msgstr "Berätta för mig om min mor."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:617
+#: A_New_Order/scenarios/ano-13.cfg:623
 msgid "You are joking, right? He is in our camp."
 msgstr "Du skämtar väl? Han är i vårt läger."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:619
+#: A_New_Order/scenarios/ano-13.cfg:625
 msgid "Probably in that Bontom peasants told us about."
 msgstr "Antagligen i det där Bontom som bönderna berättade om."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:621
+#: A_New_Order/scenarios/ano-13.cfg:627
 msgid "In some place called Bontom. We could ask peasants about it."
 msgstr "Något ställe som kallas Bontom. Vi skulle kunna fråga bönderna om det."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:623
+#: A_New_Order/scenarios/ano-13.cfg:629
 msgid "I have no idea where your friend may be."
 msgstr "Jag har ingen aning om var er vän kan tänkas vara."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:630
+#: A_New_Order/scenarios/ano-13.cfg:636
 msgid "About your mother? What do you want to know about her?"
 msgstr "Om er mor? Vad vill du veta om henne?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:631
+#: A_New_Order/scenarios/ano-13.cfg:637
 msgid "Everything."
 msgstr "Allt."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:632
+#: A_New_Order/scenarios/ano-13.cfg:638
 #, fuzzy
 msgid ""
 "Well, she was from a royal house. The Akladian king faced her with a simple "
@@ -8371,7 +8373,7 @@ msgstr ""
 "för henne och berättade om vad som hänt hemmavid."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:633
+#: A_New_Order/scenarios/ano-13.cfg:639
 #, fuzzy
 msgid ""
 "I think she even started liking that king, your father. When she gave birth "
@@ -8386,34 +8388,34 @@ msgstr ""
 "dog, långsamt. Jag var vid hennes sida, och jag lovade att ta hand om dig."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:634
+#: A_New_Order/scenarios/ano-13.cfg:640
 #, fuzzy
 msgid "Who poisoned her?"
 msgstr "Vem förgiftade henne?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:635
+#: A_New_Order/scenarios/ano-13.cfg:641
 msgid "I don't know. No one knows."
 msgstr "Jag vet inte. Ingen vet."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:637
+#: A_New_Order/scenarios/ano-13.cfg:643
 msgid ""
 "Rob Roe mentioned Lorin clan once bought some special poison from Outlaws... "
 msgstr "Rob Roe nämnde att Lorins klan köpte något gift av de fredlösa..."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:638
+#: A_New_Order/scenarios/ano-13.cfg:644
 msgid "And you think that..."
 msgstr "Och du tror att..."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:639
+#: A_New_Order/scenarios/ano-13.cfg:645
 msgid "Why should I think that?"
 msgstr "Varför skulle jag tro det?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:640
+#: A_New_Order/scenarios/ano-13.cfg:646
 #, fuzzy
 msgid ""
 "You are right, Gawen. Akladians are constantly poisoning each other. You "
@@ -8425,22 +8427,22 @@ msgstr ""
 "undgick mig fullständigt innan."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:645
+#: A_New_Order/scenarios/ano-13.cfg:651
 msgid "Hey Karen, what's up?"
 msgstr "Hallå, Karen, vad händer?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:646
+#: A_New_Order/scenarios/ano-13.cfg:652
 msgid "I just created a new song about you, want to hear it?"
 msgstr "Jag skrev just en ny sång om dig, vill du höra den?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:647
+#: A_New_Order/scenarios/ano-13.cfg:653
 msgid "You are gifted girl, fighting, singing, what else can you do?"
 msgstr "Du är en begåvad flicka, du slåss och sjunger, vad kan du mer?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:648
+#: A_New_Order/scenarios/ano-13.cfg:654
 msgid ""
 "I can also dance. Gawen, when we return to Freetown I could dance for you. "
 msgstr ""
@@ -8448,17 +8450,17 @@ msgstr ""
 "kunna dansa för dig."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:649
+#: A_New_Order/scenarios/ano-13.cfg:655
 msgid "I'm sure I would enjoy your dance"
 msgstr "Jag är säker på att jag skulle tycka om din dans."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:650
+#: A_New_Order/scenarios/ano-13.cfg:656
 msgid "Bet you would!"
 msgstr "Visst skulle du det!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:652
+#: A_New_Order/scenarios/ano-13.cfg:658
 #, fuzzy
 msgid ""
 "Thank you Gawen once again.. You have saved my life. I will never forget it; "
@@ -8471,18 +8473,18 @@ msgstr ""
 "dig av eget val."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:654
+#: A_New_Order/scenarios/ano-13.cfg:660
 #, fuzzy
 msgid "Hey Gaumhaldric, nice mother you have. Can I ask a question?"
 msgstr "Hallå, Gaumhaldric, trevlig mor du har. Får jag ställa en fråga?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:655
+#: A_New_Order/scenarios/ano-13.cfg:661
 msgid "Sure, go ahead."
 msgstr "Visst, fråga på."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:656
+#: A_New_Order/scenarios/ano-13.cfg:662
 #, fuzzy
 msgid ""
 "Is she taken? I mean, does she have someone she loves? I noticed her looking "
@@ -8494,13 +8496,13 @@ msgstr ""
 "som om hon tänkte på någon... Eller något."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:657
+#: A_New_Order/scenarios/ano-13.cfg:663
 #, fuzzy
 msgid "I think she remembers my father. She has no one else I know about."
 msgstr "Jag tror att hon tänker på min far. Hon har ingen annan, vad jag vet."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:658
+#: A_New_Order/scenarios/ano-13.cfg:664
 msgid ""
 "Good thing for me. She seems to be inconquerable but Aragwaithi can break "
 "into any fortress, only time and patience is needed."
@@ -8509,61 +8511,61 @@ msgstr ""
 "in i vilket fort som helst, bara tiden och tålamodet finns."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:659
+#: A_New_Order/scenarios/ano-13.cfg:665
 msgid "Andrey Yaranov, Lorin is my step-mother."
 msgstr "Andrey Yaranov, Lorin är min styvmor."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:660
+#: A_New_Order/scenarios/ano-13.cfg:666
 msgid "You may start to call me step-father, then."
 msgstr "Då kan du börja kalla mig styvfar, då."
 
 #. [event]
-#: A_New_Order/scenarios/ano-20.cfg:469 A_New_Order/scenarios/ano-13.cfg:665
-#: A_New_Order/scenarios/ano-13.cfg:674 A_New_Order/scenarios/ano-18.cfg:506
+#: A_New_Order/scenarios/ano-20.cfg:469 A_New_Order/scenarios/ano-13.cfg:671
+#: A_New_Order/scenarios/ano-13.cfg:680 A_New_Order/scenarios/ano-18.cfg:506
 msgid "Mother, can I have a word with you?"
 msgstr "Mamma, får jag tala med dig lite?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:666
+#: A_New_Order/scenarios/ano-13.cfg:672
 msgid "Your clan bought a poison from outlaws. Why?"
 msgstr "Din klan köpte något gift av de fredlösa. Vad var det?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:667 A_New_Order/scenarios/ano-13.cfg:675
+#: A_New_Order/scenarios/ano-13.cfg:673 A_New_Order/scenarios/ano-13.cfg:681
 msgid "What do you think about Yaranov?"
 msgstr "Vad tror du om Yaranov?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:668 A_New_Order/scenarios/ano-13.cfg:676
+#: A_New_Order/scenarios/ano-13.cfg:674 A_New_Order/scenarios/ano-13.cfg:682
 msgid "What do you know about orcs?"
 msgstr "Vad vet du om orcherna?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:669 A_New_Order/scenarios/ano-13.cfg:677
+#: A_New_Order/scenarios/ano-13.cfg:675 A_New_Order/scenarios/ano-13.cfg:683
 #, fuzzy
 msgid "How did my real mother die?"
 msgstr "Hur dog min riktiga mor?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:472 A_New_Order/scenarios/ano-20.cfg:487
-#: A_New_Order/scenarios/ano-13.cfg:670 A_New_Order/scenarios/ano-13.cfg:678
+#: A_New_Order/scenarios/ano-13.cfg:676 A_New_Order/scenarios/ano-13.cfg:684
 #: A_New_Order/scenarios/ano-18.cfg:510
 msgid "Never mind"
 msgstr "Äh, strunt samma."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:683
+#: A_New_Order/scenarios/ano-13.cfg:689
 msgid "Why do you ask?"
 msgstr "Varför undrar du det?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:684
+#: A_New_Order/scenarios/ano-13.cfg:690
 msgid "Well, he seems to be interested in you."
 msgstr "Tja, han verkar intresserad av dig."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:685
+#: A_New_Order/scenarios/ano-13.cfg:691
 msgid ""
 "Yes, I noticed that. I think one have to be blind not to notice that. But I "
 "am not interested in him."
@@ -8572,17 +8574,17 @@ msgstr ""
 "inte intresserad av honom."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:686
+#: A_New_Order/scenarios/ano-13.cfg:692
 msgid "Why? He seems to be nice guy."
 msgstr "Varför det? Han verkar vara trevlig."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:687
+#: A_New_Order/scenarios/ano-13.cfg:693
 msgid "He is underling."
 msgstr "Han är en lakej."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:688
+#: A_New_Order/scenarios/ano-13.cfg:694
 msgid ""
 "Underling? Mother, why do you use such words? I am underling too, after all."
 msgstr ""
@@ -8590,7 +8592,7 @@ msgstr ""
 "allt kommer omkring."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:689
+#: A_New_Order/scenarios/ano-13.cfg:695
 msgid ""
 "No! I would never call you that. You are not.. I mean.. I.. Ah, you are too "
 "young to understand that."
@@ -8599,7 +8601,7 @@ msgstr ""
 "Jag... Ah, du är för ung för att förstå det."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:690
+#: A_New_Order/scenarios/ano-13.cfg:696
 msgid ""
 "Besides, you lost your memory, so you probably also do not remember what are "
 "our customs about widows, who are betraying their dead husband. I will "
@@ -8609,7 +8611,7 @@ msgstr ""
 "angående änkor som förråder sina döda män. Jag förklarar senare."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:692
+#: A_New_Order/scenarios/ano-13.cfg:698
 msgid ""
 "Orcs: they are good fighters. Strong, disciplined, I wish I had such "
 "soldiers."
@@ -8618,7 +8620,7 @@ msgstr ""
 "sådana soldater."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:693
+#: A_New_Order/scenarios/ano-13.cfg:699
 msgid ""
 "Mother, orcs are burning, pillaging, murdering, they hate us, and you seem "
 "to respect them?!?"
@@ -8627,23 +8629,23 @@ msgstr ""
 "respektera dem?!?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:694
+#: A_New_Order/scenarios/ano-13.cfg:700
 msgid ""
 "Well, we are burning, pillaging, murdering and hate our enemies too. And?"
 msgstr "Tja, bränner, plundrar och mördar inte vi våra fiender också? Och?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:696
+#: A_New_Order/scenarios/ano-13.cfg:702
 msgid "Poison? What poison? My clan have never bought any poison."
 msgstr "Gift? Vilket gift? Min klan har aldrig köpt något gift."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:697
+#: A_New_Order/scenarios/ano-13.cfg:703
 msgid "Rob Roe have told me about that."
 msgstr "Rob Roe har berättat för mig om det."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:698
+#: A_New_Order/scenarios/ano-13.cfg:704
 msgid ""
 "Can you repeat that name? Rob - Roe. Rob Roe. No, I can't remember this "
 "name.. Uhm.. Well, I don't know anything about my clan buying a poison. I am "
@@ -8655,12 +8657,12 @@ msgstr ""
 "för mig."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:701
+#: A_New_Order/scenarios/ano-13.cfg:707
 msgid "Your mother? Your.. why you are asking ME about your mother?"
 msgstr "Din mor? Varför frågar du MIG om din mor?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:702
+#: A_New_Order/scenarios/ano-13.cfg:708
 msgid ""
 "I can't remember anything about her. I would love to hear something about "
 "her. Have you known her?"
@@ -8669,7 +8671,7 @@ msgstr ""
 "henne. Kände du henne?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:703
+#: A_New_Order/scenarios/ano-13.cfg:709
 msgid ""
 "No! I have not known her! I.. I'm sorry Gawen, but I don't know how your "
 "mother died and who poisoned her."
@@ -8678,17 +8680,17 @@ msgstr ""
 "din mor dog eller vem som förgiftade henne."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:704
+#: A_New_Order/scenarios/ano-13.cfg:710
 msgid "I wasn't asking you about that."
 msgstr "Det var inte det jag frågade."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:720
+#: A_New_Order/scenarios/ano-13.cfg:726
 msgid "There are no more orcs near this ruins of the village."
 msgstr "Det finns inga fler orcher i närheten av byruinerna."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:723
+#: A_New_Order/scenarios/ano-13.cfg:729
 msgid ""
 "My lord! This time for sure you will chase that orcish band, kill all the "
 "orcs and free my people!"
@@ -8697,38 +8699,38 @@ msgstr ""
 "dem och befria mitt folk!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:725
+#: A_New_Order/scenarios/ano-13.cfg:731
 msgid "So, should we take on that orcs?"
 msgstr "Jaså, borde vi attackera orcherna?"
 
 #. [unit]: type=Peasant, id=Matthews Eagle Eye
-#: A_New_Order/scenarios/ano-13.cfg:736
+#: A_New_Order/scenarios/ano-13.cfg:742
 msgid "Matthews Eagle Eye"
 msgstr "Matthews Örnöga"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:743
+#: A_New_Order/scenarios/ano-13.cfg:749
 msgid "Someone is hiding here!"
 msgstr "Det är någon som gömmer sig där!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:745
+#: A_New_Order/scenarios/ano-13.cfg:751
 msgid "Ah! Humans! And Akladians with them?! Still, what a happiness!"
 msgstr ""
 "Aha! Människor! Och akladier med dem? Lyckan ler mot oss idag, trots allt!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:747
+#: A_New_Order/scenarios/ano-13.cfg:753
 msgid "Ah! Humans! And not Akladians! What a happiness!"
 msgstr "Aha! Människor! Och inga akladier? Lyckan ler mot oss!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:749
+#: A_New_Order/scenarios/ano-13.cfg:755
 msgid "Who are you, and what are you doing here?"
 msgstr "Vem är du och vad gör du här?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:750
+#: A_New_Order/scenarios/ano-13.cfg:756
 #, fuzzy
 msgid ""
 "The orcs burned down my village, Ruen, and they left not long ago. They took "
@@ -8740,7 +8742,7 @@ msgstr ""
 "det kommit."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:751
+#: A_New_Order/scenarios/ano-13.cfg:757
 msgid ""
 "Oh my. It's so funny I think I'm gonna die laughing. Gaumhaldric the Miracle-"
 "maker, how it sounds?"
@@ -8749,12 +8751,12 @@ msgstr ""
 "Mirakelmakaren, hur låter det?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:752
+#: A_New_Order/scenarios/ano-13.cfg:758
 msgid "Miracle? What do you mean?"
 msgstr "Mirakel? Vad menar du?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:753
+#: A_New_Order/scenarios/ano-13.cfg:759
 msgid ""
 "You of course will chase that orcish band, kill all the orcs and free my "
 "people!"
@@ -8763,34 +8765,34 @@ msgstr ""
 "mitt folk!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:755
+#: A_New_Order/scenarios/ano-13.cfg:761
 #, fuzzy
 msgid "Hm, my lord, do you think we should fullfill this peasant's request?"
 msgstr "Hmm, ers nåd, tycker du att vi ska uppfylla den här bonden begäran?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:762
+#: A_New_Order/scenarios/ano-13.cfg:768
 msgid "Well, I hope it's wise decision."
 msgstr "Nå, jag hoppas att det är ett vist val."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:763
+#: A_New_Order/scenarios/ano-13.cfg:769
 msgid ""
 "Of course it is. We are searching for orcs, and those are orcs, isn't it?"
 msgstr "Visst är det det. Vi letar efter orcher och de är orcher, eller hur?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:777
+#: A_New_Order/scenarios/ano-13.cfg:783
 msgid "We already fought with outlaws from Bontom, my lord."
 msgstr "Vi har redan slagits med fredlösa från Bontom, ers nåd."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:784
+#: A_New_Order/scenarios/ano-13.cfg:790
 msgid "So, should we go into this Bontom?"
 msgstr "Nå, skall vi ta oss till Bontom?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:789
+#: A_New_Order/scenarios/ano-13.cfg:795
 msgid "Yes, we should save that Reme now"
 msgstr "Ja, vi borde rädda den där Reme nu."
 
@@ -9107,7 +9109,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:225 A_New_Order/scenarios/ano-14d.cfg:260
-#: A_New_Order/scenarios/ano-14b.cfg:523 A_New_Order/scenarios/ano-14b.cfg:535
+#: A_New_Order/scenarios/ano-14b.cfg:524 A_New_Order/scenarios/ano-14b.cfg:536
 #: A_New_Order/scenarios/ano-14a.cfg:340 A_New_Order/scenarios/ano-14a.cfg:357
 #: A_New_Order/scenarios/ano-14a.cfg:375
 msgid ""
@@ -9119,8 +9121,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:190 A_New_Order/scenarios/ano-14d.cfg:226
-#: A_New_Order/scenarios/ano-14d.cfg:261 A_New_Order/scenarios/ano-14b.cfg:508
-#: A_New_Order/scenarios/ano-14b.cfg:524 A_New_Order/scenarios/ano-14b.cfg:536
+#: A_New_Order/scenarios/ano-14d.cfg:261 A_New_Order/scenarios/ano-14b.cfg:509
+#: A_New_Order/scenarios/ano-14b.cfg:525 A_New_Order/scenarios/ano-14b.cfg:537
 #: A_New_Order/scenarios/ano-14a.cfg:341 A_New_Order/scenarios/ano-14a.cfg:358
 #: A_New_Order/scenarios/ano-14a.cfg:376
 msgid ""
@@ -9132,8 +9134,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:227 A_New_Order/scenarios/ano-14d.cfg:262
-#: A_New_Order/scenarios/ano-14b.cfg:509 A_New_Order/scenarios/ano-14b.cfg:525
-#: A_New_Order/scenarios/ano-14b.cfg:537 A_New_Order/scenarios/ano-14a.cfg:342
+#: A_New_Order/scenarios/ano-14b.cfg:510 A_New_Order/scenarios/ano-14b.cfg:526
+#: A_New_Order/scenarios/ano-14b.cfg:538 A_New_Order/scenarios/ano-14a.cfg:342
 #: A_New_Order/scenarios/ano-14a.cfg:359 A_New_Order/scenarios/ano-14a.cfg:377
 msgid ""
 "Grekulak? That's something to report. We should go back to Freetown then."
@@ -9181,7 +9183,7 @@ msgid "Ha! The orcs were hiding here some gold!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-20.cfg:256 A_New_Order/scenarios/ano-14b.cfg:549
+#: A_New_Order/scenarios/ano-20.cfg:256 A_New_Order/scenarios/ano-14b.cfg:550
 #: A_New_Order/scenarios/ano-14a.cfg:413 A_New_Order/scenarios/ano-14e.cfg:345
 msgid "You have received 50 golden pieces"
 msgstr "Du har fått 50 guldstycken."
@@ -9336,19 +9338,19 @@ msgid "Seems fine too me. 200 golden pieces for me, Reme for you."
 msgstr "Det duger för mig. 200 guldstycken till mig, Reme till dig."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:251 A_New_Order/scenarios/ano-14b.cfg:325
+#: A_New_Order/scenarios/ano-14b.cfg:251 A_New_Order/scenarios/ano-14b.cfg:326
 msgid "Free! Free, at last!"
 msgstr "Fri! Äntligen fri!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:252 A_New_Order/scenarios/ano-14b.cfg:326
+#: A_New_Order/scenarios/ano-14b.cfg:252 A_New_Order/scenarios/ano-14b.cfg:327
 msgid ""
 "My lord, the outlaw army decimated my clan. But still, some of my people "
 "survived, and they will be glad to help you."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:253 A_New_Order/scenarios/ano-14b.cfg:327
+#: A_New_Order/scenarios/ano-14b.cfg:253 A_New_Order/scenarios/ano-14b.cfg:328
 #, fuzzy
 msgid "You may recruit Akladian Clansmen again."
 msgstr "Du kan rekrytera akladiska klanmedlemmar igen."
@@ -9396,110 +9398,110 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:345
+#: A_New_Order/scenarios/ano-14b.cfg:346
 msgid ""
 "So, Reme. We meet again. Hm.. I would say something in the sense 'I'm happy "
 "to see you again', but to be honest, I am not."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:347
+#: A_New_Order/scenarios/ano-14b.cfg:348
 msgid "Lorin... and.. Gawen? Is that really you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:353
+#: A_New_Order/scenarios/ano-14b.cfg:354
 msgid "Reme, are you ok?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:355 A_New_Order/scenarios/ano-14b.cfg:375
+#: A_New_Order/scenarios/ano-14b.cfg:356 A_New_Order/scenarios/ano-14b.cfg:376
 msgid "Yes.. yes.. Gawen? Is that really you?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:372
+#: A_New_Order/scenarios/ano-14b.cfg:373
 msgid "There are keeping some Akladian in cage in here. Should I kill him?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:373
+#: A_New_Order/scenarios/ano-14b.cfg:374
 msgid "No! This is my friend, Reme! Reme, are you ok?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:383 A_New_Order/scenarios/ano-14b.cfg:430
+#: A_New_Order/scenarios/ano-14b.cfg:384 A_New_Order/scenarios/ano-14b.cfg:431
 msgid "Such a young men.. And still, one damn good fighter.."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:384 A_New_Order/scenarios/ano-14b.cfg:431
+#: A_New_Order/scenarios/ano-14b.cfg:385 A_New_Order/scenarios/ano-14b.cfg:432
 msgid "You were worthy opponent too."
 msgstr "Du var en värdig motståndare, du också."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:385 A_New_Order/scenarios/ano-14b.cfg:432
+#: A_New_Order/scenarios/ano-14b.cfg:386 A_New_Order/scenarios/ano-14b.cfg:433
 msgid "Yes.. it was a good fight, isn't it?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:386 A_New_Order/scenarios/ano-14b.cfg:433
+#: A_New_Order/scenarios/ano-14b.cfg:387 A_New_Order/scenarios/ano-14b.cfg:434
 msgid "Yes.. Before you will pass, please answer me few questions."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:391 A_New_Order/scenarios/ano-14b.cfg:399
-#: A_New_Order/scenarios/ano-14b.cfg:438 A_New_Order/scenarios/ano-14b.cfg:446
+#: A_New_Order/scenarios/ano-14b.cfg:392 A_New_Order/scenarios/ano-14b.cfg:400
+#: A_New_Order/scenarios/ano-14b.cfg:439 A_New_Order/scenarios/ano-14b.cfg:447
 msgid "Why orcs are here, allied with Akladians?"
 msgstr "Varför är det orcher är, i slang med akladierna?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:392 A_New_Order/scenarios/ano-14b.cfg:439
+#: A_New_Order/scenarios/ano-14b.cfg:393 A_New_Order/scenarios/ano-14b.cfg:440
 msgid "Who have hired assassin, who was trying to kill Gawen Hagarthen?"
 msgstr "Vem hyrde lönnmördaren som försökte mörda Gawen Hagarthen?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:393 A_New_Order/scenarios/ano-14b.cfg:400
-#: A_New_Order/scenarios/ano-14b.cfg:440 A_New_Order/scenarios/ano-14b.cfg:447
+#: A_New_Order/scenarios/ano-14b.cfg:394 A_New_Order/scenarios/ano-14b.cfg:401
+#: A_New_Order/scenarios/ano-14b.cfg:441 A_New_Order/scenarios/ano-14b.cfg:448
 msgid "Why you fight along with Akladians?"
 msgstr "Varför slåss du med akladierna?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:394 A_New_Order/scenarios/ano-14b.cfg:401
-#: A_New_Order/scenarios/ano-14b.cfg:441 A_New_Order/scenarios/ano-14b.cfg:448
+#: A_New_Order/scenarios/ano-14b.cfg:395 A_New_Order/scenarios/ano-14b.cfg:402
+#: A_New_Order/scenarios/ano-14b.cfg:442 A_New_Order/scenarios/ano-14b.cfg:449
 msgid "Do you know, who poisoned Gawen Hagarthen's mother?"
 msgstr "Vet du vem det var som förgiftade Gawen Hagarthens mor?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:409 A_New_Order/scenarios/ano-14b.cfg:456
+#: A_New_Order/scenarios/ano-14b.cfg:410 A_New_Order/scenarios/ano-14b.cfg:457
 msgid "Do you know why orcs are here?"
 msgstr "Vet du varför det är orcher här?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:410 A_New_Order/scenarios/ano-14b.cfg:457
+#: A_New_Order/scenarios/ano-14b.cfg:411 A_New_Order/scenarios/ano-14b.cfg:458
 msgid "They are allied with Akladians."
 msgstr "De är allierade med akladierna."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:411 A_New_Order/scenarios/ano-14b.cfg:458
-#: A_New_Order/scenarios/ano-14b.cfg:485
+#: A_New_Order/scenarios/ano-14b.cfg:412 A_New_Order/scenarios/ano-14b.cfg:459
+#: A_New_Order/scenarios/ano-14b.cfg:486
 msgid "But why?"
 msgstr "Varför det?"
 
 #. [event]
 #. [then]
-#: A_New_Order/scenarios/ano-14b.cfg:412 A_New_Order/scenarios/ano-14b.cfg:459
+#: A_New_Order/scenarios/ano-14b.cfg:413 A_New_Order/scenarios/ano-14b.cfg:460
 #: A_New_Order/scenarios/ano-14c.cfg:135
 msgid "I have no idea."
 msgstr "Jag har ingen aning."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:414 A_New_Order/scenarios/ano-14b.cfg:461
+#: A_New_Order/scenarios/ano-14b.cfg:415 A_New_Order/scenarios/ano-14b.cfg:462
 msgid "Why you are allied with Akladians?"
 msgstr "Varför är ni allierade med akladierna?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:415 A_New_Order/scenarios/ano-14b.cfg:462
+#: A_New_Order/scenarios/ano-14b.cfg:416 A_New_Order/scenarios/ano-14b.cfg:463
 msgid ""
 "Allied? We are allied with none. They simply have paid for our services. "
 "That's all."
@@ -9508,19 +9510,19 @@ msgstr ""
 "våra tjänster. Det är hela saken."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:417
+#: A_New_Order/scenarios/ano-14b.cfg:418
 msgid ""
 "You are from Outlaw Base, right? Place from which assasin come.. Maybe you "
 "know who have poisoned mother of Gawen Hagarthen?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:418
+#: A_New_Order/scenarios/ano-14b.cfg:419
 msgid "I don't know that."
 msgstr "Jag vet inte."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:420
+#: A_New_Order/scenarios/ano-14b.cfg:421
 msgid ""
 "Someone has hired assassin to kill Gawen Hagarthen, immediately after his "
 "father's death. I know he came from Outlaw Base. Who hired him?"
@@ -9529,26 +9531,26 @@ msgstr ""
 "hans fars död. Jag vet att han kom från de fredlösa. Vem lejde honom?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:421 A_New_Order/scenarios/ano-14b.cfg:468
+#: A_New_Order/scenarios/ano-14b.cfg:422 A_New_Order/scenarios/ano-14b.cfg:469
 msgid ""
 "I think it was one of Akladian lords.. yes.. His name was Cryne, Bor Cryne..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:464
+#: A_New_Order/scenarios/ano-14b.cfg:465
 msgid ""
 "You are from Outlaw Base, right? Place from which assasins come.. Maybe you "
 "know who poisoned the mother of Gawen Hagarthen?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:465
+#: A_New_Order/scenarios/ano-14b.cfg:466
 #, fuzzy
 msgid "I don't know that. A lot of Akladians buy poison from us."
 msgstr "Din klan köpte något gift av de fredlösa. Vad var det?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:467
+#: A_New_Order/scenarios/ano-14b.cfg:468
 #, fuzzy
 msgid ""
 "Someone hired an assassin to kill Gawen Hagarthen, immediately after his "
@@ -9558,76 +9560,76 @@ msgstr ""
 "hans fars död. Jag vet att han kom från de fredlösa. Vem lejde honom?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:478
+#: A_New_Order/scenarios/ano-14b.cfg:479
 msgid "It's you! Witch!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:479
+#: A_New_Order/scenarios/ano-14b.cfg:480
 msgid "Really? Are you sure it's really me?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:480
+#: A_New_Order/scenarios/ano-14b.cfg:481
 msgid "Uhm.. what?"
 msgstr "Hm... Vad?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:481
+#: A_New_Order/scenarios/ano-14b.cfg:482
 msgid ""
 "I mean, you are dying. Your whole life probably is passing thought your "
 "eyes. Maybe you are hallucinating? There is only one way to check it."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:482
+#: A_New_Order/scenarios/ano-14b.cfg:483
 msgid "What.. What way?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:483
+#: A_New_Order/scenarios/ano-14b.cfg:484
 msgid "If I am just a  hallucination, this won't hurt."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:484
+#: A_New_Order/scenarios/ano-14b.cfg:485
 msgid "No! Mother, I won't let you! Leave him to die peacefully!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:486
+#: A_New_Order/scenarios/ano-14b.cfg:487
 msgid "Because it is bad thing to torture people"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:488
+#: A_New_Order/scenarios/ano-14b.cfg:489
 msgid "Because... ah..."
 msgstr "Därför att... Ehm..."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:489
+#: A_New_Order/scenarios/ano-14b.cfg:490
 msgid "Gawen, she is Akladian. You can teach old dog new tricks."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:490
+#: A_New_Order/scenarios/ano-14b.cfg:491
 msgid "Whom do you call OLD?!"
 msgstr "Vem kallar du GAMMAL?!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:495
+#: A_New_Order/scenarios/ano-14b.cfg:496
 msgid ""
 "You were good opponent. What is your name, please tell me, so I could told "
 "spirits of ancestors who defeated me?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:496
+#: A_New_Order/scenarios/ano-14b.cfg:497
 msgid "Gau.. Gawen. Gawen Hagarthen."
 msgstr "Gau... Gawen. Gawen Hagarthen."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:497
+#: A_New_Order/scenarios/ano-14b.cfg:498
 msgid ""
 "My king! Now I know why I was defeated. This is punishment for betrayal. I "
 "should never listen to orders of our clan leaders. My king, will you forgive "
@@ -9635,12 +9637,12 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:498
+#: A_New_Order/scenarios/ano-14b.cfg:499
 msgid "Lie in peace, soldier."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:503
+#: A_New_Order/scenarios/ano-14b.cfg:504
 msgid ""
 "I must not Fear. Fear is the mind-killer. Fear is little death that brings "
 "total obliteration. I will let it pass through me and over me. Where the "
@@ -9648,98 +9650,98 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:504
+#: A_New_Order/scenarios/ano-14b.cfg:505
 msgid ""
 "Oh that was cute. Now, if are quite finished, I have here this little knife-"
 "thing. This knife is what bring total obliteration, not to mention suffering."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:505
+#: A_New_Order/scenarios/ano-14b.cfg:506
 msgid "I must not... ARGH!... I must not..."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:506
+#: A_New_Order/scenarios/ano-14b.cfg:507
 msgid "Why you are here, allied with traitors from Akladian race?"
 msgstr "Varför är ni här, allierade med akladiernas förrädare?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:507
+#: A_New_Order/scenarios/ano-14b.cfg:508
 msgid ""
 "I know nothing! I know nothing! Our guide Grekulak ordered us to ally with "
 "Akladians, I know nothing more!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:510
+#: A_New_Order/scenarios/ano-14b.cfg:511
 msgid "Mother, you may now let him go."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:511
+#: A_New_Order/scenarios/ano-14b.cfg:512
 msgid "Argh!"
 msgstr "Argh!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:512
+#: A_New_Order/scenarios/ano-14b.cfg:513
 msgid ""
 "Excuse me, my son, this orc screamed so loud in agony that I have not heard "
 "what you were saying. What was that?"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:513
+#: A_New_Order/scenarios/ano-14b.cfg:514
 msgid ""
 "Never mind. My step-mother is walkiria obsessed with death and pain. Sigh."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:514
+#: A_New_Order/scenarios/ano-14b.cfg:515
 msgid "And she looks cool in armour, too."
 msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:198 A_New_Order/scenarios/ano-14d.cfg:222
 #: A_New_Order/scenarios/ano-14d.cfg:233 A_New_Order/scenarios/ano-14d.cfg:257
-#: A_New_Order/scenarios/ano-14b.cfg:520 A_New_Order/scenarios/ano-14b.cfg:532
+#: A_New_Order/scenarios/ano-14b.cfg:521 A_New_Order/scenarios/ano-14b.cfg:533
 msgid "I will allow you to live, if you will tell me few things."
 msgstr "Du får leva, om du berättar några saker för mig."
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:223 A_New_Order/scenarios/ano-14d.cfg:258
-#: A_New_Order/scenarios/ano-14b.cfg:521 A_New_Order/scenarios/ano-14b.cfg:533
+#: A_New_Order/scenarios/ano-14b.cfg:522 A_New_Order/scenarios/ano-14b.cfg:534
 msgid "Ask then, human."
 msgstr "Fråga på, människa."
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:224 A_New_Order/scenarios/ano-14d.cfg:259
-#: A_New_Order/scenarios/ano-14b.cfg:522 A_New_Order/scenarios/ano-14b.cfg:534
+#: A_New_Order/scenarios/ano-14b.cfg:523 A_New_Order/scenarios/ano-14b.cfg:535
 msgid "Why are you allied with Akladians?"
 msgstr "Varför är du allierad med akladierna?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:548
+#: A_New_Order/scenarios/ano-14b.cfg:549
 msgid "Ha! The outlaws were hiding here some gold!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:563
+#: A_New_Order/scenarios/ano-14b.cfg:564
 msgid "Ha! The Akladians were hiding here some gold!"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:564
+#: A_New_Order/scenarios/ano-14b.cfg:565
 msgid "You have received 150 golden pieces"
 msgstr "Du har fått 150 guldstycken."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:569
+#: A_New_Order/scenarios/ano-14b.cfg:570
 msgid "I guess this was gold prepared to pay for Reme Carrenemoe."
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-14d.cfg:369 A_New_Order/scenarios/ano-14b.cfg:574
+#: A_New_Order/scenarios/ano-14d.cfg:369 A_New_Order/scenarios/ano-14b.cfg:575
 #: A_New_Order/scenarios/ano-14e.cfg:431
 msgid ""
 "Oh no! New reinforcements arrived to help our enemies, now we have no "
@@ -12959,9 +12961,10 @@ msgstr ""
 msgid "Baruk Urk"
 msgstr "Baruk Urk"
 
-#. [unit]: type=Orcish Warrior, id=Orc
-#. [unit]: type=Troll, id=Orc
-#. [unit]: type=Orcish Archer, id=Orc
+#. [unit]: type=Orcish Warrior, id=Orc 1
+#. [unit]: type=Orcish Warrior, id=Orc 2
+#. [unit]: type=Troll, id=Orc 3
+#. [unit]: type=Orcish Archer, id=Orc 4
 #: A_New_Order/scenarios/ano-19c.cfg:383 A_New_Order/scenarios/ano-19c.cfg:396
 #: A_New_Order/scenarios/ano-19c.cfg:407 A_New_Order/scenarios/ano-19c.cfg:418
 msgid "Orc"
@@ -12972,10 +12975,12 @@ msgstr ""
 msgid "Fat Bart"
 msgstr ""
 
-#. [unit]: type=Outlaw, id=Outlaw
-#. [unit]: type=Bandit, id=Outlaw
-#. [unit]: type=Trapper, id=Outlaw
+#. [unit]: type=Outlaw, id=Outlaw 1
+#. [unit]: type=Bandit, id=Outlaw 2
+#. [unit]: type=Trapper, id=Outlaw 4
+#. [unit]: type=Trapper, id=Outlaw 5
 #. [unit]: type=Footpad, id=Outlaw
+#. [unit]: type=Outlaw, id=Outlaw 6
 #: A_New_Order/scenarios/ano-19c.cfg:472 A_New_Order/scenarios/ano-19c.cfg:485
 #: A_New_Order/scenarios/ano-19c.cfg:498 A_New_Order/scenarios/ano-19c.cfg:511
 #: A_New_Order/scenarios/ano-19c.cfg:522 A_New_Order/scenarios/ano-19c.cfg:533
@@ -12988,11 +12993,25 @@ msgid "Burke Barien"
 msgstr "Burke Barien"
 
 #. [unit]: type=Akladian Warrior, id=Barien
-#. [unit]: type=Akladian Raider, id=Barien
-#: A_New_Order/scenarios/ano-19c.cfg:587 A_New_Order/scenarios/ano-19c.cfg:600
-#: A_New_Order/scenarios/ano-19c.cfg:613 A_New_Order/scenarios/ano-19c.cfg:626
+#: A_New_Order/scenarios/ano-19c.cfg:587
 msgid "Barien"
 msgstr "Barien"
+
+#. [unit]: type=Akladian Warrior, id=Burien
+#: A_New_Order/scenarios/ano-19c.cfg:600
+#, fuzzy
+msgid "Burien"
+msgstr "Barien"
+
+#. [unit]: type=Akladian Warrior, id=Telen
+#: A_New_Order/scenarios/ano-19c.cfg:613
+msgid "Telen"
+msgstr ""
+
+#. [unit]: type=Akladian Raider, id=Dulen
+#: A_New_Order/scenarios/ano-19c.cfg:626
+msgid "Dulen"
+msgstr ""
 
 #. [side]: id=Boren Rebarnon, type=Akladian Lord
 #: A_New_Order/scenarios/ano-19c.cfg:640
@@ -13000,10 +13019,18 @@ msgid "Boren Rebarnon"
 msgstr "Boren Rebarnon"
 
 #. [unit]: type=Akladian Darknite, id=Rebarnon
-#. [unit]: type=Akladian Raider, id=Rebarnon
-#: A_New_Order/scenarios/ano-19c.cfg:682 A_New_Order/scenarios/ano-19c.cfg:695
-#: A_New_Order/scenarios/ano-19c.cfg:708
+#: A_New_Order/scenarios/ano-19c.cfg:682
 msgid "Rebarnon"
+msgstr ""
+
+#. [unit]: type=Akladian Raider, id=Wutan
+#: A_New_Order/scenarios/ano-19c.cfg:695
+msgid "Wutan"
+msgstr ""
+
+#. [unit]: type=Akladian Raider, id=Askarial
+#: A_New_Order/scenarios/ano-19c.cfg:708
+msgid "Askarial"
 msgstr ""
 
 #. [event]

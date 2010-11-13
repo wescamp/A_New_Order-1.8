@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-10-03 12:53+0200\n"
+"POT-Creation-Date: 2010-11-13 02:16+0100\n"
 "PO-Revision-Date: 2008-05-11 01:04+0300\n"
 "Last-Translator: Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>\n"
 "Language-Team: Turkish <wesnoth-tr@googlegroups.com>\n"
@@ -660,7 +660,7 @@ msgstr ""
 #: A_New_Order/scenarios/02_Fighting_for_Passage.cfg:60
 #: A_New_Order/scenarios/ano-14b.cfg:60 A_New_Order/scenarios/ano-22.cfg:118
 #: A_New_Order/scenarios/ano-19a.cfg:30 A_New_Order/scenarios/ano-16.cfg:46
-#: A_New_Order/scenarios/ano-26.cfg:41 A_New_Order/scenarios/ano-13.cfg:267
+#: A_New_Order/scenarios/ano-26.cfg:41 A_New_Order/scenarios/ano-13.cfg:273
 #: A_New_Order/scenarios/ano-11.cfg:25 A_New_Order/scenarios/ano-24.cfg:58
 #: A_New_Order/scenarios/ano-21b.cfg:25 A_New_Order/scenarios/ano-14c.cfg:23
 #: A_New_Order/scenarios/21_Abducted_Bride.cfg:103
@@ -1547,8 +1547,10 @@ msgstr ""
 "terkettiklerinde son Akladyalının cesedi daha soğumamıştı. Kimsenin onları "
 "izlemediğini umarak Kızılağaç ormanına daldılar."
 
-#. [side]: id=Rob Roe, type=Outlaw
+#. [side]: id=Outlaw Leader, type=Outlaw
+#. [unit]: id=Rob Roe, type=$ano_robroe_unit.type
 #: A_New_Order/scenarios/08_Outlaw_Base.cfg:34
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:363
 msgid "Rob Roe"
 msgstr "Robro"
 
@@ -1794,35 +1796,35 @@ msgid ""
 msgstr "Evet, ordumda döğüşmek isteyen adamlarını ve seni kabul edeceğim."
 
 #. [option]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:256
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:263
 #, fuzzy
 msgid "No offence, but I do not trust you enough"
 msgstr "Hayır, kimse gücenmesin, ama ben size yeterince güvenmiyorum."
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:259
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:266
 msgid "You said most of your army is elsewhere?"
 msgstr "Ordunun büyük kısmı başka yerde mi demiştin?"
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:260
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:267
 msgid "Yes. The best units were hired to invade clan of Carrenemoes."
 msgstr "Evet. En iyi birimler Karenemo kabilesine saldırmak için para aldılar."
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:261
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:268
 msgid "Carrenemoes? Ruvio, we have to.."
 msgstr "Karenemo’lar mı? Ruviyo, biz..."
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:262
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:269
 msgid "We have to go to Freetown, as soon as possible. I'm sorry kid."
 msgstr ""
 "Biz mümkün olduğu kadar çabuk Özgürkent’e gitmek zorundayız. Kusura bakma "
 "çocuk."
 
 #. [then]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:266
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:273
 #, fuzzy
 msgid ""
 "Rob Roe, there was assassin who was send after m.. Gawen Hagarthen. He was "
@@ -1834,7 +1836,7 @@ msgstr ""
 "Gaven Hagarten’i öldürmek için onu kimin tuttuğunu biliyor musun?"
 
 #. [then]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:267
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:274
 msgid ""
 "I am not sure. Maybe you will say few names, and I will tell you if they "
 "ring a bell"
@@ -1843,31 +1845,31 @@ msgstr ""
 "kesin olur."
 
 #. [message]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:275
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:282
 msgid "So, what about.."
 msgstr "Bunlar hakkında ne biliyorsun?"
 
 #. [option]: speaker=Gawen Hagarthen
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:277
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:284
 #: A_New_Order/scenarios/ano-03.cfg:197
 msgid "Uri van Roe?"
 msgstr "Uri van Roy?"
 
 #. [command]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:279
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:286
 msgid "No, I don't think it was him."
 msgstr "Hayır, onun olduğunu sanmıyorum."
 
 #. [option]: speaker=Gawen Hagarthen
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:283
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:290
 #: A_New_Order/scenarios/ano-03.cfg:205
 msgid "Bor Cryne?"
 msgstr "Bor Krayn?"
 
 #. [command]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:285
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:292
 msgid ""
 "Yes! I remember that. A price for father and son. I think it was also him "
 "who paid us to invade Carrenemoe's place."
@@ -1876,22 +1878,22 @@ msgstr ""
 "Karenemo’lara saldırmamız için de ücret ödeyen oydu."
 
 #. [option]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:291
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:298
 msgid "Reme Carrenemoe?"
 msgstr "Reme Karenemo?"
 
 #. [command]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:293
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:300
 msgid "The noble and oh-so-honorable Reme? You have to be kidding."
 msgstr "Soylu ve onurlu Reme mi? Çocuk olma."
 
 #. [option]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:297
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:304
 msgid "Lady Lorin?"
 msgstr "Bayan Lorin?"
 
 #. [command]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:299
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:306
 msgid ""
 "No, it wasn't a woman. People from her clan did contact us in the past, "
 "wanting to buy some poison, but it was long ago."
@@ -1900,22 +1902,22 @@ msgstr ""
 "satın almak için başvurmuştu, fakat bu uzun zaman önceydi."
 
 #. [option]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:305
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:312
 msgid "Graeme O Borraine?"
 msgstr "Graeme O Borraine?"
 
 #. [command]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:307
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:314
 msgid "Who? Never heard about him."
 msgstr "Kim? Onun hakkında hiçbir şey duymadım."
 
 #. [option]: speaker=Gawen Hagarthen
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:311
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:318
 msgid "Hoyre O Barnon?"
 msgstr "Hoyre Barnon mu?"
 
 #. [command]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:313
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:320
 #, fuzzy
 msgid ""
 "The guy from city of Barnon? No, though from what I've heard about him he "
@@ -1927,12 +1929,12 @@ msgstr ""
 #. [event]
 #. [option]: speaker=Gawen Hagarthen
 #: A_New_Order/scenarios/ano-20macros.cfg:308
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:317
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:324
 msgid "That's all I wanted to know"
 msgstr "Bilmek istediğim bu kadar"
 
 #. [then]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:339
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:346
 msgid ""
 "There are no more trained able young man in this small settlement to recruit "
 "as Spearman or Bowman. You may only recruit Peasants and Fencers now."
@@ -1941,19 +1943,19 @@ msgstr ""
 "genç kalmadı. Artık sadece kılıççıları ve köylüleri askere alabilirsin."
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:376
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:425
 #, fuzzy
 msgid "Look, fresh enemy forces arrived! We have no chance to win now!"
 msgstr "Bak! Taze düşman kuvvetleri geldi! Artık kazanma şansımız kalmadı!"
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:377
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:426
 #, fuzzy
 msgid "Ha! Our army has returned! You are doomed now!"
 msgstr "Ah! Bizim ordu döndü! Sonunuz geldi!"
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:386
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:435
 msgid ""
 "Hm, seems there are some people here, able with swords and bows, who could "
 "be recruited."
@@ -1962,19 +1964,19 @@ msgstr ""
 "insanlar var burada."
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:387
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:436
 msgid "You may recruit four more either archers or spearmen."
 msgstr "Dört mızrakçı veya okçu daha alabilirsin."
 
 #. [event]
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:390
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:439
 #, fuzzy
 msgid "It seems that Outlaws hid a small treasury here."
 msgstr "Haydutlar burada küçük bir hazine gizlemişler gibi görünüyor."
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:391 A_New_Order/scenarios/ano-17.cfg:434
-#: A_New_Order/scenarios/08_Outlaw_Base.cfg:391
+#: A_New_Order/scenarios/08_Outlaw_Base.cfg:440
 msgid "You receive 50 golden pieces."
 msgstr "50 altın aldınız."
 
@@ -2236,9 +2238,9 @@ msgstr ""
 #: A_New_Order/scenarios/ano-20.cfg:228 A_New_Order/scenarios/ano-14d.cfg:157
 #: A_New_Order/scenarios/ano-14d.cfg:209 A_New_Order/scenarios/ano-14d.cfg:244
 #: A_New_Order/scenarios/ano-14b.cfg:311 A_New_Order/scenarios/ano-19a.cfg:157
-#: A_New_Order/scenarios/ano-13.cfg:382 A_New_Order/scenarios/ano-13.cfg:406
-#: A_New_Order/scenarios/ano-13.cfg:442 A_New_Order/scenarios/ano-13.cfg:726
-#: A_New_Order/scenarios/ano-13.cfg:756 A_New_Order/scenarios/ano-13.cfg:785
+#: A_New_Order/scenarios/ano-13.cfg:388 A_New_Order/scenarios/ano-13.cfg:412
+#: A_New_Order/scenarios/ano-13.cfg:448 A_New_Order/scenarios/ano-13.cfg:732
+#: A_New_Order/scenarios/ano-13.cfg:762 A_New_Order/scenarios/ano-13.cfg:791
 #: A_New_Order/scenarios/ano-21b.cfg:176
 #: A_New_Order/scenarios/21_Abducted_Bride.cfg:349
 #: A_New_Order/scenarios/ano-18.cfg:93 A_New_Order/scenarios/ano-18.cfg:115
@@ -2256,9 +2258,9 @@ msgstr "Evet, kesinlikle."
 #: A_New_Order/scenarios/ano-20.cfg:186 A_New_Order/scenarios/ano-20.cfg:205
 #: A_New_Order/scenarios/ano-20.cfg:229 A_New_Order/scenarios/ano-14d.cfg:158
 #: A_New_Order/scenarios/ano-14b.cfg:312 A_New_Order/scenarios/ano-19a.cfg:158
-#: A_New_Order/scenarios/ano-13.cfg:383 A_New_Order/scenarios/ano-13.cfg:407
-#: A_New_Order/scenarios/ano-13.cfg:443 A_New_Order/scenarios/ano-13.cfg:727
-#: A_New_Order/scenarios/ano-13.cfg:757 A_New_Order/scenarios/ano-13.cfg:786
+#: A_New_Order/scenarios/ano-13.cfg:389 A_New_Order/scenarios/ano-13.cfg:413
+#: A_New_Order/scenarios/ano-13.cfg:449 A_New_Order/scenarios/ano-13.cfg:733
+#: A_New_Order/scenarios/ano-13.cfg:763 A_New_Order/scenarios/ano-13.cfg:792
 #: A_New_Order/scenarios/ano-21b.cfg:177
 #: A_New_Order/scenarios/21_Abducted_Bride.cfg:350
 #: A_New_Order/scenarios/ano-18.cfg:94 A_New_Order/scenarios/ano-18.cfg:116
@@ -2281,8 +2283,8 @@ msgstr "Burada kalıyorum."
 
 #. [event]
 #: A_New_Order/scenarios/15a_The_Preparations.cfg:213
-#: A_New_Order/scenarios/ano-04.cfg:179 A_New_Order/scenarios/ano-14b.cfg:487
-#: A_New_Order/scenarios/ano-13.cfg:332 A_New_Order/scenarios/ano-18.cfg:269
+#: A_New_Order/scenarios/ano-04.cfg:179 A_New_Order/scenarios/ano-14b.cfg:488
+#: A_New_Order/scenarios/ano-13.cfg:338 A_New_Order/scenarios/ano-18.cfg:269
 #: A_New_Order/scenarios/ano-18.cfg:367 A_New_Order/scenarios/ano-14e.cfg:252
 msgid "Why?"
 msgstr "Neden?"
@@ -2389,8 +2391,8 @@ msgstr "Büyücü Deorien ile ilgili bir şey biliyor musunuz?"
 #: A_New_Order/scenarios/ano-12.cfg:12 A_New_Order/scenarios/ano-20.cfg:282
 #: A_New_Order/scenarios/ano-20.cfg:331 A_New_Order/scenarios/ano-20.cfg:373
 #: A_New_Order/scenarios/ano-17.cfg:45 A_New_Order/scenarios/ano-17.cfg:80
-#: A_New_Order/scenarios/ano-14b.cfg:395 A_New_Order/scenarios/ano-14b.cfg:402
-#: A_New_Order/scenarios/ano-14b.cfg:442 A_New_Order/scenarios/ano-14b.cfg:449
+#: A_New_Order/scenarios/ano-14b.cfg:396 A_New_Order/scenarios/ano-14b.cfg:403
+#: A_New_Order/scenarios/ano-14b.cfg:443 A_New_Order/scenarios/ano-14b.cfg:450
 #: A_New_Order/scenarios/ano-20macros.cfg:396
 #: A_New_Order/scenarios/ano-20macros.cfg:402
 #: A_New_Order/scenarios/ano-20macros.cfg:409
@@ -5031,8 +5033,8 @@ msgstr ""
 #: A_New_Order/units/others/Ruvio.cfg:4 A_New_Order/scenarios/ano-07.cfg:36
 #: A_New_Order/scenarios/ano-20.cfg:401 A_New_Order/scenarios/ano-20.cfg:410
 #: A_New_Order/scenarios/ano-20.cfg:420 A_New_Order/scenarios/ano-20.cfg:428
-#: A_New_Order/scenarios/ano-13.cfg:570 A_New_Order/scenarios/ano-13.cfg:580
-#: A_New_Order/scenarios/ano-13.cfg:591 A_New_Order/scenarios/ano-13.cfg:599
+#: A_New_Order/scenarios/ano-13.cfg:576 A_New_Order/scenarios/ano-13.cfg:586
+#: A_New_Order/scenarios/ano-13.cfg:597 A_New_Order/scenarios/ano-13.cfg:605
 #: A_New_Order/scenarios/ano-18.cfg:465 A_New_Order/scenarios/ano-18.cfg:473
 msgid "Ruvio"
 msgstr "Ruviyo"
@@ -5041,9 +5043,9 @@ msgstr "Ruviyo"
 #. [unit]: id=Karen, type=Ruvios Daughter
 #. [event]
 #: A_New_Order/units/others/Ruvios_Daughter.cfg:4
-#: A_New_Order/scenarios/ano-07.cfg:47 A_New_Order/scenarios/ano-13.cfg:571
-#: A_New_Order/scenarios/ano-13.cfg:581 A_New_Order/scenarios/ano-13.cfg:592
-#: A_New_Order/scenarios/ano-13.cfg:600
+#: A_New_Order/scenarios/ano-07.cfg:47 A_New_Order/scenarios/ano-13.cfg:577
+#: A_New_Order/scenarios/ano-13.cfg:587 A_New_Order/scenarios/ano-13.cfg:598
+#: A_New_Order/scenarios/ano-13.cfg:606
 msgid "Karen"
 msgstr "Karen"
 
@@ -7878,7 +7880,7 @@ msgid "John the Baldhead"
 msgstr "Dazlak John"
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:226
+#: A_New_Order/scenarios/ano-13.cfg:230
 msgid ""
 "Now, when you know where your friend Reme is, you may go to that Bontom "
 "place the peasants told us about."
@@ -7887,7 +7889,7 @@ msgstr ""
 "Bontom denilen yere gidebilirsiniz."
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:228
+#: A_New_Order/scenarios/ano-13.cfg:232
 msgid ""
 "I guess we could ask peasants whether they know something about this Bontom "
 "place, in which your friend Reme is kept."
@@ -7896,18 +7898,18 @@ msgstr ""
 "bilmediklerini köylülere sorabiliriz diye düşünüyorum."
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:233
+#: A_New_Order/scenarios/ano-13.cfg:239
 msgid "We already know what we had to find out. We should go to Freetown now."
 msgstr "Biz zaten ne aradığımızı biliyoruz. Şimdi Özgürkent’e gitmeliyiz."
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:237
+#: A_New_Order/scenarios/ano-13.cfg:243
 #, fuzzy
 msgid "We've already searched for answers in the city of Barnon"
 msgstr "Biz zaten Barnon şehrinde sorularımıza yanıt aramıştık."
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:239
+#: A_New_Order/scenarios/ano-13.cfg:245
 msgid ""
 "My lord, from here we may explore few possibilities. To the south, there is "
 "city of Barnon. Definetely it would be very dangerous to go there, but..."
@@ -7916,12 +7918,12 @@ msgstr ""
 "var. Oraya gitmek kesinlikle çok tehlikeli olur, fakat..."
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:240
+#: A_New_Order/scenarios/ano-13.cfg:246
 msgid "..but we could probably find something about orcs there, right?"
 msgstr "..fakat orada orklar hakkında birşeyler öğrenebilirdik, değil mi?"
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:243
+#: A_New_Order/scenarios/ano-13.cfg:249
 msgid ""
 "We already searched in Haeltin, west from here. That your step-mother was "
 "there, known as She-wolf really surprised me."
@@ -7931,7 +7933,7 @@ msgstr ""
 "şaşırtmıştı."
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:245
+#: A_New_Order/scenarios/ano-13.cfg:251
 msgid ""
 "Yes. We've heard that some woman, known by nickname 'She-wolf of Haeltin', "
 "was besieged by the orcs and she was able to repell them. Haeltin is west "
@@ -7942,12 +7944,12 @@ msgstr ""
 "buranın batısında kalıyor. Gidip kendisine bir kaç soru sorabiliriz."
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:249
+#: A_New_Order/scenarios/ano-13.cfg:255
 msgid "We could also go for the swamps."
 msgstr "Ayrıca, bataklıklardan da gidebiliriz."
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:250
+#: A_New_Order/scenarios/ano-13.cfg:256
 #, fuzzy
 msgid ""
 "We could, but in swamps of Saorduc Saurians live, and they rarely go outside "
@@ -7960,7 +7962,7 @@ msgstr ""
 "köyler de var. Gidip köylülerden bildiklerini öğrenebiliriz."
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:255
+#: A_New_Order/scenarios/ano-13.cfg:261
 msgid ""
 "Frankly, I have no idea what to do now. We have already been in all the "
 "obvious locations."
@@ -7970,37 +7972,37 @@ msgstr ""
 
 #. [scenario]: id=ano_13
 #. [scenario]: id=ano_18
-#: A_New_Order/scenarios/ano-13.cfg:281 A_New_Order/scenarios/ano-18.cfg:46
+#: A_New_Order/scenarios/ano-13.cfg:287 A_New_Order/scenarios/ano-18.cfg:46
 msgid "Raedwood Forest"
 msgstr "Kızılağaç Ormanı"
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:282
+#: A_New_Order/scenarios/ano-13.cfg:288
 msgid "To Freetown"
 msgstr "Özgürkent’e gider"
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:283
+#: A_New_Order/scenarios/ano-13.cfg:289
 msgid "To Haeltin"
 msgstr "Haeltin’e gider"
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:284
+#: A_New_Order/scenarios/ano-13.cfg:290
 msgid "To Saorduc swamps"
 msgstr "Saorduc Bataklıklarına gider"
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:285
+#: A_New_Order/scenarios/ano-13.cfg:291
 msgid "To Barnon"
 msgstr "Barnon’a gider"
 
 #. [scenario]: id=ano_13
-#: A_New_Order/scenarios/ano-13.cfg:286
+#: A_New_Order/scenarios/ano-13.cfg:292
 msgid "Hyeton"
 msgstr ""
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:331
+#: A_New_Order/scenarios/ano-13.cfg:337
 msgid ""
 "This is extremely important to everyone to remember that you should not "
 "reference Gawen by his real name. Call him Gaumhaldric."
@@ -8009,7 +8011,7 @@ msgstr ""
 "derecede önemli. Gamlıhaldrik diyeceksiniz."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:333
+#: A_New_Order/scenarios/ano-13.cfg:339
 #, fuzzy
 msgid ""
 "Because our people at Freetown aren't ready to have an Akladian leader. And "
@@ -8020,7 +8022,7 @@ msgstr ""
 "gönderebilecek olmasıdır."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:334
+#: A_New_Order/scenarios/ano-13.cfg:340
 msgid ""
 "Gaumhaldric.. So, this is why my son is not shaving? He wants to hide his "
 "real identity under a beard?"
@@ -8029,14 +8031,14 @@ msgstr ""
 "sakalın altında mı gizlemeye çalışıyor?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:335
+#: A_New_Order/scenarios/ano-13.cfg:341
 msgid "Nonono. He has to have a beard, because all our great kings had beards."
 msgstr ""
 "Hayır, hayır. Bir sakalı olmak zorunda, çünkü bizim büyük krallarımızın "
 "hepsi sakallıydı."
 
 #. [objectives]
-#: A_New_Order/scenarios/ano-20.cfg:132 A_New_Order/scenarios/ano-13.cfg:346
+#: A_New_Order/scenarios/ano-20.cfg:132 A_New_Order/scenarios/ano-13.cfg:352
 #: A_New_Order/scenarios/ano-18.cfg:83
 msgid ""
 "This is a large-scale map, where you will choose a way to go. You should "
@@ -8049,7 +8051,7 @@ msgstr ""
 "çadıra götürün."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:360
+#: A_New_Order/scenarios/ano-13.cfg:366
 msgid ""
 "My lord, we cannot go back to Freetown. We have nothing to report, and we "
 "have not found anything about the orcs."
@@ -8058,7 +8060,7 @@ msgstr ""
 "hakkında hiçbir şey bulamadık."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:363
+#: A_New_Order/scenarios/ano-13.cfg:369
 #, fuzzy
 msgid ""
 "My lord, I do not think we should go back to Freetown already. We haven't "
@@ -8070,27 +8072,27 @@ msgstr ""
 "döğüşmeyi zaten biliyordur."
 
 #. [then]
-#: A_New_Order/scenarios/ano-13.cfg:377
+#: A_New_Order/scenarios/ano-13.cfg:383
 msgid "We were in Haeltin already. Were to go now?"
 msgstr "Haeltin’e bakmıştık. Yine mi gideceğiz?"
 
 #. [else]
-#: A_New_Order/scenarios/ano-13.cfg:381
+#: A_New_Order/scenarios/ano-13.cfg:387
 msgid "Are you sure you want to go there?"
 msgstr "Oraya gitmek istediğinize emin misiniz?"
 
 #. [else]
-#: A_New_Order/scenarios/ano-13.cfg:387
+#: A_New_Order/scenarios/ano-13.cfg:393
 msgid "As you wish, my lord."
 msgstr "Nasıl isterseniz, efendim."
 
 #. [then]
-#: A_New_Order/scenarios/ano-13.cfg:401
+#: A_New_Order/scenarios/ano-13.cfg:407
 msgid "We already were in Saorduc. Were to go now?"
 msgstr "Saorduc’a bakmıştık. Yine mi gideceğiz?"
 
 #. [else]
-#: A_New_Order/scenarios/ano-13.cfg:405
+#: A_New_Order/scenarios/ano-13.cfg:411
 msgid ""
 "Are you sure you want to go there? I've told you that I doubt Saurians know "
 "anything useful."
@@ -8099,7 +8101,7 @@ msgstr ""
 "tereddütlerim olduğunu size söylemiştim."
 
 #. [else]
-#: A_New_Order/scenarios/ano-13.cfg:410 A_New_Order/scenarios/ano-13.cfg:412
+#: A_New_Order/scenarios/ano-13.cfg:416 A_New_Order/scenarios/ano-13.cfg:418
 msgid ""
 "So, on to Saorduc! Hope it is wise decision and lizard men would know "
 "something about orcs."
@@ -8108,23 +8110,23 @@ msgstr ""
 "adamlar orklar hakkında bir şeyler biliyordur."
 
 #. [else]
-#: A_New_Order/scenarios/ano-13.cfg:416
+#: A_New_Order/scenarios/ano-13.cfg:422
 msgid "Lizards? We already fought with them. I hate lizards."
 msgstr ""
 "Kertenkeleler? Biz zaten onlarla döğüştük. Kertenkelelerden nefret ediyorum."
 
 #. [else]
-#: A_New_Order/scenarios/ano-13.cfg:421
+#: A_New_Order/scenarios/ano-13.cfg:427
 msgid "That was wise decision, my lord."
 msgstr "Bu iyi düşünülmüş bir karardı, efendim."
 
 #. [then]
-#: A_New_Order/scenarios/ano-13.cfg:437
+#: A_New_Order/scenarios/ano-13.cfg:443
 msgid "We already were scouting near Barnon. Were to go now?"
 msgstr "Biz zaten Barnon yakınlarına bakmıştık. Yine mi gidiyoruz?"
 
 #. [else]
-#: A_New_Order/scenarios/ano-13.cfg:441
+#: A_New_Order/scenarios/ano-13.cfg:447
 msgid ""
 "Are you sure you want to go there? A lot of enemy soldiers could be near "
 "Barnon."
@@ -8133,7 +8135,7 @@ msgstr ""
 "askeri olabilir."
 
 #. [else]
-#: A_New_Order/scenarios/ano-13.cfg:445
+#: A_New_Order/scenarios/ano-13.cfg:451
 msgid ""
 "This could be dangerous. But also, extremely valuable. We definitely can "
 "find something about orcs there."
@@ -8143,112 +8145,112 @@ msgstr ""
 
 #. [else]
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:448 A_New_Order/scenarios/ano-13.cfg:766
-#: A_New_Order/scenarios/ano-13.cfg:792
+#: A_New_Order/scenarios/ano-13.cfg:454 A_New_Order/scenarios/ano-13.cfg:772
+#: A_New_Order/scenarios/ano-13.cfg:798
 msgid "Yes, on other hand maybe we should search elsewhere."
 msgstr "Evet, diğer yandan belki başka yerlere bakmalıyız."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:458
+#: A_New_Order/scenarios/ano-13.cfg:464
 msgid "Who is comin' here? What d'ya wanna from us?"
 msgstr "Buraya gelen kim? Bizden ne istiyorsunuz?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:459 A_New_Order/scenarios/ano-13.cfg:498
+#: A_New_Order/scenarios/ano-13.cfg:465 A_New_Order/scenarios/ano-13.cfg:504
 msgid "Don't be afraid, I want ask you few question and then I will go."
 msgstr "Korkma, bir kaç soru sorup gideceğim."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:460
+#: A_New_Order/scenarios/ano-13.cfg:466
 msgid "So go an' ask us"
 msgstr "Öyleyse, sor"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:278 A_New_Order/scenarios/ano-20.cfg:327
-#: A_New_Order/scenarios/ano-20.cfg:369 A_New_Order/scenarios/ano-14b.cfg:390
-#: A_New_Order/scenarios/ano-14b.cfg:398 A_New_Order/scenarios/ano-14b.cfg:437
-#: A_New_Order/scenarios/ano-14b.cfg:445 A_New_Order/scenarios/ano-13.cfg:465
-#: A_New_Order/scenarios/ano-13.cfg:478 A_New_Order/scenarios/ano-13.cfg:503
-#: A_New_Order/scenarios/ano-13.cfg:516 A_New_Order/scenarios/ano-13.cfg:536
-#: A_New_Order/scenarios/ano-13.cfg:549 A_New_Order/scenarios/ano-18.cfg:152
+#: A_New_Order/scenarios/ano-20.cfg:369 A_New_Order/scenarios/ano-14b.cfg:391
+#: A_New_Order/scenarios/ano-14b.cfg:399 A_New_Order/scenarios/ano-14b.cfg:438
+#: A_New_Order/scenarios/ano-14b.cfg:446 A_New_Order/scenarios/ano-13.cfg:471
+#: A_New_Order/scenarios/ano-13.cfg:484 A_New_Order/scenarios/ano-13.cfg:509
+#: A_New_Order/scenarios/ano-13.cfg:522 A_New_Order/scenarios/ano-13.cfg:542
+#: A_New_Order/scenarios/ano-13.cfg:555 A_New_Order/scenarios/ano-18.cfg:152
 #: A_New_Order/scenarios/ano-18.cfg:237 A_New_Order/scenarios/ano-18.cfg:291
 #: A_New_Order/scenarios/ano-18.cfg:392
 msgid "Please, tell me..."
 msgstr "Lütfen. söyler misin?..."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:466 A_New_Order/scenarios/ano-13.cfg:504
-#: A_New_Order/scenarios/ano-13.cfg:537
+#: A_New_Order/scenarios/ano-13.cfg:472 A_New_Order/scenarios/ano-13.cfg:510
+#: A_New_Order/scenarios/ano-13.cfg:543
 msgid "Do you know where the place called Bontom is?"
 msgstr "Bontom diye bir yer biliyor musun?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:467 A_New_Order/scenarios/ano-13.cfg:479
-#: A_New_Order/scenarios/ano-13.cfg:505 A_New_Order/scenarios/ano-13.cfg:517
-#: A_New_Order/scenarios/ano-13.cfg:538 A_New_Order/scenarios/ano-13.cfg:550
+#: A_New_Order/scenarios/ano-13.cfg:473 A_New_Order/scenarios/ano-13.cfg:485
+#: A_New_Order/scenarios/ano-13.cfg:511 A_New_Order/scenarios/ano-13.cfg:523
+#: A_New_Order/scenarios/ano-13.cfg:544 A_New_Order/scenarios/ano-13.cfg:556
 msgid "Do you know anything about Reme Carrenemoe?"
 msgstr "Reme Karenemo ile ilgili bir şey biliyor musunuz?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:468 A_New_Order/scenarios/ano-13.cfg:480
-#: A_New_Order/scenarios/ano-13.cfg:506 A_New_Order/scenarios/ano-13.cfg:518
-#: A_New_Order/scenarios/ano-13.cfg:539 A_New_Order/scenarios/ano-13.cfg:551
+#: A_New_Order/scenarios/ano-13.cfg:474 A_New_Order/scenarios/ano-13.cfg:486
+#: A_New_Order/scenarios/ano-13.cfg:512 A_New_Order/scenarios/ano-13.cfg:524
+#: A_New_Order/scenarios/ano-13.cfg:545 A_New_Order/scenarios/ano-13.cfg:557
 msgid "Have you heard anything about orcs?"
 msgstr "Orklar hakkında birşey duydunuz mu?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:469 A_New_Order/scenarios/ano-13.cfg:481
-#: A_New_Order/scenarios/ano-13.cfg:507 A_New_Order/scenarios/ano-13.cfg:519
-#: A_New_Order/scenarios/ano-13.cfg:540 A_New_Order/scenarios/ano-13.cfg:552
+#: A_New_Order/scenarios/ano-13.cfg:475 A_New_Order/scenarios/ano-13.cfg:487
+#: A_New_Order/scenarios/ano-13.cfg:513 A_New_Order/scenarios/ano-13.cfg:525
+#: A_New_Order/scenarios/ano-13.cfg:546 A_New_Order/scenarios/ano-13.cfg:558
 msgid "Would you want to fight for me?"
 msgstr "Benim için döğüşür müsün?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:470 A_New_Order/scenarios/ano-13.cfg:482
-#: A_New_Order/scenarios/ano-13.cfg:508 A_New_Order/scenarios/ano-13.cfg:520
-#: A_New_Order/scenarios/ano-13.cfg:541 A_New_Order/scenarios/ano-13.cfg:553
+#: A_New_Order/scenarios/ano-13.cfg:476 A_New_Order/scenarios/ano-13.cfg:488
+#: A_New_Order/scenarios/ano-13.cfg:514 A_New_Order/scenarios/ano-13.cfg:526
+#: A_New_Order/scenarios/ano-13.cfg:547 A_New_Order/scenarios/ano-13.cfg:559
 msgid "Go and work, good man."
 msgstr "Git ve çalış, iyi adam."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:493
+#: A_New_Order/scenarios/ano-13.cfg:499
 msgid "Ah, welcome, we've heard about your victories, Gaumhaldric."
 msgstr "Hoşgeldin, Gamlıhaldrik. Zaferlerini duyduk."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:495
+#: A_New_Order/scenarios/ano-13.cfg:501
 #, fuzzy
 msgid "I still can't get used to them calling him Gaumhaldric."
 msgstr "Ona Gamlıhaldrik demelerine hala alışamadım."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:496
+#: A_New_Order/scenarios/ano-13.cfg:502
 msgid "Cute name, isn't it?"
 msgstr "Şirin isim, değil mi?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:499
+#: A_New_Order/scenarios/ano-13.cfg:505
 #, fuzzy
 msgid "Anything for you, young knight."
 msgstr "Herşey senin, genç şövalye."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:532
+#: A_New_Order/scenarios/ano-13.cfg:538
 msgid "Free men from Raedwood forest! You are always welcomed here."
 msgstr "Kızılağaç ormanındaki özgür adamlar! Buraya hoşgeldiniz."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:400 A_New_Order/scenarios/ano-20.cfg:409
 #: A_New_Order/scenarios/ano-20.cfg:419 A_New_Order/scenarios/ano-20.cfg:427
-#: A_New_Order/scenarios/ano-13.cfg:569 A_New_Order/scenarios/ano-13.cfg:579
-#: A_New_Order/scenarios/ano-13.cfg:590 A_New_Order/scenarios/ano-13.cfg:598
+#: A_New_Order/scenarios/ano-13.cfg:575 A_New_Order/scenarios/ano-13.cfg:585
+#: A_New_Order/scenarios/ano-13.cfg:596 A_New_Order/scenarios/ano-13.cfg:604
 #: A_New_Order/scenarios/ano-18.cfg:464 A_New_Order/scenarios/ano-18.cfg:472
 msgid "I would love to talk to..."
 msgstr "Onunla konuşmayı severdim..."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:402 A_New_Order/scenarios/ano-20.cfg:411
-#: A_New_Order/scenarios/ano-13.cfg:572 A_New_Order/scenarios/ano-13.cfg:593
+#: A_New_Order/scenarios/ano-13.cfg:578 A_New_Order/scenarios/ano-13.cfg:599
 #: A_New_Order/scenarios/ano-18.cfg:466
 msgid "Reme"
 msgstr "Reme"
@@ -8257,79 +8259,79 @@ msgstr "Reme"
 #. [event]
 #: A_New_Order/scenarios/ano-28.cfg:3 A_New_Order/scenarios/ano-20.cfg:403
 #: A_New_Order/scenarios/ano-20.cfg:412 A_New_Order/scenarios/ano-20.cfg:422
-#: A_New_Order/scenarios/ano-20.cfg:429 A_New_Order/scenarios/ano-13.cfg:573
-#: A_New_Order/scenarios/ano-13.cfg:582 A_New_Order/scenarios/ano-18.cfg:467
+#: A_New_Order/scenarios/ano-20.cfg:429 A_New_Order/scenarios/ano-13.cfg:579
+#: A_New_Order/scenarios/ano-13.cfg:588 A_New_Order/scenarios/ano-18.cfg:467
 #: A_New_Order/scenarios/ano-18.cfg:474
 msgid "Lorin"
 msgstr "Lorin"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:574 A_New_Order/scenarios/ano-13.cfg:583
+#: A_New_Order/scenarios/ano-13.cfg:580 A_New_Order/scenarios/ano-13.cfg:589
 msgid "Yaranov"
 msgstr "Yaranov"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:405 A_New_Order/scenarios/ano-20.cfg:413
 #: A_New_Order/scenarios/ano-20.cfg:423 A_New_Order/scenarios/ano-20.cfg:430
-#: A_New_Order/scenarios/ano-13.cfg:575 A_New_Order/scenarios/ano-13.cfg:584
-#: A_New_Order/scenarios/ano-13.cfg:594 A_New_Order/scenarios/ano-13.cfg:601
+#: A_New_Order/scenarios/ano-13.cfg:581 A_New_Order/scenarios/ano-13.cfg:590
+#: A_New_Order/scenarios/ano-13.cfg:600 A_New_Order/scenarios/ano-13.cfg:607
 #: A_New_Order/scenarios/ano-18.cfg:468 A_New_Order/scenarios/ano-18.cfg:475
 msgid "I changed my mind"
 msgstr "Fikrimi değiştirdim."
 
 #. [event]
-#: A_New_Order/scenarios/ano-20.cfg:437 A_New_Order/scenarios/ano-13.cfg:609
+#: A_New_Order/scenarios/ano-20.cfg:437 A_New_Order/scenarios/ano-13.cfg:615
 #: A_New_Order/scenarios/ano-18.cfg:481
 msgid "Ruvio, please tell me.."
 msgstr "Ruviyo, lütfen söyle bana..."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:610
+#: A_New_Order/scenarios/ano-13.cfg:616
 msgid "Where Reme Carrenemoe could possibly be?"
 msgstr "Reme Karenemo muhtemelen nerede olabilir?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:611 A_New_Order/scenarios/ano-18.cfg:483
+#: A_New_Order/scenarios/ano-13.cfg:617 A_New_Order/scenarios/ano-18.cfg:483
 msgid "Advice me what could we do now."
 msgstr "Bilmek istediklerini bana danışabilirsin."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:612
+#: A_New_Order/scenarios/ano-13.cfg:618
 msgid "Tell me about my mother"
 msgstr "Annemden bahset"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:617
+#: A_New_Order/scenarios/ano-13.cfg:623
 msgid "You are joking, right? He is in our camp."
 msgstr "Şaka yapıyorsun, değil mi? O bizim kampımızda."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:619
+#: A_New_Order/scenarios/ano-13.cfg:625
 msgid "Probably in that Bontom peasants told us about."
 msgstr "Muhtemelen Bontom köylüleri biliyordur."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:621
+#: A_New_Order/scenarios/ano-13.cfg:627
 msgid "In some place called Bontom. We could ask peasants about it."
 msgstr "Bontom diye bir yer. Köylülere hakkında ne bildiklerini sorabiliriz."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:623
+#: A_New_Order/scenarios/ano-13.cfg:629
 msgid "I have no idea where your friend may be."
 msgstr "Arkadaşınızın nerede olabileceği hakkında bir fikrim yok."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:630
+#: A_New_Order/scenarios/ano-13.cfg:636
 msgid "About your mother? What do you want to know about her?"
 msgstr "Annenizden mi bahsedeyim? Onun hakkında ne bilmek istiyorsunuz?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:631
+#: A_New_Order/scenarios/ano-13.cfg:637
 msgid "Everything."
 msgstr "Herşeyi."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:632
+#: A_New_Order/scenarios/ano-13.cfg:638
 #, fuzzy
 msgid ""
 "Well, she was from a royal house. The Akladian king faced her with a simple "
@@ -8343,7 +8345,7 @@ msgstr ""
 "şarkılar söylüyor, ben de ona saraydaki yeni haberleri anlatıyordum."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:633
+#: A_New_Order/scenarios/ano-13.cfg:639
 #, fuzzy
 msgid ""
 "I think she even started liking that king, your father. When she gave birth "
@@ -8359,18 +8361,18 @@ msgstr ""
 "ona söz verdim."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:634
+#: A_New_Order/scenarios/ano-13.cfg:640
 #, fuzzy
 msgid "Who poisoned her?"
 msgstr "Dnu kim zehirledi?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:635
+#: A_New_Order/scenarios/ano-13.cfg:641
 msgid "I don't know. No one knows."
 msgstr "Bilmiyorum. Kimse bilmiyor."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:637
+#: A_New_Order/scenarios/ano-13.cfg:643
 msgid ""
 "Rob Roe mentioned Lorin clan once bought some special poison from Outlaws... "
 msgstr ""
@@ -8378,17 +8380,17 @@ msgstr ""
 "aldığından bahsetmişti..."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:638
+#: A_New_Order/scenarios/ano-13.cfg:644
 msgid "And you think that..."
 msgstr "Düşünüyorsun ki..."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:639
+#: A_New_Order/scenarios/ano-13.cfg:645
 msgid "Why should I think that?"
 msgstr "Neden bunu düşünmeliyim?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:640
+#: A_New_Order/scenarios/ano-13.cfg:646
 #, fuzzy
 msgid ""
 "You are right, Gawen. Akladians are constantly poisoning each other. You "
@@ -8400,40 +8402,40 @@ msgstr ""
 "kaçmış."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:645
+#: A_New_Order/scenarios/ano-13.cfg:651
 msgid "Hey Karen, what's up?"
 msgstr "Hey Karen, N’oluyor?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:646
+#: A_New_Order/scenarios/ano-13.cfg:652
 msgid "I just created a new song about you, want to hear it?"
 msgstr "Hakkında yeni bir şarkı yaptım, duymak ister misin?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:647
+#: A_New_Order/scenarios/ano-13.cfg:653
 msgid "You are gifted girl, fighting, singing, what else can you do?"
 msgstr ""
 "Kabiliyetli kızsın, döğüşüyorsun, şarkı yazıyorsun, başka ne yapabiliyorsun?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:648
+#: A_New_Order/scenarios/ano-13.cfg:654
 msgid ""
 "I can also dance. Gawen, when we return to Freetown I could dance for you. "
 msgstr ""
 "Dans da edebilirim. Gaven, Özgürkent’e döndüğümüzde senin için dans edeceğim."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:649
+#: A_New_Order/scenarios/ano-13.cfg:655
 msgid "I'm sure I would enjoy your dance"
 msgstr "Eminim dansın beni hoşnut edecektir."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:650
+#: A_New_Order/scenarios/ano-13.cfg:656
 msgid "Bet you would!"
 msgstr "Hoşlanacağına bahse girerim!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:652
+#: A_New_Order/scenarios/ano-13.cfg:658
 #, fuzzy
 msgid ""
 "Thank you Gawen once again.. You have saved my life. I will never forget it; "
@@ -8445,18 +8447,18 @@ msgstr ""
 "aitti; şimdi ise bu bir borç değil benim seçimimdir."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:654
+#: A_New_Order/scenarios/ano-13.cfg:660
 #, fuzzy
 msgid "Hey Gaumhaldric, nice mother you have. Can I ask a question?"
 msgstr "Hey Gamlıhaldrik, hoş bir annen var. Bir soru sorabilir miyim?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:655
+#: A_New_Order/scenarios/ano-13.cfg:661
 msgid "Sure, go ahead."
 msgstr "Elbette, başla."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:656
+#: A_New_Order/scenarios/ano-13.cfg:662
 #, fuzzy
 msgid ""
 "Is she taken? I mean, does she have someone she loves? I noticed her looking "
@@ -8467,13 +8469,13 @@ msgstr ""
 "gibi, uzaklara dalıp gidiyor."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:657
+#: A_New_Order/scenarios/ano-13.cfg:663
 #, fuzzy
 msgid "I think she remembers my father. She has no one else I know about."
 msgstr "Sanırım, aklına babam geliyor. Bildiğim kadarıyla başkası yok."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:658
+#: A_New_Order/scenarios/ano-13.cfg:664
 msgid ""
 "Good thing for me. She seems to be inconquerable but Aragwaithi can break "
 "into any fortress, only time and patience is needed."
@@ -8482,61 +8484,61 @@ msgstr ""
 "kaleyi fethedebilir, sadece zaman ve sabır gerekir."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:659
+#: A_New_Order/scenarios/ano-13.cfg:665
 msgid "Andrey Yaranov, Lorin is my step-mother."
 msgstr "Andrey Yaranov, Lorin üvey annemdir."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:660
+#: A_New_Order/scenarios/ano-13.cfg:666
 msgid "You may start to call me step-father, then."
 msgstr "O halde, bana üvey baba demeye başlayabilirsiniz."
 
 #. [event]
-#: A_New_Order/scenarios/ano-20.cfg:469 A_New_Order/scenarios/ano-13.cfg:665
-#: A_New_Order/scenarios/ano-13.cfg:674 A_New_Order/scenarios/ano-18.cfg:506
+#: A_New_Order/scenarios/ano-20.cfg:469 A_New_Order/scenarios/ano-13.cfg:671
+#: A_New_Order/scenarios/ano-13.cfg:680 A_New_Order/scenarios/ano-18.cfg:506
 msgid "Mother, can I have a word with you?"
 msgstr "Anne, seninle konuşabilir miyim?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:666
+#: A_New_Order/scenarios/ano-13.cfg:672
 msgid "Your clan bought a poison from outlaws. Why?"
 msgstr "Kabilenizden birileri haydutlardan bir zehir almış. Neden?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:667 A_New_Order/scenarios/ano-13.cfg:675
+#: A_New_Order/scenarios/ano-13.cfg:673 A_New_Order/scenarios/ano-13.cfg:681
 msgid "What do you think about Yaranov?"
 msgstr "Yaranov hakkında ne düşünüyorsunuz?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:668 A_New_Order/scenarios/ano-13.cfg:676
+#: A_New_Order/scenarios/ano-13.cfg:674 A_New_Order/scenarios/ano-13.cfg:682
 msgid "What do you know about orcs?"
 msgstr "Orklar hakkında ne biliyorsunuz?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:669 A_New_Order/scenarios/ano-13.cfg:677
+#: A_New_Order/scenarios/ano-13.cfg:675 A_New_Order/scenarios/ano-13.cfg:683
 #, fuzzy
 msgid "How did my real mother die?"
 msgstr "Gerçek annem nasıl öldü?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20.cfg:472 A_New_Order/scenarios/ano-20.cfg:487
-#: A_New_Order/scenarios/ano-13.cfg:670 A_New_Order/scenarios/ano-13.cfg:678
+#: A_New_Order/scenarios/ano-13.cfg:676 A_New_Order/scenarios/ano-13.cfg:684
 #: A_New_Order/scenarios/ano-18.cfg:510
 msgid "Never mind"
 msgstr "Zararı yok."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:683
+#: A_New_Order/scenarios/ano-13.cfg:689
 msgid "Why do you ask?"
 msgstr "Neden soruyorsun?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:684
+#: A_New_Order/scenarios/ano-13.cfg:690
 msgid "Well, he seems to be interested in you."
 msgstr "Güzel, senin için ilginç olacak görünüyor."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:685
+#: A_New_Order/scenarios/ano-13.cfg:691
 msgid ""
 "Yes, I noticed that. I think one have to be blind not to notice that. But I "
 "am not interested in him."
@@ -8545,17 +8547,17 @@ msgstr ""
 "ona meraklı değilim."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:686
+#: A_New_Order/scenarios/ano-13.cfg:692
 msgid "Why? He seems to be nice guy."
 msgstr "Neden? Noş bir adam gibi görünüyor."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:687
+#: A_New_Order/scenarios/ano-13.cfg:693
 msgid "He is underling."
 msgstr "O bir parya."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:688
+#: A_New_Order/scenarios/ano-13.cfg:694
 msgid ""
 "Underling? Mother, why do you use such words? I am underling too, after all."
 msgstr ""
@@ -8563,7 +8565,7 @@ msgstr ""
 "de paryayım."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:689
+#: A_New_Order/scenarios/ano-13.cfg:695
 msgid ""
 "No! I would never call you that. You are not.. I mean.. I.. Ah, you are too "
 "young to understand that."
@@ -8572,7 +8574,7 @@ msgstr ""
 "çok gençsin."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:690
+#: A_New_Order/scenarios/ano-13.cfg:696
 msgid ""
 "Besides, you lost your memory, so you probably also do not remember what are "
 "our customs about widows, who are betraying their dead husband. I will "
@@ -8583,7 +8585,7 @@ msgstr ""
 "açıklayacağım."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:692
+#: A_New_Order/scenarios/ano-13.cfg:698
 msgid ""
 "Orcs: they are good fighters. Strong, disciplined, I wish I had such "
 "soldiers."
@@ -8591,7 +8593,7 @@ msgstr ""
 "Orklar: iyi döğüşçülerdir. Güçlü ve disiplinli. Ben böyle askerler isterim."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:693
+#: A_New_Order/scenarios/ano-13.cfg:699
 msgid ""
 "Mother, orcs are burning, pillaging, murdering, they hate us, and you seem "
 "to respect them?!?"
@@ -8600,7 +8602,7 @@ msgstr ""
 "saygı duyuyor gibisin!?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:694
+#: A_New_Order/scenarios/ano-13.cfg:700
 msgid ""
 "Well, we are burning, pillaging, murdering and hate our enemies too. And?"
 msgstr ""
@@ -8608,17 +8610,17 @@ msgstr ""
 "düşmanıyız. O halde?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:696
+#: A_New_Order/scenarios/ano-13.cfg:702
 msgid "Poison? What poison? My clan have never bought any poison."
 msgstr "Zehir mi? Ne zehiri? Kabilemden kimse asla zehir satın almadı."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:697
+#: A_New_Order/scenarios/ano-13.cfg:703
 msgid "Rob Roe have told me about that."
 msgstr "Robro bana öyle demedi."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:698
+#: A_New_Order/scenarios/ano-13.cfg:704
 msgid ""
 "Can you repeat that name? Rob - Roe. Rob Roe. No, I can't remember this "
 "name.. Uhm.. Well, I don't know anything about my clan buying a poison. I am "
@@ -8629,12 +8631,12 @@ msgstr ""
 "Ben sadece bir kadınım, kabile liderimiz bana herşeyi söylemezdi."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:701
+#: A_New_Order/scenarios/ano-13.cfg:707
 msgid "Your mother? Your.. why you are asking ME about your mother?"
 msgstr "Anneniz mi? Neden BANA anneniz hakkında soru soruyorsunuz?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:702
+#: A_New_Order/scenarios/ano-13.cfg:708
 msgid ""
 "I can't remember anything about her. I would love to hear something about "
 "her. Have you known her?"
@@ -8643,7 +8645,7 @@ msgstr ""
 "severdim. Siz onu tanır mıydınız?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:703
+#: A_New_Order/scenarios/ano-13.cfg:709
 msgid ""
 "No! I have not known her! I.. I'm sorry Gawen, but I don't know how your "
 "mother died and who poisoned her."
@@ -8652,17 +8654,17 @@ msgstr ""
 "onu kimin zehirlediğini bilmiyorum."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:704
+#: A_New_Order/scenarios/ano-13.cfg:710
 msgid "I wasn't asking you about that."
 msgstr "Sana bunu sormadım."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:720
+#: A_New_Order/scenarios/ano-13.cfg:726
 msgid "There are no more orcs near this ruins of the village."
 msgstr "Bu köy harabelerinin yakınlarında başka ork yok."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:723
+#: A_New_Order/scenarios/ano-13.cfg:729
 msgid ""
 "My lord! This time for sure you will chase that orcish band, kill all the "
 "orcs and free my people!"
@@ -8671,37 +8673,37 @@ msgstr ""
 "kurtaracağınıza eminim."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:725
+#: A_New_Order/scenarios/ano-13.cfg:731
 msgid "So, should we take on that orcs?"
 msgstr "Yani, orkları mı ele geçirmeliyiz?"
 
 #. [unit]: type=Peasant, id=Matthews Eagle Eye
-#: A_New_Order/scenarios/ano-13.cfg:736
+#: A_New_Order/scenarios/ano-13.cfg:742
 msgid "Matthews Eagle Eye"
 msgstr "Kartal Gözlü Metyus"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:743
+#: A_New_Order/scenarios/ano-13.cfg:749
 msgid "Someone is hiding here!"
 msgstr "Burada birileri gizleniyor!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:745
+#: A_New_Order/scenarios/ano-13.cfg:751
 msgid "Ah! Humans! And Akladians with them?! Still, what a happiness!"
 msgstr "Ah! İnsanlar! Ve onlarla birlikte Akladyalılar?! Hala, bu ne mutluluk!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:747
+#: A_New_Order/scenarios/ano-13.cfg:753
 msgid "Ah! Humans! And not Akladians! What a happiness!"
 msgstr "Ah! İnsanlar! Ve Akladyalılar yok! Ne mutlu!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:749
+#: A_New_Order/scenarios/ano-13.cfg:755
 msgid "Who are you, and what are you doing here?"
 msgstr "Kimsiniz ve burada ne yapıyorsunuz?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:750
+#: A_New_Order/scenarios/ano-13.cfg:756
 #, fuzzy
 msgid ""
 "The orcs burned down my village, Ruen, and they left not long ago. They took "
@@ -8712,7 +8714,7 @@ msgstr ""
 "aldılar. Ben buraya gizlendim, mucize bekliyordum. Ve o mucize geldi!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:751
+#: A_New_Order/scenarios/ano-13.cfg:757
 msgid ""
 "Oh my. It's so funny I think I'm gonna die laughing. Gaumhaldric the Miracle-"
 "maker, how it sounds?"
@@ -8721,12 +8723,12 @@ msgstr ""
 "kulağa nasıl geliyor?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:752
+#: A_New_Order/scenarios/ano-13.cfg:758
 msgid "Miracle? What do you mean?"
 msgstr "Mucize? Ne demek istiyorsun?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:753
+#: A_New_Order/scenarios/ano-13.cfg:759
 msgid ""
 "You of course will chase that orcish band, kill all the orcs and free my "
 "people!"
@@ -8735,7 +8737,7 @@ msgstr ""
 "kurtaracağınızdan şüphem yok."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:755
+#: A_New_Order/scenarios/ano-13.cfg:761
 #, fuzzy
 msgid "Hm, my lord, do you think we should fullfill this peasant's request?"
 msgstr ""
@@ -8743,28 +8745,28 @@ msgstr ""
 "musunuz?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:762
+#: A_New_Order/scenarios/ano-13.cfg:768
 msgid "Well, I hope it's wise decision."
 msgstr "Umarım iyi düşünülmüş bir karardır."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:763
+#: A_New_Order/scenarios/ano-13.cfg:769
 msgid ""
 "Of course it is. We are searching for orcs, and those are orcs, isn't it?"
 msgstr "Elbette. Biz orkları arıyoruz ve bunlar orklar, değil mi?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:777
+#: A_New_Order/scenarios/ano-13.cfg:783
 msgid "We already fought with outlaws from Bontom, my lord."
 msgstr "Biz Bontom’daki haydutlarla zaten döğüşmüştük, efendim."
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:784
+#: A_New_Order/scenarios/ano-13.cfg:790
 msgid "So, should we go into this Bontom?"
 msgstr "Öyleyse, bu Bontom’a gitmeliyiz, değil mi?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-13.cfg:789
+#: A_New_Order/scenarios/ano-13.cfg:795
 msgid "Yes, we should save that Reme now"
 msgstr "Evet, Reme’yi kurtarmalıyız"
 
@@ -9116,7 +9118,7 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:225 A_New_Order/scenarios/ano-14d.cfg:260
-#: A_New_Order/scenarios/ano-14b.cfg:523 A_New_Order/scenarios/ano-14b.cfg:535
+#: A_New_Order/scenarios/ano-14b.cfg:524 A_New_Order/scenarios/ano-14b.cfg:536
 #: A_New_Order/scenarios/ano-14a.cfg:340 A_New_Order/scenarios/ano-14a.cfg:357
 #: A_New_Order/scenarios/ano-14a.cfg:375
 msgid ""
@@ -9128,8 +9130,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:190 A_New_Order/scenarios/ano-14d.cfg:226
-#: A_New_Order/scenarios/ano-14d.cfg:261 A_New_Order/scenarios/ano-14b.cfg:508
-#: A_New_Order/scenarios/ano-14b.cfg:524 A_New_Order/scenarios/ano-14b.cfg:536
+#: A_New_Order/scenarios/ano-14d.cfg:261 A_New_Order/scenarios/ano-14b.cfg:509
+#: A_New_Order/scenarios/ano-14b.cfg:525 A_New_Order/scenarios/ano-14b.cfg:537
 #: A_New_Order/scenarios/ano-14a.cfg:341 A_New_Order/scenarios/ano-14a.cfg:358
 #: A_New_Order/scenarios/ano-14a.cfg:376
 msgid ""
@@ -9141,8 +9143,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:227 A_New_Order/scenarios/ano-14d.cfg:262
-#: A_New_Order/scenarios/ano-14b.cfg:509 A_New_Order/scenarios/ano-14b.cfg:525
-#: A_New_Order/scenarios/ano-14b.cfg:537 A_New_Order/scenarios/ano-14a.cfg:342
+#: A_New_Order/scenarios/ano-14b.cfg:510 A_New_Order/scenarios/ano-14b.cfg:526
+#: A_New_Order/scenarios/ano-14b.cfg:538 A_New_Order/scenarios/ano-14a.cfg:342
 #: A_New_Order/scenarios/ano-14a.cfg:359 A_New_Order/scenarios/ano-14a.cfg:377
 msgid ""
 "Grekulak? That's something to report. We should go back to Freetown then."
@@ -9194,7 +9196,7 @@ msgid "Ha! The orcs were hiding here some gold!"
 msgstr "Bak! Orklar buraya biraz altın gizlemiş!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-20.cfg:256 A_New_Order/scenarios/ano-14b.cfg:549
+#: A_New_Order/scenarios/ano-20.cfg:256 A_New_Order/scenarios/ano-14b.cfg:550
 #: A_New_Order/scenarios/ano-14a.cfg:413 A_New_Order/scenarios/ano-14e.cfg:345
 msgid "You have received 50 golden pieces"
 msgstr "50 altın aldınız."
@@ -9358,12 +9360,12 @@ msgid "Seems fine too me. 200 golden pieces for me, Reme for you."
 msgstr "Bana uyar görünüyor. 200 altın bana, Reme sana."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:251 A_New_Order/scenarios/ano-14b.cfg:325
+#: A_New_Order/scenarios/ano-14b.cfg:251 A_New_Order/scenarios/ano-14b.cfg:326
 msgid "Free! Free, at last!"
 msgstr "Özgürüm! Sonunda özgürüm!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:252 A_New_Order/scenarios/ano-14b.cfg:326
+#: A_New_Order/scenarios/ano-14b.cfg:252 A_New_Order/scenarios/ano-14b.cfg:327
 msgid ""
 "My lord, the outlaw army decimated my clan. But still, some of my people "
 "survived, and they will be glad to help you."
@@ -9372,7 +9374,7 @@ msgstr ""
 "kuşatılmış durumda ve yardımınızı bekliyorlar."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:253 A_New_Order/scenarios/ano-14b.cfg:327
+#: A_New_Order/scenarios/ano-14b.cfg:253 A_New_Order/scenarios/ano-14b.cfg:328
 #, fuzzy
 msgid "You may recruit Akladian Clansmen again."
 msgstr "Akladyalı Kabile Üyelerini tekrar askere alabilirsin."
@@ -9424,7 +9426,7 @@ msgstr ""
 "oldu."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:345
+#: A_New_Order/scenarios/ano-14b.cfg:346
 msgid ""
 "So, Reme. We meet again. Hm.. I would say something in the sense 'I'm happy "
 "to see you again', but to be honest, I am not."
@@ -9433,103 +9435,103 @@ msgstr ""
 "şeyler söylerdim ama dürüst olmak gerekirse, pek öyle değil."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:347
+#: A_New_Order/scenarios/ano-14b.cfg:348
 msgid "Lorin... and.. Gawen? Is that really you?"
 msgstr "Lorin... ve.. Gaven? Gerçekten siz misiniz?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:353
+#: A_New_Order/scenarios/ano-14b.cfg:354
 msgid "Reme, are you ok?"
 msgstr "Reme, iyi misin?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:355 A_New_Order/scenarios/ano-14b.cfg:375
+#: A_New_Order/scenarios/ano-14b.cfg:356 A_New_Order/scenarios/ano-14b.cfg:376
 msgid "Yes.. yes.. Gawen? Is that really you?"
 msgstr "Evet.. evet.. Gaven? Gerçekten sen misin?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:372
+#: A_New_Order/scenarios/ano-14b.cfg:373
 msgid "There are keeping some Akladian in cage in here. Should I kill him?"
 msgstr "Burada zindanda bir Akladyalı bulduk. Onu öldürelim mi?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:373
+#: A_New_Order/scenarios/ano-14b.cfg:374
 msgid "No! This is my friend, Reme! Reme, are you ok?"
 msgstr "Hayır! Bu dostum, Reme! Reme, iyi misin?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:383 A_New_Order/scenarios/ano-14b.cfg:430
+#: A_New_Order/scenarios/ano-14b.cfg:384 A_New_Order/scenarios/ano-14b.cfg:431
 msgid "Such a young men.. And still, one damn good fighter.."
 msgstr "Böyle genç bir adam.. Ve hala, tek lanet iyi döğüşçü..."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:384 A_New_Order/scenarios/ano-14b.cfg:431
+#: A_New_Order/scenarios/ano-14b.cfg:385 A_New_Order/scenarios/ano-14b.cfg:432
 msgid "You were worthy opponent too."
 msgstr "Sen de değerli bir rakipsin."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:385 A_New_Order/scenarios/ano-14b.cfg:432
+#: A_New_Order/scenarios/ano-14b.cfg:386 A_New_Order/scenarios/ano-14b.cfg:433
 msgid "Yes.. it was a good fight, isn't it?"
 msgstr "Evet.. iyi bir döğüş, değil mi?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:386 A_New_Order/scenarios/ano-14b.cfg:433
+#: A_New_Order/scenarios/ano-14b.cfg:387 A_New_Order/scenarios/ano-14b.cfg:434
 msgid "Yes.. Before you will pass, please answer me few questions."
 msgstr "Evet.. Öbür tarafa geçmeden önce, lütfen bir kaç soruma cevap ver."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:391 A_New_Order/scenarios/ano-14b.cfg:399
-#: A_New_Order/scenarios/ano-14b.cfg:438 A_New_Order/scenarios/ano-14b.cfg:446
+#: A_New_Order/scenarios/ano-14b.cfg:392 A_New_Order/scenarios/ano-14b.cfg:400
+#: A_New_Order/scenarios/ano-14b.cfg:439 A_New_Order/scenarios/ano-14b.cfg:447
 msgid "Why orcs are here, allied with Akladians?"
 msgstr "Niçin orklar burada, Akladyalılarla müttefik?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:392 A_New_Order/scenarios/ano-14b.cfg:439
+#: A_New_Order/scenarios/ano-14b.cfg:393 A_New_Order/scenarios/ano-14b.cfg:440
 msgid "Who have hired assassin, who was trying to kill Gawen Hagarthen?"
 msgstr "Suikastçiyi kim kiraladı, Gaven Hagarten’i öldürtmek isteyen kimdi?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:393 A_New_Order/scenarios/ano-14b.cfg:400
-#: A_New_Order/scenarios/ano-14b.cfg:440 A_New_Order/scenarios/ano-14b.cfg:447
+#: A_New_Order/scenarios/ano-14b.cfg:394 A_New_Order/scenarios/ano-14b.cfg:401
+#: A_New_Order/scenarios/ano-14b.cfg:441 A_New_Order/scenarios/ano-14b.cfg:448
 msgid "Why you fight along with Akladians?"
 msgstr "Neden Akladyalıların yanında döğüşüyorsun?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:394 A_New_Order/scenarios/ano-14b.cfg:401
-#: A_New_Order/scenarios/ano-14b.cfg:441 A_New_Order/scenarios/ano-14b.cfg:448
+#: A_New_Order/scenarios/ano-14b.cfg:395 A_New_Order/scenarios/ano-14b.cfg:402
+#: A_New_Order/scenarios/ano-14b.cfg:442 A_New_Order/scenarios/ano-14b.cfg:449
 msgid "Do you know, who poisoned Gawen Hagarthen's mother?"
 msgstr "Gaven Hagarten’in annesini kimin zehirlediğini biliyor musun?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:409 A_New_Order/scenarios/ano-14b.cfg:456
+#: A_New_Order/scenarios/ano-14b.cfg:410 A_New_Order/scenarios/ano-14b.cfg:457
 msgid "Do you know why orcs are here?"
 msgstr "Orkların neden burada olduğunu biliyor musun?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:410 A_New_Order/scenarios/ano-14b.cfg:457
+#: A_New_Order/scenarios/ano-14b.cfg:411 A_New_Order/scenarios/ano-14b.cfg:458
 msgid "They are allied with Akladians."
 msgstr "Onlar Akladyalılarla müttefik."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:411 A_New_Order/scenarios/ano-14b.cfg:458
-#: A_New_Order/scenarios/ano-14b.cfg:485
+#: A_New_Order/scenarios/ano-14b.cfg:412 A_New_Order/scenarios/ano-14b.cfg:459
+#: A_New_Order/scenarios/ano-14b.cfg:486
 msgid "But why?"
 msgstr "Fakat niçin?"
 
 #. [event]
 #. [then]
-#: A_New_Order/scenarios/ano-14b.cfg:412 A_New_Order/scenarios/ano-14b.cfg:459
+#: A_New_Order/scenarios/ano-14b.cfg:413 A_New_Order/scenarios/ano-14b.cfg:460
 #: A_New_Order/scenarios/ano-14c.cfg:135
 msgid "I have no idea."
 msgstr "Fikrim yok."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:414 A_New_Order/scenarios/ano-14b.cfg:461
+#: A_New_Order/scenarios/ano-14b.cfg:415 A_New_Order/scenarios/ano-14b.cfg:462
 msgid "Why you are allied with Akladians?"
 msgstr "Siz niye Akladyalılarla müttefiksiniz?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:415 A_New_Order/scenarios/ano-14b.cfg:462
+#: A_New_Order/scenarios/ano-14b.cfg:416 A_New_Order/scenarios/ano-14b.cfg:463
 msgid ""
 "Allied? We are allied with none. They simply have paid for our services. "
 "That's all."
@@ -9537,7 +9539,7 @@ msgstr ""
 "İttifak? Hiçbir ittifak yapmadık. Hizmetimizin bedelini ödediler, o kadar."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:417
+#: A_New_Order/scenarios/ano-14b.cfg:418
 msgid ""
 "You are from Outlaw Base, right? Place from which assasin come.. Maybe you "
 "know who have poisoned mother of Gawen Hagarthen?"
@@ -9546,12 +9548,12 @@ msgstr ""
 "biliyorsundur, Gaven Hagarten’in annesini kimin zehirlediğini?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:418
+#: A_New_Order/scenarios/ano-14b.cfg:419
 msgid "I don't know that."
 msgstr "Bunu bilmiyorum."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:420
+#: A_New_Order/scenarios/ano-14b.cfg:421
 msgid ""
 "Someone has hired assassin to kill Gawen Hagarthen, immediately after his "
 "father's death. I know he came from Outlaw Base. Who hired him?"
@@ -9561,14 +9563,14 @@ msgstr ""
 "Onu kim kiraladı?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:421 A_New_Order/scenarios/ano-14b.cfg:468
+#: A_New_Order/scenarios/ano-14b.cfg:422 A_New_Order/scenarios/ano-14b.cfg:469
 msgid ""
 "I think it was one of Akladian lords.. yes.. His name was Cryne, Bor Cryne..."
 msgstr ""
 "O Akladyalı beylerden biriydi sanırım... evet... Adı Cryne, Bor Krayn idi..."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:464
+#: A_New_Order/scenarios/ano-14b.cfg:465
 #, fuzzy
 msgid ""
 "You are from Outlaw Base, right? Place from which assasins come.. Maybe you "
@@ -9578,13 +9580,13 @@ msgstr ""
 "biliyorsundur, Gaven Hagarten’in annesini kimin zehirlediğini?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:465
+#: A_New_Order/scenarios/ano-14b.cfg:466
 #, fuzzy
 msgid "I don't know that. A lot of Akladians buy poison from us."
 msgstr "Bunu bilmiyorum. Bir çok Akladyalı bizden zehir satın alır."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:467
+#: A_New_Order/scenarios/ano-14b.cfg:468
 #, fuzzy
 msgid ""
 "Someone hired an assassin to kill Gawen Hagarthen, immediately after his "
@@ -9595,22 +9597,22 @@ msgstr ""
 "Onu kim kiraladı?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:478
+#: A_New_Order/scenarios/ano-14b.cfg:479
 msgid "It's you! Witch!"
 msgstr "O sensin! Cadı!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:479
+#: A_New_Order/scenarios/ano-14b.cfg:480
 msgid "Really? Are you sure it's really me?"
 msgstr "Gerçekten? Emin misin, onun gerçekten ben olduğuma?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:480
+#: A_New_Order/scenarios/ano-14b.cfg:481
 msgid "Uhm.. what?"
 msgstr "Uhm.. ne?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:481
+#: A_New_Order/scenarios/ano-14b.cfg:482
 msgid ""
 "I mean, you are dying. Your whole life probably is passing thought your "
 "eyes. Maybe you are hallucinating? There is only one way to check it."
@@ -9619,42 +9621,42 @@ msgstr ""
 "de hayal görüyorsundur? Bunu anlamanın tek bir yolu var."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:482
+#: A_New_Order/scenarios/ano-14b.cfg:483
 msgid "What.. What way?"
 msgstr "Ne.. Ne yolu?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:483
+#: A_New_Order/scenarios/ano-14b.cfg:484
 msgid "If I am just a  hallucination, this won't hurt."
 msgstr "Ben eğer sadece bir hayalsem, bu acıtmayacaktır."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:484
+#: A_New_Order/scenarios/ano-14b.cfg:485
 msgid "No! Mother, I won't let you! Leave him to die peacefully!"
 msgstr "Hayır! Sana izin vermeyeceğim, anne! Bırak kendi haline ölsün!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:486
+#: A_New_Order/scenarios/ano-14b.cfg:487
 msgid "Because it is bad thing to torture people"
 msgstr "Çünkü halka işkence etmek kötü bir şeydir."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:488
+#: A_New_Order/scenarios/ano-14b.cfg:489
 msgid "Because... ah..."
 msgstr "Çünkü... eee..."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:489
+#: A_New_Order/scenarios/ano-14b.cfg:490
 msgid "Gawen, she is Akladian. You can teach old dog new tricks."
 msgstr "Gaven, o Akladyalı. Yaşlı köpeğe yeni numaralar öğretebilirsin."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:490
+#: A_New_Order/scenarios/ano-14b.cfg:491
 msgid "Whom do you call OLD?!"
 msgstr "Sen kime YAŞLI diyorsun?!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:495
+#: A_New_Order/scenarios/ano-14b.cfg:496
 msgid ""
 "You were good opponent. What is your name, please tell me, so I could told "
 "spirits of ancestors who defeated me?"
@@ -9663,12 +9665,12 @@ msgstr ""
 "atalarıma beni kimin yendiğini söyleyebilirim."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:496
+#: A_New_Order/scenarios/ano-14b.cfg:497
 msgid "Gau.. Gawen. Gawen Hagarthen."
 msgstr "Gau.. Gaven. Gaven Hagarten."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:497
+#: A_New_Order/scenarios/ano-14b.cfg:498
 msgid ""
 "My king! Now I know why I was defeated. This is punishment for betrayal. I "
 "should never listen to orders of our clan leaders. My king, will you forgive "
@@ -9678,12 +9680,12 @@ msgstr ""
 "liderimin emirlerini asla dinlememeliydim. Kralım, affedecek misin beni?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:498
+#: A_New_Order/scenarios/ano-14b.cfg:499
 msgid "Lie in peace, soldier."
 msgstr "Rahat uyu, asker."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:503
+#: A_New_Order/scenarios/ano-14b.cfg:504
 msgid ""
 "I must not Fear. Fear is the mind-killer. Fear is little death that brings "
 "total obliteration. I will let it pass through me and over me. Where the "
@@ -9694,7 +9696,7 @@ msgstr ""
 "yerde hiçbir şey kalmaz. Yalnız ben kalırım."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:504
+#: A_New_Order/scenarios/ano-14b.cfg:505
 msgid ""
 "Oh that was cute. Now, if are quite finished, I have here this little knife-"
 "thing. This knife is what bring total obliteration, not to mention suffering."
@@ -9703,17 +9705,17 @@ msgstr ""
 "sadece acı vermiyor, tamamen parçalıyor."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:505
+#: A_New_Order/scenarios/ano-14b.cfg:506
 msgid "I must not... ARGH!... I must not..."
 msgstr "Ben olmamalıyım... AAHH! ... Neden ben..."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:506
+#: A_New_Order/scenarios/ano-14b.cfg:507
 msgid "Why you are here, allied with traitors from Akladian race?"
 msgstr "Niçin burada Akladyalı hainlerle ittifak halindesiniz?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:507
+#: A_New_Order/scenarios/ano-14b.cfg:508
 msgid ""
 "I know nothing! I know nothing! Our guide Grekulak ordered us to ally with "
 "Akladians, I know nothing more!"
@@ -9722,17 +9724,17 @@ msgstr ""
 "Akladyalılarla ittifak yapmamızı emretti, başka birşey bilmiyorum!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:510
+#: A_New_Order/scenarios/ano-14b.cfg:511
 msgid "Mother, you may now let him go."
 msgstr "Anne, şimdi ona gitmesi için izin verebilirsin."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:511
+#: A_New_Order/scenarios/ano-14b.cfg:512
 msgid "Argh!"
 msgstr "Aahh!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:512
+#: A_New_Order/scenarios/ano-14b.cfg:513
 msgid ""
 "Excuse me, my son, this orc screamed so loud in agony that I have not heard "
 "what you were saying. What was that?"
@@ -9741,58 +9743,58 @@ msgstr ""
 "dediğini duyamadım. Ne demiştin?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:513
+#: A_New_Order/scenarios/ano-14b.cfg:514
 msgid ""
 "Never mind. My step-mother is walkiria obsessed with death and pain. Sigh."
 msgstr "Yok birşey. Annem ölüm ve acı hakkında biraz takıntılıdır."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:514
+#: A_New_Order/scenarios/ano-14b.cfg:515
 msgid "And she looks cool in armour, too."
 msgstr "Ve zırhının içinden soğuk soğuk bakar."
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:198 A_New_Order/scenarios/ano-14d.cfg:222
 #: A_New_Order/scenarios/ano-14d.cfg:233 A_New_Order/scenarios/ano-14d.cfg:257
-#: A_New_Order/scenarios/ano-14b.cfg:520 A_New_Order/scenarios/ano-14b.cfg:532
+#: A_New_Order/scenarios/ano-14b.cfg:521 A_New_Order/scenarios/ano-14b.cfg:533
 msgid "I will allow you to live, if you will tell me few things."
 msgstr "Bana birşeyler söylersen, yaşamana izin vereceğim."
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:223 A_New_Order/scenarios/ano-14d.cfg:258
-#: A_New_Order/scenarios/ano-14b.cfg:521 A_New_Order/scenarios/ano-14b.cfg:533
+#: A_New_Order/scenarios/ano-14b.cfg:522 A_New_Order/scenarios/ano-14b.cfg:534
 msgid "Ask then, human."
 msgstr "Sor, insan."
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:224 A_New_Order/scenarios/ano-14d.cfg:259
-#: A_New_Order/scenarios/ano-14b.cfg:522 A_New_Order/scenarios/ano-14b.cfg:534
+#: A_New_Order/scenarios/ano-14b.cfg:523 A_New_Order/scenarios/ano-14b.cfg:535
 msgid "Why are you allied with Akladians?"
 msgstr "Akladyalılarla neden ittifak yaptınız?"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:548
+#: A_New_Order/scenarios/ano-14b.cfg:549
 msgid "Ha! The outlaws were hiding here some gold!"
 msgstr "Bak! Haydutlar buraya biraz altın gizlemiş!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:563
+#: A_New_Order/scenarios/ano-14b.cfg:564
 msgid "Ha! The Akladians were hiding here some gold!"
 msgstr "Bak! Akladyalılar buraya biraz altın gizlemiş!"
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:564
+#: A_New_Order/scenarios/ano-14b.cfg:565
 msgid "You have received 150 golden pieces"
 msgstr "150 altın aldınız."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14b.cfg:569
+#: A_New_Order/scenarios/ano-14b.cfg:570
 msgid "I guess this was gold prepared to pay for Reme Carrenemoe."
 msgstr ""
 "Bunun Reme Karenemo için ödenmek üzere hazırlanan altın olduğunu sanıyorum."
 
 #. [event]
-#: A_New_Order/scenarios/ano-14d.cfg:369 A_New_Order/scenarios/ano-14b.cfg:574
+#: A_New_Order/scenarios/ano-14d.cfg:369 A_New_Order/scenarios/ano-14b.cfg:575
 #: A_New_Order/scenarios/ano-14e.cfg:431
 msgid ""
 "Oh no! New reinforcements arrived to help our enemies, now we have no "
@@ -13311,9 +13313,10 @@ msgstr ""
 msgid "Baruk Urk"
 msgstr "Baruk Urk"
 
-#. [unit]: type=Orcish Warrior, id=Orc
-#. [unit]: type=Troll, id=Orc
-#. [unit]: type=Orcish Archer, id=Orc
+#. [unit]: type=Orcish Warrior, id=Orc 1
+#. [unit]: type=Orcish Warrior, id=Orc 2
+#. [unit]: type=Troll, id=Orc 3
+#. [unit]: type=Orcish Archer, id=Orc 4
 #: A_New_Order/scenarios/ano-19c.cfg:383 A_New_Order/scenarios/ano-19c.cfg:396
 #: A_New_Order/scenarios/ano-19c.cfg:407 A_New_Order/scenarios/ano-19c.cfg:418
 msgid "Orc"
@@ -13324,10 +13327,12 @@ msgstr "Ork"
 msgid "Fat Bart"
 msgstr "Şişko Bart"
 
-#. [unit]: type=Outlaw, id=Outlaw
-#. [unit]: type=Bandit, id=Outlaw
-#. [unit]: type=Trapper, id=Outlaw
+#. [unit]: type=Outlaw, id=Outlaw 1
+#. [unit]: type=Bandit, id=Outlaw 2
+#. [unit]: type=Trapper, id=Outlaw 4
+#. [unit]: type=Trapper, id=Outlaw 5
 #. [unit]: type=Footpad, id=Outlaw
+#. [unit]: type=Outlaw, id=Outlaw 6
 #: A_New_Order/scenarios/ano-19c.cfg:472 A_New_Order/scenarios/ano-19c.cfg:485
 #: A_New_Order/scenarios/ano-19c.cfg:498 A_New_Order/scenarios/ano-19c.cfg:511
 #: A_New_Order/scenarios/ano-19c.cfg:522 A_New_Order/scenarios/ano-19c.cfg:533
@@ -13340,11 +13345,25 @@ msgid "Burke Barien"
 msgstr "Burke Barien"
 
 #. [unit]: type=Akladian Warrior, id=Barien
-#. [unit]: type=Akladian Raider, id=Barien
-#: A_New_Order/scenarios/ano-19c.cfg:587 A_New_Order/scenarios/ano-19c.cfg:600
-#: A_New_Order/scenarios/ano-19c.cfg:613 A_New_Order/scenarios/ano-19c.cfg:626
+#: A_New_Order/scenarios/ano-19c.cfg:587
 msgid "Barien"
 msgstr "Barien"
+
+#. [unit]: type=Akladian Warrior, id=Burien
+#: A_New_Order/scenarios/ano-19c.cfg:600
+#, fuzzy
+msgid "Burien"
+msgstr "Barien"
+
+#. [unit]: type=Akladian Warrior, id=Telen
+#: A_New_Order/scenarios/ano-19c.cfg:613
+msgid "Telen"
+msgstr ""
+
+#. [unit]: type=Akladian Raider, id=Dulen
+#: A_New_Order/scenarios/ano-19c.cfg:626
+msgid "Dulen"
+msgstr ""
 
 #. [side]: id=Boren Rebarnon, type=Akladian Lord
 #: A_New_Order/scenarios/ano-19c.cfg:640
@@ -13352,11 +13371,19 @@ msgid "Boren Rebarnon"
 msgstr "Boren Rebarnon"
 
 #. [unit]: type=Akladian Darknite, id=Rebarnon
-#. [unit]: type=Akladian Raider, id=Rebarnon
-#: A_New_Order/scenarios/ano-19c.cfg:682 A_New_Order/scenarios/ano-19c.cfg:695
-#: A_New_Order/scenarios/ano-19c.cfg:708
+#: A_New_Order/scenarios/ano-19c.cfg:682
 msgid "Rebarnon"
 msgstr "Rebarnon"
+
+#. [unit]: type=Akladian Raider, id=Wutan
+#: A_New_Order/scenarios/ano-19c.cfg:695
+msgid "Wutan"
+msgstr ""
+
+#. [unit]: type=Akladian Raider, id=Askarial
+#: A_New_Order/scenarios/ano-19c.cfg:708
+msgid "Askarial"
+msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:730
